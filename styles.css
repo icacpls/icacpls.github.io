@@ -1,0 +1,24 @@
+
+body {
+	color: #222222;
+	font-family: sans-serif;
+	font-size: 13px;
+}
+
+table {
+	border: 1px solid #e1e2e3;	
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid #e1e2e3;
+	font-size: 13px;
+	padding: 5px 8px;
+	text-align: left;
+	vertical-align: top;
+}
+
+td.amount,
+th.amount {
+	text-align: right;
+}

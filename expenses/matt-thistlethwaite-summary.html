@@ -15,12 +15,15 @@
 		<a href="matt-thistlethwaite-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>From 1 January 2017</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="3"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
@@ -94,10 +97,18 @@
 			<th class="amount">$69,476.27</th>
 			<th class="amount">$47,994.27</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/matt-thistlethwaite.csv">Expenses (CSV)</a> |
 		<a href="sql/matt-thistlethwaite.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

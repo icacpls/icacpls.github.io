@@ -15,11 +15,14 @@
 		<a href="bruce-scott-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="2"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
@@ -38,10 +41,18 @@
 			<th>Total Expenditure</th>
 			<th class="amount">$1,303.82</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/bruce-scott.csv">Expenses (CSV)</a> |
 		<a href="sql/bruce-scott.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

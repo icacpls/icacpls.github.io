@@ -15,11 +15,14 @@
 		<a href="peter-georgiou-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>From 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="2"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
@@ -38,10 +41,18 @@
 			<th>Total Expenditure</th>
 			<th class="amount">$256.78</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/peter-georgiou.csv">Expenses (CSV)</a> |
 		<a href="sql/peter-georgiou.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

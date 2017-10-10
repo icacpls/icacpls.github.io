@@ -1,13 +1,18 @@
 <html>
 <head>
-	<title>Expenses Q1 2017</title>
+	<meta charset="UTF-8">
+	<title>Australian Politicians - Expenses Q1 2017</title>
 	<link rel="stylesheet" href="styles.css">
+	<script type="text/javascript" src="tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="scripts.js"></script>
 </head>
 <body>
 	<h1>Expenses Q1 2017</h1>
 	<p>All data is sourced from the reports at <a href="http://www.ipea.gov.au/reporting/index.html">http://www.ipea.gov.au/reporting/index.html</a> and <a href="http://www.finance.gov.au/publications/parliamentarians-reporting/">http://www.finance.gov.au/publications/parliamentarians-reporting/</a>.
 	<p>Errors may have been introduced in transcription; you should verify figures using the original reports where possible.</p>
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>Name</th>
 			<th>Member Type</th>
@@ -18,6 +23,8 @@
 			<th>Expense Summary</th>
 			<th class="amount">Total Expenses</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Adam Bandt</td>
 			<td>Member</td>
@@ -2478,6 +2485,7 @@
 			<td><a href="expenses/zhenya-wang-summary.html">Expense Summary</a></td>
 			<td class="amount">$2,113.59</td>
 		</tr>
+	</tbody>
 	</table>
 	<p><a href="expenses/csv/all-expenses.csv">All Expenses (CSV)</a> | <a href="expenses/sql/all-expenses.sql">All Expenses (SQL)</a></p>
 </body>

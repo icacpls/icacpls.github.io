@@ -15,11 +15,14 @@
 		<a href="eric-hutchinson-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="2"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
@@ -31,10 +34,18 @@
 			<th>Total Expenditure</th>
 			<th class="amount">$516.00</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/eric-hutchinson.csv">Expenses (CSV)</a> |
 		<a href="sql/eric-hutchinson.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

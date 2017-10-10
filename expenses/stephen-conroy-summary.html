@@ -15,11 +15,14 @@
 		<a href="stephen-conroy-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="2"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
@@ -52,10 +55,18 @@
 			<th>Total Expenditure</th>
 			<th class="amount">$1,300.00</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/stephen-conroy.csv">Expenses (CSV)</a> |
 		<a href="sql/stephen-conroy.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

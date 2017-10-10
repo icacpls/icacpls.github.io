@@ -15,11 +15,14 @@
 		<a href="robert-simms-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="2"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
@@ -31,10 +34,18 @@
 			<th>Total Expenditure</th>
 			<th class="amount">-$2,200.00</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/robert-simms.csv">Expenses (CSV)</a> |
 		<a href="sql/robert-simms.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

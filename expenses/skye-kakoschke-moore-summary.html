@@ -15,12 +15,15 @@
 		<a href="skye-kakoschke-moore-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>From 1 January 2017</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="3"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
@@ -84,10 +87,18 @@
 			<th class="amount">$40,074.81</th>
 			<th class="amount">$8,977.91</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/skye-kakoschke-moore.csv">Expenses (CSV)</a> |
 		<a href="sql/skye-kakoschke-moore.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

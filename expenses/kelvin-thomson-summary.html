@@ -15,11 +15,14 @@
 		<a href="kelvin-thomson-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="2"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
@@ -38,10 +41,18 @@
 			<th>Total Expenditure</th>
 			<th class="amount">-$869.73</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/kelvin-thomson.csv">Expenses (CSV)</a> |
 		<a href="sql/kelvin-thomson.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

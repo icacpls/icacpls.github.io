@@ -15,12 +15,15 @@
 		<a href="andrew-laming-details.html">Details</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
 			<th>&nbsp;</th>
 			<th>From 1 January 2017</th>
 			<th>Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<th colspan="3"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
@@ -125,10 +128,18 @@
 			<th class="amount">$38,229.36</th>
 			<th class="amount">$11,965.98</th>
 		</tr>
+	</tbody>
 	</table>
 	<p>
 		<a href="csv/andrew-laming.csv">Expenses (CSV)</a> |
 		<a href="sql/andrew-laming.sql">Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

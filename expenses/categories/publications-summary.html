@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="UTF-8">
 	<title>Publications | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Publications</h1>
@@ -9,12 +13,19 @@
 		<a href="../../index.html">Home</a>
 	</p>
 
-	<table>
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<th colspan="5">&nbsp;</th>
-			<th>From 1 January 2017</th>
-			<th>Before 1 January 2017</th>
+			<th>Name</th>
+			<th>Member Type</th>
+			<th>Electorate</th>
+			<th>State</th>
+			<th>Party</th>
+			<th class="amount">From 1 January 2017</th>
+			<th class="amount">Before 1 January 2017</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td><a href="../adam-bandt-details.html">Adam Bandt</a></td>
 			<td>Member</td>
@@ -1617,6 +1628,7 @@
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,060.54</td>
 		</tr>
+	</tbody>
 	</table>
 </body>
 </html>

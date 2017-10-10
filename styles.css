@@ -18,10 +18,6 @@ th, td {
 	vertical-align: top;
 }
 
-th {
-	padding-right: 20px;
-}
-
 td.amount,
 th.amount {
 	text-align: right;
@@ -37,6 +33,7 @@ table.tablesorter thead tr .header {
 	background-repeat: no-repeat;
 	background-position: center right;
 	cursor: pointer;
+	padding-right: 20px;
 }
 table.tablesorter tbody td {
 }

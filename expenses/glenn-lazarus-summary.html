@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Glenn Lazarus | Expenses</title>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Glenn Lazarus</h1>
+	<img src="../mugshots/glenn-lazarus.jpg">
+	<p>Senator</p>
+	<p>Queensland</p>
+	<p>Palmer United Party</p>
+
+	<p>
+		<a href="../index.html">Home</a> |
+		<a href="glenn-lazarus-details.html">Details</a>
+	</p>
+
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="amount">Total Expenses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Total Expenditure</th>
+			<th class="amount">$0.00</th>
+		</tr>
+	</tbody>
+	</table>
+	<p>
+		<a href="csv/glenn-lazarus.csv">Expenses (CSV)</a> |
+		<a href="sql/glenn-lazarus.sql">Expenses (SQL)</a>
+	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</body>
+</html>

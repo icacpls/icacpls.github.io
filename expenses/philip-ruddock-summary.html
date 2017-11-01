@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Philip Ruddock | Expenses</title>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Philip Ruddock</h1>
+	<img src="../mugshots/philip-ruddock.jpg">
+	<p>Member</p>
+	<p>Berowra, New South Wales</p>
+	<p>Liberal Party of Australia</p>
+
+	<p>
+		<a href="../index.html">Home</a> |
+		<a href="philip-ruddock-details.html">Details</a>
+	</p>
+
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="amount">Total Expenses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Total Expenditure</th>
+			<th class="amount">$0.00</th>
+		</tr>
+	</tbody>
+	</table>
+	<p>
+		<a href="csv/philip-ruddock.csv">Expenses (CSV)</a> |
+		<a href="sql/philip-ruddock.sql">Expenses (SQL)</a>
+	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</body>
+</html>

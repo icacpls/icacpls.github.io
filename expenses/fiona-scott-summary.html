@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Fiona Scott | Expenses</title>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Fiona Scott</h1>
+	<img src="../mugshots/fiona-scott.jpg">
+	<p>Member</p>
+	<p>Lindsay, New South Wales</p>
+	<p>Liberal Party of Australia</p>
+
+	<p>
+		<a href="../index.html">Home</a> |
+		<a href="fiona-scott-details.html">Details</a>
+	</p>
+
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="amount">Total Expenses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Total Expenditure</th>
+			<th class="amount">$0.00</th>
+		</tr>
+	</tbody>
+	</table>
+	<p>
+		<a href="csv/fiona-scott.csv">Expenses (CSV)</a> |
+		<a href="sql/fiona-scott.sql">Expenses (SQL)</a>
+	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</body>
+</html>

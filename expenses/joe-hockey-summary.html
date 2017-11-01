@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Joe Hockey | Expenses</title>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Joe Hockey</h1>
+	<img src="../mugshots/joe-hockey.jpg">
+	<p>Member</p>
+	<p>North Sydney, New South Wales</p>
+	<p>Liberal Party of Australia</p>
+
+	<p>
+		<a href="../index.html">Home</a> |
+		<a href="joe-hockey-details.html">Details</a>
+	</p>
+
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="amount">Total Expenses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Total Expenditure</th>
+			<th class="amount">$0.00</th>
+		</tr>
+	</tbody>
+	</table>
+	<p>
+		<a href="csv/joe-hockey.csv">Expenses (CSV)</a> |
+		<a href="sql/joe-hockey.sql">Expenses (SQL)</a>
+	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</body>
+</html>

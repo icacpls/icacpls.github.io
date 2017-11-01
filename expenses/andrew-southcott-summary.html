@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Andrew Southcott | Expenses</title>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Andrew Southcott</h1>
+	<img src="../mugshots/andrew-southcott.jpg">
+	<p>Member</p>
+	<p>Boothby, South Australia</p>
+	<p>Liberal Party of Australia</p>
+
+	<p>
+		<a href="../index.html">Home</a> |
+		<a href="andrew-southcott-details.html">Details</a>
+	</p>
+
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="amount">Total Expenses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Total Expenditure</th>
+			<th class="amount">$0.00</th>
+		</tr>
+	</tbody>
+	</table>
+	<p>
+		<a href="csv/andrew-southcott.csv">Expenses (CSV)</a> |
+		<a href="sql/andrew-southcott.sql">Expenses (SQL)</a>
+	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</body>
+</html>

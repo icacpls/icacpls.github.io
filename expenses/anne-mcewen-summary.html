@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Anne McEwen | Expenses</title>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Anne McEwen</h1>
+	<img src="../mugshots/anne-mcewen.jpg">
+	<p>Senator</p>
+	<p>South Australia</p>
+	<p>Australian Labor Party</p>
+
+	<p>
+		<a href="../index.html">Home</a> |
+		<a href="anne-mcewen-details.html">Details</a>
+	</p>
+
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="amount">Total Expenses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Total Expenditure</th>
+			<th class="amount">$0.00</th>
+		</tr>
+	</tbody>
+	</table>
+	<p>
+		<a href="csv/anne-mcewen.csv">Expenses (CSV)</a> |
+		<a href="sql/anne-mcewen.sql">Expenses (SQL)</a>
+	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</body>
+</html>

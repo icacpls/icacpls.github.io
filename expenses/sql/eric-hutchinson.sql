@@ -1,4 +1,4 @@
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Eric Hutchinson', 'Member', 'Lyons', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Bicheno', 'Electorate Business', 1, 258.00, 258.00, '20-Jun-2016');
+VALUES ('Eric Hutchinson', 'Representative', 'Lyons', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Bicheno', 'Electorate Business', 1, 258.00, 258.00, '20-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Eric Hutchinson', 'Member', 'Lyons', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Port Arthur', 'Electorate Business', 1, 258.00, 258.00, '21-Jun-2016');
+VALUES ('Eric Hutchinson', 'Representative', 'Lyons', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Port Arthur', 'Electorate Business', 1, 258.00, 258.00, '21-Jun-2016');

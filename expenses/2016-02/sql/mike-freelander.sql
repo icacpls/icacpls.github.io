@@ -45,7 +45,7 @@ VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Au
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'Private Vehicle Allowance', 'From 1 July 2016', '', '', '', 'Canberra to Wombarra 2 Dec 16', 0, 0, 0, 178.20, '02-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
-VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 92917.32, '01-Jan-1900');
+VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 92917.32, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 4.54, '27-Aug-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
@@ -85,7 +85,7 @@ VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Au
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Printing 26 Sep 16', 0, 0, 0, 600.00, '26-Sep-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
-VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jan-1900');
+VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Mike Freelander', 'Representative', 'Macarthur', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Printing 9 Nov 16', 0, 0, 0, 250.00, '09-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)

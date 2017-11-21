@@ -495,9 +495,9 @@ VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2016', '', '', '', '16 Jun 16', 0, 0, 0, 53.33, '16-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 57011.96, '01-Jan-1900', '');
+VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 57011.96, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2515.38, '01-Jan-1900', '');
+VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2515.38, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Claire Moore', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 935.15, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

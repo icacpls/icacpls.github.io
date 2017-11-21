@@ -123,9 +123,9 @@ VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Pa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '26 Mar 17 - Adelaide', 0, 0, 78.60, '26-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 12607.85, '01-Jan-1900', '');
+VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 12607.85, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3514.81, '01-Jan-1900', '');
+VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3514.81, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alex Gallacher', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 13 Jan 17', 0, 0, 15.98, '13-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

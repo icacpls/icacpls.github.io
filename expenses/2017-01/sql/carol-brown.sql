@@ -79,9 +79,9 @@ VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '17 Feb 17', 0, 0, 83.45, '17-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 24338.82, '01-Jan-1900', '');
+VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 24338.82, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 225.00, '01-Jan-1900', '');
+VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 225.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 1 Jan to 31 Jan 17', 0, 0, 21.66, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

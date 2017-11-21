@@ -183,9 +183,9 @@ VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Car 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 11 Sep and 16 Sep 16', 0, 0, 0, 54.55, '16-Sep-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 51189.05, '01-Jan-1900', '', '');
+VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 51189.05, '01-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2905.49, '01-Jan-1900', '', '');
+VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2905.49, '01-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 14 Jul 16', 0, 0, 0, 22.00, '14-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
@@ -241,7 +241,7 @@ VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Offi
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Jun to 23 Jul 16', 0, 0, 0, 5.43, '23-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Jul 16', 0, 0, 0, 15.00, '01-Jan-1900', '', '');
+VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Jul 16', 0, 0, 0, 15.00, '01-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Jul to 31 Jul 16', 0, 0, 0, 2.68, '31-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
@@ -541,4 +541,4 @@ VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Fami
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Family Travel Costs', 'Family Traveller Domestic Scheduled Fares', 'From 1 July 2016', '', '', '', '2 Dec 16 - Sydney to Wellcamp', 0, 0, 0, 0, '02-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, -6066.76, '01-Jan-1900', '', 'OS Delegation - Fares');
+VALUES ('Barry O''Sullivan', 'Senator', '', 'Queensland', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, -6066.76, '01-Jul-2016', '', 'OS Delegation - Fares');

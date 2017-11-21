@@ -29,9 +29,9 @@ VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal P
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private Vehicle Allowance', 'From 1 January 2017', '', '', '', 'Canberra to Sydney 8 Mar 17', 0, 0, 92.84, '08-Mar-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 25134.27, '01-Jan-1900');
+VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 25134.27, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 799.51, '01-Jan-1900');
+VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 799.51, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 17', 0, 0, 236.19, '27-Feb-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
@@ -57,7 +57,7 @@ VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal P
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'MFD Colour copy charge 28 Dec 16 to 27 Jan 17', 0, 0, 423.99, '28-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Feb 17', 0, 0, 15.00, '01-Jan-1900');
+VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Feb 17', 0, 0, 15.00, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution credit 1 Feb to 28 Feb 17', 0, 0, -45.45, '28-Feb-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
@@ -73,7 +73,7 @@ VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal P
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1,850 Printed items 30 Nov 16', 0, 0, 1350.00, '30-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900');
+VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Craig Kelly', 'Representative', 'Hughes', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution credit 1 Dec to 31 Dec 16', 0, 0, -45.45, '31-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)

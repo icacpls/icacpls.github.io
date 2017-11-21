@@ -125,7 +125,7 @@ VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 July 2016', '', '', '', '2 Dec 16', 0, 0, 0, 30.60, '02-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 118644.83, '01-Jan-1900', '');
+VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 118644.83, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 9.07, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -177,7 +177,7 @@ VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Oct to 31 Oct 16', 0, 0, 0, 8586.85, '31-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Aly', 'Representative', 'Cowan', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Printing 4 Oct 16', 0, 0, 0, 4707.00, '04-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

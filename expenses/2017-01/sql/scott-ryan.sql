@@ -189,9 +189,9 @@ VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '30 Mar 17 - Melbourne', 0, 0, 44.20, '30-Mar-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
-VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 41833.38, '01-Jan-1900', '', '');
+VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 41833.38, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
-VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 6752.29, '01-Jan-1900', '', '');
+VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 6752.29, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'MFD Monochrome copy charge 28 Jan to 27 Feb 17', 0, 0, 0.17, '27-Feb-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
@@ -233,4 +233,4 @@ VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Telecommunications', 'Telecommunications - Usage', 'Before 1 January 2017', '', '', '', 'Office fax 26 Dec 16', 0, 0, 32.14, '26-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
-VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Overseas Travel', 'Overseas Travel', 'Before 1 January 2017', '', '', '', '', 0, 0, 11630.58, '01-Jan-1900', '', 'OS Ministerial - Fares');
+VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Overseas Travel', 'Overseas Travel', 'Before 1 January 2017', '', '', '', '', 0, 0, 11630.58, '01-Jan-2017', '', 'OS Ministerial - Fares');

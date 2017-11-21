@@ -15,9 +15,9 @@ VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Car Costs', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Car Costs', 'COMCAR', 'Before 1 July 2016', '4 Jun 16 - Melbourne', 209.60, '', '04-Jun-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 973.88, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 973.88, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2306.59, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2306.59, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'Po Box 239 rental credit 1 Jul 16', -27.73, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
@@ -27,7 +27,7 @@ VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Admini
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'e-material 30 Apr to 22 May 16', 251.00, '', '22-May-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('John Madigan', 'Senator', '', 'Victoria', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'e-material 4 May to 11 May 16', 248.45, '', '11-May-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)

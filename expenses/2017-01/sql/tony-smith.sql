@@ -189,9 +189,9 @@ VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of A
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '30 Mar 17 - Canberra', 0, 0, 78.60, '30-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 53033.04, '01-Jan-1900', '');
+VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 53033.04, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1917.94, '01-Jan-1900', '');
+VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1917.94, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 665.25, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -227,7 +227,7 @@ VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of A
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Jan to 31 Jan 17', 0, 0, 1571.82, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tony Smith', 'Representative', 'Casey', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution credit 1 Jan to 31 Jan 17', 0, 0, -22.73, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

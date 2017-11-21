@@ -5,9 +5,9 @@ VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
 VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', 'Lease 11 Jun to 10 Jul 16', 909.85, '10-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
-VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 725.54, '01-Jan-1900', '');
+VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 725.54, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
-VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3184.85, '01-Jan-1900', '');
+VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3184.85, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
 VALUES ('David Johnston', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', 'Office requisites and stationery 1 Jul 16', 41.79, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)

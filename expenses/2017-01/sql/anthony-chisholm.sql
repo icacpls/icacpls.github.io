@@ -13,43 +13,43 @@ VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '31 Jan 17 - Brisbane to Newcastle', 0, 0, 0, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 270.88, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 270.88, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '5 Feb 17 - Brisbane to Canberra', 0, 0, 0, '05-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 728.50, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 728.50, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '9 Feb 17 - Canberra to Brisbane', 0, 0, 0, '09-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 728.50, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 728.50, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '12 Feb 17 - Brisbane to Canberra', 0, 0, 0, '12-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 739.64, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 739.64, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '17 Feb 17 - Canberra to Brisbane', 0, 0, 0, '17-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 739.64, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 739.64, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '26 Feb 17 - Brisbane to Canberra', 0, 0, 0, '26-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 839.17, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 839.17, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '2 Mar 17 - Canberra to Brisbane', 0, 0, 0, '02-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 529.64, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 529.64, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '6 Mar 17 - Brisbane to Melbourne', 0, 0, 0, '06-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 622.50, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 622.50, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '7 Mar 17 - Melbourne to Brisbane', 0, 0, 0, '07-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 500.32, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 500.32, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '23 Mar 17 - Canberra to Sydney', 0, 0, 0, '23-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 750.42, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '', 0, 0, 750.42, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '23 Mar 17 - Sydney to Coolangatta', 0, 0, 0, '23-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -99,7 +99,7 @@ VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '26 Mar 17 - Brisbane', 0, 0, 78.60, '26-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 18050.49, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 18050.49, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 722.70, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -119,9 +119,9 @@ VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 7 Mar 17', 0, 0, 1.14, '07-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 933.64, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 933.64, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 1500.00, '01-Jan-1900', '');
+VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 1500.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anthony Chisholm', 'Senator', '', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'MFD Monochrome copy charge 28 Nov to 27 Dec 16', 0, 0, 1.21, '27-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

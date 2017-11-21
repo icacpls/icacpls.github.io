@@ -99,7 +99,7 @@ VALUES ('Emma McBride', 'Representative', 'Dobell', 'New South Wales', 'Australi
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Emma McBride', 'Representative', 'Dobell', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 July 2016', '', '', '', '27 Nov 16 - Canberra', 0, 0, 0, 80.40, '27-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Emma McBride', 'Representative', 'Dobell', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 45124.77, '01-Jan-1900', '');
+VALUES ('Emma McBride', 'Representative', 'Dobell', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 45124.77, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Emma McBride', 'Representative', 'Dobell', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Aug to 31 Aug 16', 0, 0, 0, 166.81, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

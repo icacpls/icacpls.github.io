@@ -11,4 +11,4 @@ VALUES ('Ian Macfarlane', 'Representative', 'Groom', 'Queensland', 'Liberal Part
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Ian Macfarlane', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '29 Jun 16 - Perth to Brisbane', 2083.77, '', '29-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Ian Macfarlane', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 4111.92, '', '01-Jan-1900');
+VALUES ('Ian Macfarlane', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 4111.92, '', '01-Jul-2016');

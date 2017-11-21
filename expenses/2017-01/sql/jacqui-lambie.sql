@@ -129,9 +129,9 @@ VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Ca
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '15 Dec 16', 0, 0, 41.98, '15-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 15885.02, '01-Jan-1900', '');
+VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 15885.02, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1584.04, '01-Jan-1900', '');
+VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1584.04, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 328.13, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

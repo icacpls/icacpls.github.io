@@ -403,9 +403,9 @@ VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 6 Oct and 9 Oct 16', 0, 0, 0, 58.18, '09-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 40857.57, '01-Jan-1900', '');
+VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 40857.57, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3446.85, '01-Jan-1900', '');
+VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3446.85, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 965.53, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -435,7 +435,7 @@ VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 7 Sep 16', 0, 0, 0, 24.00, '07-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 1909.09, '01-Jan-1900', '');
+VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 1909.09, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('David Bushby', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 21 Sep 16', 0, 0, 0, 8.00, '21-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

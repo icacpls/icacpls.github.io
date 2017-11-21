@@ -11,17 +11,17 @@ VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Travel
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Cocos (Keeling)', 'Minister - Official Business', 1, 462.00, 462.00, '07-Mar-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Islands', '', 0, 0, 0, '01-Jan-1900', '', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Islands', '', 0, 0, 0, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Canberra', 'Minister - Official Business', 3, 276.00, 828.00, '13-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 1290.00, '01-Jan-1900', 'OS Ministerial - Equipment allowance', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 1290.00, '01-Jan-2017', 'OS Ministerial - Equipment allowance', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 189.00, '01-Jan-1900', 'OS Ministerial - Minor official expense advance', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 189.00, '01-Jan-2017', 'OS Ministerial - Minor official expense advance', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 955.00, '01-Jan-1900', 'OS Ministerial - Passport costs', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 955.00, '01-Jan-2017', 'OS Ministerial - Passport costs', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 136.60, '01-Jan-1900', 'OS Ministerial - Travel advance', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 136.60, '01-Jan-2017', 'OS Ministerial - Travel advance', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '3 Feb 17 - Canberra to Sydney', 0, 0, 121.30, '03-Feb-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
@@ -125,9 +125,9 @@ VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Car Co
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Car Costs', 'Other Car Costs', 'Before 1 January 2017', '', '', '', 'Mackay 22 Apr 16', 0, 0, -183.81, '22-Apr-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 67951.06, '01-Jan-1900', '', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 67951.06, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 4668.13, '01-Jan-1900', '', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 4668.13, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 68.99, '31-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
@@ -161,7 +161,7 @@ VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'MFD Colour copy charge 24 Dec 16 to 23 Jan 17', 0, 0, 17.42, '24-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '', '');
+VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('Fiona Nash', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', '1 Printed item 17 Jan 17', 0, 0, 181.82, '17-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)

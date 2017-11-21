@@ -5,11 +5,11 @@ VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'T
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Sydney', 'Chair Parl Committee on Committee', 1, 397.00, 0, 397.00, '17-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Melbourne', 'Chair Parl Committee on Committee', 1, 379.00, 0, 379.00, '18-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Canberra', 'Sittings of Parliament', 5, 273.00, 0, 1365.00, '21-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -273,9 +273,9 @@ VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'C
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car Costs', 'Parking', 'Before 1 January 2016', '', '', '', 'Parking between 7 Dec and 9 Dec 15', 0, 0, 0, 13.09, '09-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 25960.97, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 25960.97, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 6345.00, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 6345.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 2330.12, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -333,7 +333,7 @@ VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'O
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Water refills 1 Nov to 30 Nov 15', 0, 0, 0, 23.00, '30-Nov-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 924.55, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 924.55, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Colour copy charge 24 Nov to 23 Dec 15', 0, 0, 0, 182.72, '23-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

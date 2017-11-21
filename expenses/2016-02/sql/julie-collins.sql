@@ -273,9 +273,9 @@ VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 July 2016', '', '', '', '22 Jun 16 - Hobart', 0, 0, 0, 40.00, '22-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52935.56, '01-Jan-1900', '');
+VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52935.56, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2063.52, '01-Jan-1900', '');
+VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2063.52, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Julie Collins', 'Representative', 'Franklin', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 1 Jul to 31 Jul 16', 0, 0, 0, 21.66, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

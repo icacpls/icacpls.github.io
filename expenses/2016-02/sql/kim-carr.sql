@@ -339,9 +339,9 @@ VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Car Co
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 July 2016', '', '', '', '23 Jun 16 - Hobart', 0, 0, 0, 712.50, '23-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 38806.87, '01-Jan-1900', '');
+VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 38806.87, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1212.06, '01-Jan-1900', '');
+VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1212.06, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Kim Carr', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 167.56, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

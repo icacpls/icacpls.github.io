@@ -353,9 +353,9 @@ VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Ca
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Ceduna 26 Sep to 27 Sep 16', 0, 0, 0, 191.61, '27-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 32673.93, '01-Jan-1900', '');
+VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 32673.93, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1053.87, '01-Jan-1900', '');
+VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1053.87, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 469.18, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -409,7 +409,7 @@ VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Of
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution credit 1 Aug to 31 Aug 16', 0, 0, 0, -6.82, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Aug 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Aug 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacqui Lambie', 'Senator', '', 'Tasmania', 'Jacqui Lambie Network', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', '1 Printed item 5 Aug 16', 0, 0, 0, 350.00, '05-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

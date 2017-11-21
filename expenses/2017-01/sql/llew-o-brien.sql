@@ -93,9 +93,9 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '12 Feb 17', 0, 0, 26.38, '12-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 19670.74, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 19670.74, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2865.50, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2865.50, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 154.95, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

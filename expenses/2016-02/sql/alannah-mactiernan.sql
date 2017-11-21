@@ -15,7 +15,7 @@ VALUES ('Alannah MacTiernan', 'Representative', 'Perth', 'Western Australia', 'A
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Alannah MacTiernan', 'Representative', 'Perth', 'Western Australia', 'Australian Labor Party', 'Charter', 'SMOS Approved', 'Before 1 July 2016', 'Broome 11 Jun 15', 122.73, '', '11-Jun-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Alannah MacTiernan', 'Representative', 'Perth', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 135.16, '', '01-Jan-1900');
+VALUES ('Alannah MacTiernan', 'Representative', 'Perth', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 135.16, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Alannah MacTiernan', 'Representative', 'Perth', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Refund of printed items 30 Sep 15', -100.00, '', '30-Sep-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

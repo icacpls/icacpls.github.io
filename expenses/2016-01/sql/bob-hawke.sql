@@ -89,9 +89,9 @@ VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Pa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 January 2016', '21 Dec 15 - Adelaide', 157.20, '', '21-Dec-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 61860.96, '', '01-Jan-1900');
+VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 61860.96, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', 'Aggregated Total', 279.64, '', '01-Jan-1900');
+VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', 'Aggregated Total', 279.64, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Bob Hawke', 'Representative', 'Wills', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution 1 Feb to 29 Feb 16', 13.64, '', '29-Feb-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

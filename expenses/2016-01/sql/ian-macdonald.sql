@@ -373,9 +373,9 @@ VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australi
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'Before 1 January 2016', '', '', '', 'Canberra 16 Oct to 19 Oct 15', 0, 0, 0, 270.71, '19-Oct-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 48583.75, '01-Jan-1900', '');
+VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 48583.75, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 5441.54, '01-Jan-1900', '');
+VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 5441.54, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Ian Macdonald', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Portable and attractive items adj 1 Jan to 31 Jan 16', 0, 0, 0, -258.49, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

@@ -269,9 +269,9 @@ VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Car Costs
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'Before 1 July 2016', '', '', '', 'Launceston to Hobart 21 May to 22 May 16', 0, 0, 0, 70.83, '22-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 62775.09, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 62775.09, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4577.65, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4577.65, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 24 Jul to 23 Aug 16', 0, 0, 0, 96.45, '23-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

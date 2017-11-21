@@ -191,9 +191,9 @@ VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Car Costs', 'Cabcharge', 'From 1 July 2016', '', '', '', '9 Oct 16', 0, 0, 0, 99.40, '09-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 61171.74, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 61171.74, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 827.17, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 827.17, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 229.30, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

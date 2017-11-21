@@ -197,9 +197,9 @@ VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 July 2016', '', '', '', '25 Nov 16', 0, 0, 0, 40.19, '25-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 55502.27, '01-Jan-1900', '');
+VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 55502.27, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3620.00, '01-Jan-1900', '');
+VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3620.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 757.70, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -223,7 +223,7 @@ VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Oct to 27 Nov 16', 0, 0, 0, 318.84, '27-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 924.55, '01-Jan-1900', '');
+VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 924.55, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Office requisites and stationery 1 May to 31 May 16', 0, 0, 0, 550.97, '31-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -239,7 +239,7 @@ VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Jul to 31 Jul 16', 0, 0, 0, 363.64, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Jul 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Jul 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution credit 1 Jul to 31 Jul 16', 0, 0, 0, -9.09, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -249,7 +249,7 @@ VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', 'Distribution 1 Jun to 30 Jun 16', 0, 0, 0, 14150.50, '30-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', 'Distribution late payment fee credit Jun 16', 0, 0, 0, -15.00, '01-Jan-1900', '');
+VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', 'Distribution late payment fee credit Jun 16', 0, 0, 0, -15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Gavin Marshall', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '53,000 Printed items 7 Jun 16', 0, 0, 0, 2430.00, '07-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

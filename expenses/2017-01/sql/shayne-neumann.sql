@@ -155,9 +155,9 @@ VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '22 Jan 17', 0, 0, 26.24, '22-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 27827.02, '01-Jan-1900', '');
+VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 27827.02, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1273.09, '01-Jan-1900', '');
+VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1273.09, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 178.77, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -227,7 +227,7 @@ VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1 Printed item 27 Oct 16', 0, 0, 180.91, '27-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1 Printed item 2 Nov 16', 0, 0, 130.00, '02-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -241,7 +241,7 @@ VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Dec to 31 Dec 16', 0, 0, 3636.36, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Shayne Neumann', 'Representative', 'Blair', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1 Printed item 3 Dec 16', 0, 0, 361.82, '03-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

@@ -187,7 +187,7 @@ VALUES ('Julia Banks', 'Representative', 'Chisholm', 'Victoria', 'Liberal Party 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Julia Banks', 'Representative', 'Chisholm', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 18 Jul 16', 0, 0, 0, 25.23, '18-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Julia Banks', 'Representative', 'Chisholm', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 22189.23, '01-Jan-1900', '');
+VALUES ('Julia Banks', 'Representative', 'Chisholm', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 22189.23, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Julia Banks', 'Representative', 'Chisholm', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Aug to 31 Aug 16', 0, 0, 0, 502.28, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

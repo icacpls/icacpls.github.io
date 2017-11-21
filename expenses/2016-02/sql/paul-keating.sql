@@ -53,9 +53,9 @@ VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Austra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 July 2016', '25 Nov 16 - Melbourne', 40.00, '', '25-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 59034.44, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 59034.44, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2604.07, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2604.07, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', 'Office requisites and stationery 1 Jul to 31 Jul 16', 66.09, '', '31-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -95,7 +95,7 @@ VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Austra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution 1 Sep to 30 Sep 16', 56.02, '', '30-Sep-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution late payment fee Sep 16', 15.00, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution late payment fee Sep 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 July 2016', '260 Financial Times and 52 FT Weekend 28 Aug 16 to 26 Aug 17', 3290.91, '', '28-Aug-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

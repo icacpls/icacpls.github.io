@@ -151,7 +151,7 @@ VALUES ('Chris Crewther', 'Representative', 'Dunkley', 'Victoria', 'Liberal Part
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Chris Crewther', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 18 Jul 16', 0, 0, 0, 152.92, '18-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Chris Crewther', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 42718.10, '01-Jan-1900', '');
+VALUES ('Chris Crewther', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 42718.10, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Chris Crewther', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Aug to 31 Aug 16', 0, 0, 0, 1866.67, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

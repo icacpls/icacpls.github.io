@@ -11,4 +11,4 @@ VALUES ('Andrew Southcott', 'Representative', 'Boothby', 'South Australia', 'Lib
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Andrew Southcott', 'Representative', 'Boothby', 'South Australia', 'Liberal Party of Australia', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '30 Nov 16 - Sydney to Adelaide', 0, '', '30-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Andrew Southcott', 'Representative', 'Boothby', 'South Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1638.03, '', '01-Jan-1900');
+VALUES ('Andrew Southcott', 'Representative', 'Boothby', 'South Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1638.03, '', '01-Jul-2016');

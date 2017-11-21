@@ -233,13 +233,13 @@ VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 July 2016', '', '', '', '15 Nov 16', 0, 0, 0, 77.70, '15-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 47399.96, '01-Jan-1900', '');
+VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 47399.96, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1566.47, '01-Jan-1900', '');
+VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1566.47, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 1 Jul to 31 Jul 16', 0, 0, 0, 21.66, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 1500.00, '01-Jan-1900', '');
+VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 1500.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Carol Brown', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 21 Jul 16', 0, 0, 0, 16.00, '21-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

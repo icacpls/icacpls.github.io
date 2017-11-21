@@ -11,9 +11,9 @@ VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labo
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Queenstown', 'Parliamentary Political Party Meeting', -1, 572.00, -572.00, '11-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '30 Jan 17 - Melbourne to Newcastle', 0, 0, 515.22, '30-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -71,9 +71,9 @@ VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labo
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Other Car Costs', 'From 1 January 2017', '', '', '', 'Taxi 30 Jan 17', 0, 0, 60.14, '30-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 46784.50, '01-Jan-1900', '');
+VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 46784.50, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 12242.13, '01-Jan-1900', '');
+VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 12242.13, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 278.38, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -109,7 +109,7 @@ VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labo
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution credit 1 Jan to 31 Jan 17', 0, 0, -113.64, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rob Mitchell', 'Representative', 'McEwen', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', '1 Printed item 4 Jan 17', 0, 0, 163.64, '04-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

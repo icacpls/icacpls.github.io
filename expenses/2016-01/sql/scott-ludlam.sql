@@ -33,7 +33,7 @@ VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Canberra', 'Sittings of Parliament', 5, 273.00, 0, 1365.00, '01-May-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2016', '', '', '', '', 0, 0, 0, 170.00, '01-Jan-1900', 'OS Delegation - Fares', '');
+VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2016', '', '', '', '', 0, 0, 0, 170.00, '01-Jan-2016', 'OS Delegation - Fares', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2016', '', '', '', '18 Jan 16 - Perth to Melbourne', 0, 0, 0, 1844.22, '18-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
@@ -271,9 +271,9 @@ VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'Before 1 January 2016', '', '', '', 'Broome 2 Nov to 3 Nov 15', 0, 0, 0, 100.96, '03-Nov-2015', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 67460.97, '01-Jan-1900', '', '');
+VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 67460.97, '01-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 6117.75, '01-Jan-1900', '', '');
+VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 6117.75, '01-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 0, 0, 0, 462.23, '27-Feb-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)

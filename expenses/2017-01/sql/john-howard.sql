@@ -79,9 +79,9 @@ VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Libera
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'Before 1 January 2017', '30 Mar 15 - Melbourne', -45.13, '', '30-Mar-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 58432.15, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 58432.15, '', '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 981.30, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 981.30, '', '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', 'Office requisites and stationery 1 Jan to 31 Jan 17', 111.90, '', '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

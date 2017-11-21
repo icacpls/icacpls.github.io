@@ -1,7 +1,7 @@
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Musselroe Bay', 'Shadow Parliamentary Secretary - Official', 1, 258.00, 0, 258.00, '20-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Launceston', 'Electorate Business', 1, 283.00, 0, 283.00, '21-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -25,7 +25,7 @@ VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Trav
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Melbourne', 'Shadow Parliamentary Secretary - Official', 1, 379.00, 0, 379.00, '21-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Canberra', 'Sittings of Parliament', 5, 273.00, 0, 1365.00, '01-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -265,9 +265,9 @@ VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'Before 1 January 2016', '', '', '', '10 Dec 15', 0, 0, 0, 10.84, '10-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 48826.61, '01-Jan-1900', '');
+VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 48826.61, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1977.10, '01-Jan-1900', '');
+VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1977.10, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Water refills 1 Jan to 31 Jan 16', 0, 0, 0, 21.66, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -355,7 +355,7 @@ VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Offi
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Monochrome copy charge 24 Dec 15 to 23 Jan 16', 0, 0, 0, 2.61, '24-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lisa Singh', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution 1 Feb to 29 Feb 16', 0, 0, 0, 9.73, '29-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

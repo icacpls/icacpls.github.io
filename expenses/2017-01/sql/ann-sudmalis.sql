@@ -9,7 +9,7 @@ VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'From 1 January 2017', 'Lease 19 Feb to 18 Mar 17', 1771.33, '18-Mar-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'From 1 January 2017', 'Deduction of Personal Contribution for Private-Plated Vehicle', -96.60, '01-Jan-1900');
+VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'From 1 January 2017', 'Deduction of Personal Contribution for Private-Plated Vehicle', -96.60, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 January 2017', 'Fuel 6 Oct to 27 Nov 16', 335.94, '27-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
@@ -27,9 +27,9 @@ VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 January 2017', 'Lease 19 Dec 16 to 18 Jan 17', 490.95, '19-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 20035.63, '01-Jan-1900');
+VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 20035.63, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 3193.71, '01-Jan-1900');
+VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 3193.71, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Ann Sudmalis', 'Representative', 'Gilmore', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', 'Office requisites and stationery 1 Jan to 31 Jan 17', 525.70, '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

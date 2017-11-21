@@ -307,9 +307,9 @@ VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nationals', 'Car Costs', 'COMCAR', 'Before 1 January 2017', '', '', '', '31 Dec 16 - Sydney', 0, 0, 82.40, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 35976.74, '01-Jan-1900', '');
+VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 35976.74, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 4317.78, '01-Jan-1900', '');
+VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 4317.78, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Darren Chester', 'Representative', 'Gippsland', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Flags 1 Jan to 31 Jan 17', 0, 0, 433.20, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

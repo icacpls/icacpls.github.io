@@ -75,9 +75,9 @@ VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Lab
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 January 2017', '', '', '', '2 Nov 16 - Sydney', 0, 0, 40.00, '02-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 18274.96, '01-Jan-1900', '');
+VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 18274.96, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 4662.77, '01-Jan-1900', '');
+VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 4662.77, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 17', 0, 0, 144.33, '27-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -99,7 +99,7 @@ VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Lab
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Jan to 31 Jan 17', 0, 0, 10.64, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'e-material 30 Jan 17', 0, 0, 431.62, '30-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -123,7 +123,7 @@ VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Lab
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Nov to 30 Nov 16', 0, 0, 2156.01, '30-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Watts', 'Representative', 'Gellibrand', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '500 Printed items 9 Nov 16', 0, 0, 190.00, '09-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

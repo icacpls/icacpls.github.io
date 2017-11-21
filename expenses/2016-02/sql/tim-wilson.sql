@@ -221,7 +221,7 @@ VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 17 Aug 16', 0, 0, 0, 7.97, '17-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 67202.24, '01-Jan-1900', '');
+VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 67202.24, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 385.88, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

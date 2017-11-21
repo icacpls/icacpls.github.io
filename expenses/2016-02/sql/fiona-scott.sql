@@ -11,9 +11,9 @@ VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', 'Lease 10 Jun to 9 Jul 16', 1180.30, '09-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 995.47, '01-Jan-1900');
+VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 995.47, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1117.81, '01-Jan-1900');
+VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1117.81, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Fiona Scott', 'Representative', 'Lindsay', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '1 Printed item 1 Jul 16', 25.00, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

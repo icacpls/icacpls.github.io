@@ -93,7 +93,7 @@ VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s On
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Fuel charge 16 Sep 16', 0, 0, 0, 40.91, '16-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 29757.63, '01-Jan-1900', '');
+VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 29757.63, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Aug to 27 Sep 16', 0, 0, 0, 2.96, '27-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

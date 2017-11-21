@@ -67,9 +67,9 @@ VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Alice Springs 30 Sep to 2 Oct 16', 0, 0, 0, 153.97, '02-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 70824.81, '01-Jan-1900', '');
+VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 70824.81, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2694.15, '01-Jan-1900', '');
+VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2694.15, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 7.58, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -111,7 +111,7 @@ VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'e-material 12 Aug 16', 0, 0, 0, 1162.38, '12-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Scott Ludlam', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-design 20 Oct 16', 0, 0, 0, 1312.00, '20-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

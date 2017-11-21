@@ -53,9 +53,9 @@ VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)
 VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Family Travel Costs', 'Family Traveller Domestic Scheduled Fares', 'Before 1 July 2016', '25 Jun 16 - Longreach to Brisbane', 536.36, '', '25-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)
-VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'Before 1 July 2016', '', 6740.18, '', '01-Jan-1900', 'OS Official - Accommodation and meals');
+VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'Before 1 July 2016', '', 6740.18, '', '01-Jul-2016', 'OS Official - Accommodation and meals');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)
-VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5104.16, '', '01-Jan-1900', '');
+VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5104.16, '', '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)
 VALUES ('Bruce Scott', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', 'Portable and attractive items 18 May 15', 960.00, '', '18-May-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)

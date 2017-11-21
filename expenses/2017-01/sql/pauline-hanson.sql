@@ -67,7 +67,7 @@ VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Na
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Car Costs', 'Parking', 'Before 1 January 2017', '', '', '', 'Parking between 20 Dec and 22 Dec 16', 0, 0, 43.50, '22-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 25058.02, '01-Jan-1900', '');
+VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 25058.02, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 109.29, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -101,7 +101,7 @@ VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Na
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 7 Mar 17', 0, 0, 1.14, '07-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 57.99, '01-Jan-1900', '');
+VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 57.99, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', '300 labels 24 Nov 16', 0, 0, 27.16, '24-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -119,7 +119,7 @@ VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Na
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Jan to 31 Jan 17', 0, 0, 213.36, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', '10,000 Printed items 17 Jan 17', 0, 0, 3468.50, '17-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -131,7 +131,7 @@ VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Na
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Dec to 31 Dec 16', 0, 0, 545.45, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Pauline Hanson', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution credit 1 Dec to 31 Dec 16', 0, 0, -13.64, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

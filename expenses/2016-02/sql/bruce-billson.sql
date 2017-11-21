@@ -3,9 +3,9 @@ VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '23 Mar 16 - Sydney to Melbourne', -43.35, 'Refund', '23-Mar-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 129.28, '', '01-Jan-1900');
+VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 129.28, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jan-1900');
+VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Bruce Billson', 'Representative', 'Dunkley', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution credit 9 May 16', -514.31, '', '09-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

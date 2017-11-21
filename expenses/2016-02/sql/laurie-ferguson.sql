@@ -9,7 +9,7 @@ VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Family Travel Costs', 'Family Traveller Domestic Scheduled Fares', 'From 1 July 2016', '9 Oct 16 - Brisbane to Sydney', 781.48, '', '09-Oct-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2260.82, '', '01-Jan-1900');
+VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2260.82, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', 'Water refills 10 Mar 16', 27.00, '', '10-Mar-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -33,7 +33,7 @@ VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution 9 May 16', 264.73, '', '09-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jan-1900');
+VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Laurie Ferguson', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution 9 May 16', 1.18, '', '09-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

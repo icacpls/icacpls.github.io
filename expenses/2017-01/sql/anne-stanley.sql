@@ -39,9 +39,9 @@ VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Austral
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '10 Feb 17 - Sydney', 0, 0, 60.30, '10-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23466.45, '01-Jan-1900', '');
+VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23466.45, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3266.48, '01-Jan-1900', '');
+VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3266.48, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Anne Stanley', 'Representative', 'Werriwa', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 578.89, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

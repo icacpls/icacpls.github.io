@@ -5,7 +5,7 @@ VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Pa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Melbourne', 'Shadow Parliamentary Secretary - Official', 1, 127.00, 0, 127.00, '17-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Canberra', 'Official Government or Vice-Regal Function', 3, 273.00, 0, 819.00, '22-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -35,7 +35,7 @@ VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Pa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Melbourne', 'Shadow Parliamentary Secretary - Official', 2, 382.00, 0, 764.00, '15-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Canberra', 'Sittings of Parliament', 5, 276.00, 0, 1380.00, '20-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -251,7 +251,7 @@ VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Pa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Broome 8 Sep to 10 Sep 16', 0, 0, 0, 231.29, '10-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 44902.44, '01-Jan-1900', '');
+VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 44902.44, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Louise Pratt', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 31.06, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

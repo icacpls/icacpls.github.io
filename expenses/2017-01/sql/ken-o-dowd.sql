@@ -121,9 +121,9 @@ VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Car Costs', 'COMCAR', 'Before 1 January 2017', '', '', '', '2 Dec 16 - Brisbane', 0, 0, 46.00, '02-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 32016.30, '01-Jan-1900', '');
+VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 32016.30, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5164.59, '01-Jan-1900', '');
+VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5164.59, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 762.16, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -171,7 +171,7 @@ VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 21 Mar 17', 0, 0, 1.14, '21-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 2318.18, '01-Jan-1900', '');
+VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 2318.18, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Ken O''Dowd', 'Representative', 'Flynn', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'MFD Monochrome copy charge 24 Nov to 23 Dec 16', 0, 0, 2.27, '23-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

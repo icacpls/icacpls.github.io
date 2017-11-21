@@ -283,9 +283,9 @@ VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Car Costs', 'Parking', 'From 1 January 2016', '', '', '', 'Parking between 17 Apr and 20 Apr 16', 0, 0, 0, 60.00, '20-Apr-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 28564.01, '01-Jan-1900', '', '');
+VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 28564.01, '01-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3228.66, '01-Jan-1900', '', '');
+VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3228.66, '01-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 1081.17, '31-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
@@ -747,4 +747,4 @@ VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
 VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Family Travel Costs', 'Family Traveller COMCAR', 'From 1 January 2016', '', '', '', '18 Mar 16 - Brisbane', 0, 0, 0, 75.00, '18-Mar-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes, Type)
-VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'Before 1 January 2016', '', '', '', '', 0, 0, 0, 7337.86, '01-Jan-1900', '', 'OS Ministerial - Fares');
+VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'Before 1 January 2016', '', '', '', '', 0, 0, 0, 7337.86, '01-Jan-2016', '', 'OS Ministerial - Fares');

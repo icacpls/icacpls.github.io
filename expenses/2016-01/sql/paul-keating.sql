@@ -67,9 +67,9 @@ VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Austra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 January 2016', '18 Dec 15 - Melbourne', 40.00, '', '18-Dec-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 57662.57, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 57662.57, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', 'Aggregated Total', 5316.53, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', 'Aggregated Total', 5316.53, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 66.15, '', '27-Feb-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

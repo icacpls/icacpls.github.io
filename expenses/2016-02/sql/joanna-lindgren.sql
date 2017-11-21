@@ -33,9 +33,9 @@ VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Austra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'Before 1 July 2016', '30 Jun 16 - Brisbane', 122.85, '', '30-Jun-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 614.16, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 614.16, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 8030.55, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 8030.55, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Joanna Lindgren', 'Senator', '', 'Queensland', 'Liberal Party of Australia', 'Telecommunications', 'Telecommunications - Usage', 'From 1 July 2016', 'Office phones 1 Jul 16', 234.07, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)

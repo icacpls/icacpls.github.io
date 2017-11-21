@@ -5,7 +5,7 @@ VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travell
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Canberra', 'Chair Parl Committee on Committee', 1, 273.00, 0, 273.00, '27-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Sale', 'Electorate Business', 1, 283.00, 0, 283.00, '28-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -61,7 +61,7 @@ VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travell
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2016', '', '', 'Darwin', 'Chair Parl Committee on Committee', 1, 438.00, 0, 438.00, '14-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2016', '', '', 'Bendigo', 'Electorate Business', 2, 283.00, 0, 566.00, '15-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -497,7 +497,7 @@ VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Cos
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Costs', 'Parking', 'Before 1 January 2016', '', '', '', 'Parking between 21 Jun and 27 Jun 15', 0, 0, 0, 218.18, '27-Jun-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Costs', 'Parking', 'Before 1 January 2016', '', '', '', 'Parking between 16 Nov and 17 Nov15', 0, 0, 0, 69.55, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Costs', 'Parking', 'Before 1 January 2016', '', '', '', 'Parking between 16 Nov and 17 Nov15', 0, 0, 0, 69.55, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Costs', 'Parking', 'Before 1 January 2016', '', '', '', 'Parking between 14 Dec and 16 Dec 15', 0, 0, 0, 120.55, '16-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -505,9 +505,9 @@ VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Cos
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Car Costs', 'Other Car Costs', 'Before 1 January 2016', '', '', '', 'Darwin 14 Dec to 15 Dec 15', 0, 0, 0, 117.41, '15-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52209.16, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52209.16, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 7240.27, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 7240.27, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 69.32, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -551,7 +551,7 @@ VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Water refills 31 Aug 15', 0, 0, 0, 10.00, '31-Aug-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 2227.27, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 2227.27, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Colour copy charge 28 Nov to 27 Dec 15', 0, 0, 0, 90.63, '27-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -587,7 +587,7 @@ VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', '1 Printed item 20 Feb 16', 0, 0, 0, 1198.95, '20-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Mar 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Mar 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Bridget McKenzie', 'Senator', '', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', '1 Printed item 8 Mar 16', 0, 0, 0, 271.82, '08-Mar-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

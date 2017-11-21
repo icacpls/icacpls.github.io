@@ -157,4 +157,4 @@ VALUES ('Brett Whiteley', 'Representative', 'Braddon', 'Tasmania', 'Liberal Part
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Brett Whiteley', 'Representative', 'Braddon', 'Tasmania', 'Liberal Party of Australia', 'Charter', 'Electorate', 'Before 1 July 2016', 'Hire car costs Burnie 15 Jun to 4 Jul 16', 1441.24, '', '04-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Brett Whiteley', 'Representative', 'Braddon', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3095.41, '', '01-Jan-1900');
+VALUES ('Brett Whiteley', 'Representative', 'Braddon', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3095.41, '', '01-Jul-2016');

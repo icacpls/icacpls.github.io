@@ -25,17 +25,17 @@ VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Tra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', 'Norfolk Island', 'External Territory Visit', -3, 483.00, -1449.00, '09-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-1900', '', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-1900', '', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 January 2017', '', '', '', '', 0, 0, 0, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 6038.82, '01-Jan-1900', 'OS Delegation - Accommodation and meals', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 6038.82, '01-Jan-2017', 'OS Delegation - Accommodation and meals', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 430.00, '01-Jan-1900', 'OS Delegation - Equipment allowance', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 430.00, '01-Jan-2017', 'OS Delegation - Equipment allowance', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 2390.88, '01-Jan-1900', 'OS Delegation - Fares', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 2390.88, '01-Jan-2017', 'OS Delegation - Fares', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 200.00, '01-Jan-1900', 'OS Delegation - Travel advance', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2017', '', '', '', '', 0, 0, 200.00, '01-Jan-2017', 'OS Delegation - Travel advance', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2017', '', '', '', '2 Jan 17 - Armidale to Sydney', 0, 0, 321.12, '02-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
@@ -213,9 +213,9 @@ VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Car
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '8 Dec 16', 0, 0, 23.02, '08-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 15746.70, '01-Jan-1900', '', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 15746.70, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3117.06, '01-Jan-1900', '', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3117.06, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 377.19, '31-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Type, Notes)

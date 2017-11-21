@@ -99,7 +99,7 @@ VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', '', '', '', 'Lease 24 Jun to 23 Jul 16', 0, 0, 0, 1001.03, '23-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', '', '', '', 'Fuel 25 Jun to 10 Jul', 0, 0, 0, 156.45, '01-Jan-1900', '');
+VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', '', '', '', 'Fuel 25 Jun to 10 Jul', 0, 0, 0, 156.45, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 July 2016', '', '', '', '4 Jul 16 - Melbourne', 0, 0, 0, 57.64, '04-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -201,9 +201,9 @@ VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 20 Oct 16', 0, 0, 0, 55.17, '20-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 57859.51, '01-Jan-1900', '');
+VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 57859.51, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 8472.07, '01-Jan-1900', '');
+VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 8472.07, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 182.83, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -261,7 +261,7 @@ VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Oct to 25 Oct 16', 0, 0, 0, 7498.08, '25-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jenny Macklin', 'Representative', 'Jagajaga', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-services 13 Oct 16', 0, 0, 0, 774.99, '13-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

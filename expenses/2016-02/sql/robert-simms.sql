@@ -5,9 +5,9 @@ VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '4 Aug 16 - Melbourne to Adelaide', 0, '', '04-Aug-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 21.97, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 21.97, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1403.32, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1403.32, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', 'Water refills 1 Jul 16', 1.15, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)

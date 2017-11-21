@@ -41,7 +41,7 @@ VALUES ('Pat Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Part
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Pat Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 January 2016', '29 May 16 - Melbourne', 80.80, '', '29-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Pat Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 62519.14, '', '01-Jan-1900');
+VALUES ('Pat Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 62519.14, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Pat Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', 'MFD Colour copy charge 28 Apr to 27 May 16', 1114.03, '', '27-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

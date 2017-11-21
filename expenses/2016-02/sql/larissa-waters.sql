@@ -219,9 +219,9 @@ VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Car
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Car Costs', 'Cabcharge', 'Before 1 July 2016', '', '', '', '29 Jun 16', 0, 0, 0, 14.93, '29-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52042.85, '01-Jan-1900', '');
+VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52042.85, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2137.10, '01-Jan-1900', '');
+VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2137.10, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 0.60, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -259,11 +259,11 @@ VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Off
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Jul to 31 Jul 16', 0, 0, 0, 2.27, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Jul 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Jul 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'e-material 2 Jul 16', 0, 0, 0, 955.67, '02-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Aug 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Aug 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-design 10 Aug 16', 0, 0, 0, 3347.25, '10-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -271,7 +271,7 @@ VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Off
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Sep to 30 Sep 16', 0, 0, 0, 454.55, '30-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Larissa Waters', 'Senator', '', 'Queensland', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-design 10 Nov 16', 0, 0, 0, 150.00, '10-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

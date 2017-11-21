@@ -79,9 +79,9 @@ VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '10 Feb 17', 0, 0, 51.98, '10-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 25411.02, '01-Jan-1900', '');
+VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 25411.02, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3467.36, '01-Jan-1900', '');
+VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3467.36, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 735.89, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -119,7 +119,7 @@ VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Nov to 30 Nov 16', 0, 0, 4.73, '30-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Tim Wilson', 'Representative', 'Goldstein', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Dec to 31 Dec 16', 0, 0, 17445.63, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

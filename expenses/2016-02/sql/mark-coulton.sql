@@ -217,9 +217,9 @@ VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nati
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Dubbo 25 Nov to 26 Nov 16', 0, 0, 0, 70.58, '26-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 68990.38, '01-Jan-1900', '');
+VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 68990.38, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 5768.13, '01-Jan-1900', '');
+VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 5768.13, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Flags 1 Jul to 31 Jul 16', 0, 0, 0, 2618.26, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -245,7 +245,7 @@ VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nati
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Flags 1 Sep to 30 Sep 16', 0, 0, 0, 1445.71, '30-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2318.18, '01-Jan-1900', '');
+VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2318.18, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Mark Coulton', 'Representative', 'Parkes', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Sep to 23 Oct 16', 0, 0, 0, 1.96, '23-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

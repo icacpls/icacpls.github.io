@@ -1,7 +1,7 @@
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Louise Markus', 'Representative', 'Macquarie', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 950.51, '01-Jan-1900');
+VALUES ('Louise Markus', 'Representative', 'Macquarie', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 950.51, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Louise Markus', 'Representative', 'Macquarie', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1952.89, '01-Jan-1900');
+VALUES ('Louise Markus', 'Representative', 'Macquarie', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 1952.89, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Louise Markus', 'Representative', 'Macquarie', 'New South Wales', 'Liberal Party of Australia', 'Telecommunications', 'Telecommunications - Residential - Official', 'From 1 July 2016', 'Residential phones 1 Jul 16', 49.86, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

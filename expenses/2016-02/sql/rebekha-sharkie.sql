@@ -115,7 +115,7 @@ VALUES ('Rebekha Sharkie', 'Representative', 'Mayo', 'South Australia', 'Nick Xe
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Rebekha Sharkie', 'Representative', 'Mayo', 'South Australia', 'Nick Xenophon Team', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 15 Aug and 17 Aug 16', 0, 0, 0, 78.18, '17-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Rebekha Sharkie', 'Representative', 'Mayo', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 41149.02, '01-Jan-1900', '');
+VALUES ('Rebekha Sharkie', 'Representative', 'Mayo', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 41149.02, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Rebekha Sharkie', 'Representative', 'Mayo', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Emergency services - administration 2 Jul 16 to 30 Jun 17', 0, 0, 0, 622.93, '02-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

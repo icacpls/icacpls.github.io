@@ -5,7 +5,7 @@ VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Tr
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Dalby', 'Chair Parl Committee on Committee', 1, 295.00, 0, 295.00, '16-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Canberra', 'Sittings of Parliament', 6, 273.00, 0, 1638.00, '20-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -23,7 +23,7 @@ VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Tr
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Darwin', 'Chair Parl Committee on Committee', 1, 438.00, 0, 438.00, '11-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Sydney', 'Sittings of Parliament', 1, 397.00, 0, 397.00, '16-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -283,7 +283,7 @@ VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Ca
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Car Costs', 'Other Car Costs', 'From 1 January 2016', '', '', '', 'Brisbane 22 Apr 16', 0, 0, 0, 198.24, '22-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 75718.96, '01-Jan-1900', '');
+VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 75718.96, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 0, 0, 0, 3.84, '27-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

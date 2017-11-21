@@ -5,7 +5,7 @@ VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australi
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Adelaide', 'Resilience of Electricity Infrastructure in a Warming', 1, 362.00, 362.00, '19-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Canberra', 'Senate Estimates', 5, 276.00, 1380.00, '26-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -155,9 +155,9 @@ VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australi
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Car Costs', 'Parking', 'From 1 January 2017', '', '', '', 'Parking 5 Mar 17', 0, 0, 27.27, '05-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23736.87, '01-Jan-1900', '');
+VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23736.87, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1066.00, '01-Jan-1900', '');
+VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1066.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Jonathon Duniam', 'Senator', '', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 220.77, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

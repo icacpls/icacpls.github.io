@@ -113,7 +113,7 @@ VALUES ('James Paterson', 'Senator', '', 'Victoria', 'Liberal Party of Australia
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('James Paterson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2016', '', '', '', '26 Jun 16 - Melbourne', 0, 0, 0, 88.90, '26-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('James Paterson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 43430.13, '01-Jan-1900', '');
+VALUES ('James Paterson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 43430.13, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('James Paterson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Monochrome copy charge 9 Mar to 27 Mar 16', 0, 0, 0, 2.82, '27-Mar-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

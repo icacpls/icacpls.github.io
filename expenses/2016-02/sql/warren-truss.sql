@@ -39,7 +39,7 @@ VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Family Travel Costs', 'Family Traveller Domestic Scheduled Fares', 'From 1 July 2016', '15 Sep 16 - Brisbane to Hervey Bay', 0, '', '15-Sep-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 4449.37, '', '01-Jan-1900');
+VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 4449.37, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Warren Truss', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Publications', 'Before 1 July 2016', '2 Noosa News 9 May 16', 5.00, '', '09-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

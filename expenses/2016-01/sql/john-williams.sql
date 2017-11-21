@@ -287,9 +287,9 @@ VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Car
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Car Costs', 'Cabcharge', 'From 1 January 2016', '', '', '', '19 Jun 16', 0, 0, 0, 30.69, '19-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 64757.04, '01-Jan-1900', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 64757.04, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4598.21, '01-Jan-1900', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4598.21, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 24 Jan to 23 Feb 16', 0, 0, 0, 224.18, '23-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -353,7 +353,7 @@ VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Off
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution credit 1 Apr to 30 Apr 16', 0, 0, 0, -22.73, '30-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Apr 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Apr 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('John Williams', 'Senator', '', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Web-services 19 Apr to 18 May 16', 0, 0, 0, 9.90, '18-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

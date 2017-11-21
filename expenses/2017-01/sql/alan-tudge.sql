@@ -143,9 +143,9 @@ VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of A
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '25 Mar 17 - Canberra', 0, 0, 80.40, '25-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 37839.60, '01-Jan-1900', '');
+VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 37839.60, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 7332.02, '01-Jan-1900', '');
+VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 7332.02, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'MFD Monochrome copy charge 28 Jan to 27 Feb 17', 0, 0, 16.67, '27-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -169,7 +169,7 @@ VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of A
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', '52,184 Printed items 23 Feb 17', 0, 0, 7130.00, '23-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution credit 1 Nov to 30 Nov 16', 0, 0, -22.73, '30-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -179,7 +179,7 @@ VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of A
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Dec to 31 Dec 16', 0, 0, 909.09, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Alan Tudge', 'Representative', 'Aston', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1 Printed item 6 Dec 16', 0, 0, 140.00, '06-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

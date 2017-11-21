@@ -3,7 +3,7 @@ VALUES ('Bernie Ripoll', 'Representative', 'Oxley', 'Queensland', 'Australian La
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Bernie Ripoll', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'Before 1 July 2016', '7 May 16', 86.28, '07-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Bernie Ripoll', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2239.50, '01-Jan-1900');
+VALUES ('Bernie Ripoll', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2239.50, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Bernie Ripoll', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution 9 May 16', 8.27, '09-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

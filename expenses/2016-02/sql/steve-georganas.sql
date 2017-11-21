@@ -185,7 +185,7 @@ VALUES ('Steve Georganas', 'Representative', 'Hindmarsh', 'South Australia', 'Au
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Steve Georganas', 'Representative', 'Hindmarsh', 'South Australia', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 July 2016', '', '', '', '5 Dec 16 - Adelaide', 0, 0, 0, 41.80, '05-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Steve Georganas', 'Representative', 'Hindmarsh', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52109.69, '01-Jan-1900', '');
+VALUES ('Steve Georganas', 'Representative', 'Hindmarsh', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52109.69, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Steve Georganas', 'Representative', 'Hindmarsh', 'South Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Courier costs 27 Jul 16', 0, 0, 0, 22.33, '27-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

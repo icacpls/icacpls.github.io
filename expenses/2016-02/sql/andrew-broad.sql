@@ -203,9 +203,9 @@ VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Canberra 14 Oct to 16 Oct 16', 0, 0, 0, 210.73, '16-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 63421.27, '01-Jan-1900', '');
+VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 63421.27, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 5384.64, '01-Jan-1900', '');
+VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 5384.64, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 96.15, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -235,7 +235,7 @@ VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Flags 1 Sep to 30 Sep 16', 0, 0, 0, 840.05, '30-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2318.18, '01-Jan-1900', '');
+VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2318.18, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Broad', 'Representative', 'Mallee', 'Victoria', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Sep to 23 Oct 16', 0, 0, 0, 0.96, '23-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

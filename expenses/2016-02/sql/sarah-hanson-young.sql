@@ -447,9 +447,9 @@ VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Gree
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'Before 1 July 2016', '', '', '', 'Ballina Airport 10 Jun to 11 Jun 16', 0, 0, 0, 110.03, '11-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 60789.49, '01-Jan-1900', '');
+VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 60789.49, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1720.76, '01-Jan-1900', '');
+VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1720.76, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 19.40, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -507,7 +507,7 @@ VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Gree
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Oct to 31 Oct 16', 0, 0, 0, 159.00, '31-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Oct 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-services 3 Oct 16', 0, 0, 0, 1089.19, '03-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

@@ -1,7 +1,7 @@
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Anna Burke', 'Representative', 'Chisholm', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '26 Nov 15 - Canberra to Melbourne', 580.63, '', '26-Nov-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Anna Burke', 'Representative', 'Chisholm', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 13847.32, '', '01-Jan-1900');
+VALUES ('Anna Burke', 'Representative', 'Chisholm', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 13847.32, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Anna Burke', 'Representative', 'Chisholm', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', 'Office requisites and stationery 1 May to 31 May 16', 414.00, '', '31-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

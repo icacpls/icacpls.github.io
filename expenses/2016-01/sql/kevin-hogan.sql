@@ -133,9 +133,9 @@ VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationa
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationals', 'Car Costs', 'Parking', 'From 1 January 2016', '', '', '', 'Parking between 6 Feb and 8 Feb 16', 0, 0, 0, 62.73, '08-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 51069.40, '01-Jan-1900', '');
+VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 51069.40, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4620.82, '01-Jan-1900', '');
+VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4620.82, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Kevin Hogan', 'Representative', 'Page', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'General office consumables 18 Jan 16', 0, 0, 0, 79.64, '18-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

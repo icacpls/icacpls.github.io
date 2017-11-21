@@ -159,9 +159,9 @@ VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party'
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Car Costs', 'Other Car Costs', 'From 1 January 2016', '', '', '', 'Fuel charge 6 Feb 16', 0, 0, 0, 36.46, '06-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 68825.90, '01-Jan-1900', '');
+VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 68825.90, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 12777.46, '01-Jan-1900', '');
+VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 12777.46, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 0, 0, 0, 4.98, '27-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

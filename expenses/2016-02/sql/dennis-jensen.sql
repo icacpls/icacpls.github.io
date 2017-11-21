@@ -5,9 +5,9 @@ VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Libe
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Liberal Party of Australia', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '7 Jul 16 - Sydney to Perth', 0, '', '07-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 5818.74, '', '01-Jan-1900');
+VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 5818.74, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3393.60, '', '01-Jan-1900');
+VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3393.60, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Dennis Jensen', 'Representative', 'Tangney', 'Western Australia', 'Liberal Party of Australia', 'Telecommunications', 'Telecommunications - Residential - Official', 'From 1 July 2016', 'Residential phones 1 Jul 16', 31.77, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

@@ -191,7 +191,7 @@ VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 5 Aug 16', 0, 0, 0, 24.02, '05-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 46984.78, '01-Jan-1900', '');
+VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 46984.78, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 2 Jul to 31 Jul 16', 0, 0, 0, 18.95, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

@@ -89,9 +89,9 @@ VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'C
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'Car Costs', 'Cabcharge', 'From 1 January 2016', '', '', '', '29 Jan 16', 0, 0, 0, 49.87, '29-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 53383.57, '01-Jan-1900', '');
+VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 53383.57, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 16817.10, '01-Jan-1900', '');
+VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 16817.10, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Cathy McGowan', 'Representative', 'Indi', 'Victoria', 'Independent', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 267.48, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

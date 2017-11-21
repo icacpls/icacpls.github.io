@@ -137,9 +137,9 @@ VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Car Costs', 'COMCAR', 'Before 1 January 2017', '', '', '', '2 Dec 16 - Townsville', 0, 0, 43.50, '02-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 16296.18, '01-Jan-1900', '');
+VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 16296.18, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3060.05, '01-Jan-1900', '');
+VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3060.05, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'MFD Monochrome copy charge 24 Jan to 23 Feb 17', 0, 0, 72.09, '23-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -179,7 +179,7 @@ VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1 Printed item 24 Sep 16', 0, 0, 3527.35, '24-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('George Christensen', 'Representative', 'Dawson', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Dec to 31 Dec 16', 0, 0, 8957.66, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

@@ -229,9 +229,9 @@ VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Melbourne 19 Sep 16', 0, 0, 0, 99.69, '19-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 60983.46, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 60983.46, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2343.96, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2343.96, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 1 Jul 16', 0, 0, 0, 42.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -263,7 +263,7 @@ VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 18 Nov 16', 0, 0, 0, 22.00, '18-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 500.00, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 500.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'MFD Colour copy charge 28 May to 27 Jun 16', 0, 0, 0, 170.67, '27-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

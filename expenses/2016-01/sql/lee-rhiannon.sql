@@ -201,9 +201,9 @@ VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'Before 1 January 2016', '', '', '', 'Tamworth 7 Nov to 7 Nov 15', 0, 0, 0, 54.08, '07-Nov-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 80527.41, '01-Jan-1900', '');
+VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 80527.41, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2925.56, '01-Jan-1900', '');
+VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2925.56, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 0, 0, 0, 3608.07, '27-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -243,7 +243,7 @@ VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Monochrome copy charge 28 Dec 15 to 27 Jan 16', 0, 0, 0, 17.44, '28-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Lee Rhiannon', 'Senator', '', 'New South Wales', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'e-material 14 Jan 16', 0, 0, 0, 30.07, '14-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

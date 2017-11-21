@@ -43,7 +43,7 @@ VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Car Costs', 'Private Vehicle Allowance', 'From 1 July 2016', '', '', '', 'Canberra to Orange 18 Jul 16', 0, 0, 0, 194.04, '18-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
-VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 87356.14, '01-Jan-1900');
+VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 87356.14, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Jul to 23 Aug 16', 0, 0, 0, 0.36, '23-Aug-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
@@ -127,7 +127,7 @@ VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', '1 Printed item 28 Oct 16', 0, 0, 0, 500.00, '28-Oct-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
-VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 0, 15.00, '01-Jan-1900');
+VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 0, 15.00, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)
 VALUES ('Andrew Gee', 'Representative', 'Calare', 'New South Wales', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Nov to 30 Nov 16', 0, 0, 0, 297.32, '30-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date)

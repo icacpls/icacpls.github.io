@@ -7,9 +7,9 @@ VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', 'Lease 27 Jun to 26 Jul 16', 1174.54, '26-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 785.08, '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 785.08, '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5298.01, '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5298.01, '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'Po Box 9168 rental credit 1 Jul 16', -105.45, '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
@@ -57,6 +57,6 @@ VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', 'Electorate Business', 758.00, '28-Jun-2016', '', '', 'Melbourne', 2, 379.00, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', 0, '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', 0, '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', 0, '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Ricky Muir', 'Senator', '', 'Victoria', 'Australian Motoring Enthusiast Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', 0, '01-Jul-2016', '', '', '', 0, 0, 0);

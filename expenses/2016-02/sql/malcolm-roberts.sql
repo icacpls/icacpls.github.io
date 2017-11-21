@@ -303,7 +303,7 @@ VALUES ('Malcolm Roberts', 'Senator', '', 'Queensland', 'Pauline Hanson''s One N
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Malcolm Roberts', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 6 Aug and 8 Aug 16', 0, 0, 0, 66.36, '08-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Malcolm Roberts', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 31656.22, '01-Jan-1900', '');
+VALUES ('Malcolm Roberts', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 31656.22, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Malcolm Roberts', 'Senator', '', 'Queensland', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', '1 Financial year diary 29 Sep 16', 0, 0, 0, 9.99, '29-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

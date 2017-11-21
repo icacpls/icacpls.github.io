@@ -163,7 +163,7 @@ VALUES ('Andrew Wallace', 'Representative', 'Fisher', 'Queensland', 'Liberal Par
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wallace', 'Representative', 'Fisher', 'Queensland', 'Liberal Party of Australia', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 27 Nov and 28 Nov 16', 0, 0, 0, 86.36, '28-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wallace', 'Representative', 'Fisher', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 50519.15, '01-Jan-1900', '');
+VALUES ('Andrew Wallace', 'Representative', 'Fisher', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 50519.15, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wallace', 'Representative', 'Fisher', 'Queensland', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 24 Jul to 23 Aug 16', 0, 0, 0, 0.38, '23-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

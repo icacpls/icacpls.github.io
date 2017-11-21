@@ -25,7 +25,7 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '17 Jul 16 - Brisbane to Canberra', 0, 0, 0, 0, '17-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 1136.35, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 1136.35, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '19 Jul 16 - Canberra to Brisbane', 0, 0, 0, 0, '19-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -33,7 +33,7 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '18 Aug 16 - Canberra to Brisbane', 0, 0, 0, 0, '18-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 799.62, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 799.62, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '28 Aug 16 - Brisbane to Canberra', 0, 0, 0, 799.62, '28-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -41,13 +41,13 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '11 Sep 16 - Brisbane to Canberra', 0, 0, 0, 0, '11-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 476.06, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 476.06, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '16 Sep 16 - Canberra to Sydney', 0, 0, 0, 334.35, '16-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '16 Sep 16 - Sydney to Maroochydore', 0, 0, 0, 0, '16-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 244.55, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 244.55, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '9 Oct 16 - Brisbane to Canberra', 0, 0, 0, 799.62, '09-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -55,23 +55,23 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '27 Oct 16 - Brisbane to Sydney', 0, 0, 0, 0, '27-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 781.48, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 781.48, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '28 Oct 16 - Sydney to Brisbane', 0, 0, 0, 0, '28-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 781.48, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 781.48, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '6 Nov 16 - Brisbane to Canberra', 0, 0, 0, 0, '06-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 799.62, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 799.62, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '11 Nov 16 - Canberra to Brisbane', 0, 0, 0, 0, '11-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 799.62, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 799.62, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '20 Nov 16 - Brisbane to Canberra', 0, 0, 0, 0, '20-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 739.64, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 739.64, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Car Costs', 'Private-Plated Vehicle', 'From 1 July 2016', '', '', '', 'Fuel 2 Aug to 22 Aug 16', 0, 0, 0, 390.15, '22-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -157,7 +157,7 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 12 Jul and 13 Jul 16', 0, 0, 0, 66.36, '13-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 37432.46, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 37432.46, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Aug to 31 Aug 16', 0, 0, 0, 682.87, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -165,7 +165,7 @@ VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nation
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Flags 1 Aug to 31 Aug 16', 0, 0, 0, 1007.08, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2318.18, '01-Jan-1900', '');
+VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2318.18, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Llew O''Brien', 'Representative', 'Wide Bay', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 15 Aug 16', 0, 0, 0, 10.40, '15-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

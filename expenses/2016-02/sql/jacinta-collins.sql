@@ -5,7 +5,7 @@ VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Sydney', 'Shadow Parliamentary Secretary - Official', 1, 397.00, 0, 397.00, '24-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Canberra', 'Sittings of Parliament', 5, 276.00, 0, 1380.00, '28-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -23,7 +23,7 @@ VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Sydney', 'Shadow Parliamentary Secretary - Official', 1, 400.00, 0, 400.00, '17-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 July 2016', '', '', 'Canberra', 'Sittings of Parliament', 4, 276.00, 0, 1104.00, '20-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -31,7 +31,7 @@ VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', 'Sydney', 'Shadow Parliamentary Secretary - Official', 1, 397.00, 0, 397.00, '08-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', '', 'Business', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', 'Sydney', 'Parliamentary Political Party Meeting', 1, 397.00, 0, 397.00, '09-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -219,9 +219,9 @@ VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking 24 Aug 16', 0, 0, 0, 54.71, '24-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 79092.62, '01-Jan-1900', '');
+VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 79092.62, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2325.30, '01-Jan-1900', '');
+VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2325.30, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 45.65, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -281,7 +281,7 @@ VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 July 2016', '', '', '', '260 The Australian Financial Review and 1 The Australian Financial Review (digital) 1 Jul 16 to 30 Jun', 0, 0, 0, 709.58, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 July 2016', '', '', '', '17', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 July 2016', '', '', '', '17', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Jacinta Collins', 'Senator', '', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 July 2016', '', '', '', '260 The Australian 4 Jul 16 to 3 Jul 17', 0, 0, 0, 472.72, '04-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

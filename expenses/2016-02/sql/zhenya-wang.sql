@@ -15,9 +15,9 @@ VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party'
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '27 Jun 16 - Kalgoorlie to Perth', 378.34, '', '27-Jun-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 1547.49, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 1547.49, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
-VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2828.99, '', '01-Jan-1900', '', '', '', 0, 0, 0);
+VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2828.99, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)
 VALUES ('Zhenya Wang', 'Senator', '', 'Western Australia', 'Palmer United Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '1 Printed item 1 Jul 16', 721.87, '', '01-Jul-2016', '', '', '', 0, 0, 0);
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, DateFrom, DateTo, Location, Nights, Rate, Spouse)

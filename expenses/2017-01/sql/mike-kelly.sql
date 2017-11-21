@@ -27,9 +27,9 @@ VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Austr
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '23 Jan 17', 0, 0, 36.55, '23-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 37658.49, '01-Jan-1900', '');
+VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 37658.49, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5160.69, '01-Jan-1900', '');
+VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5160.69, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Mike Kelly', 'Representative', 'Eden-Monaro', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 17', 0, 0, 25.06, '27-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

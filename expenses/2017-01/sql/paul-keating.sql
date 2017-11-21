@@ -41,9 +41,9 @@ VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Austra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 January 2017', '8 Mar 17 - Melbourne', 82.80, '', '08-Mar-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 29782.16, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 29782.16, '', '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 1441.54, '', '01-Jan-1900');
+VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 1441.54, '', '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Paul Keating', 'Representative', 'Blaxland', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', 'MFD Colour copy charge 28 Jan to 27 Feb 17', 54.87, '', '27-Feb-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

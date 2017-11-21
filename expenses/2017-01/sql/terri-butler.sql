@@ -181,9 +181,9 @@ VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '16 Dec 16', 0, 0, 28.66, '16-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 29889.84, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 29889.84, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 814.51, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 814.51, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 194.72, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -203,7 +203,7 @@ VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution credit 1 Jan to 31 Jan 17', 0, 0, -20.45, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Jan to 31 Jan 17', 0, 0, 830.65, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -277,17 +277,17 @@ VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '9 The Australian Financial Review 2 Jan to 29 Jan 17', 0, 0, 0, '29-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 32.73, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 32.73, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', 'Administrative fees 2 Jan to 29 Jan 17', 0, 0, 0, '29-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 5.54, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 5.54, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '10 The Australian 2 Jan to 29 Jan 17', 0, 0, 24.55, '29-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '1 The Great Divide 9 Jan 17', 0, 0, 0, '09-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 24.55, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 24.55, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '1 Student Equity in Australian Higher Education: Twenty-Five Years of Fair Chance For All 25 Jan 17', 0, 0, 186.65, '25-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -295,13 +295,13 @@ VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '20 The Australian 30 Jan to 26 Feb 17', 0, 0, 0, '26-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 51.82, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 51.82, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '20 The Courier Mail 30 Jan to 26 Feb 17', 0, 0, 27.27, '26-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', 'Administrative fees 30 Jan to 26 Feb 17', 0, 0, 0, '26-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 11.45, '01-Jan-1900', '');
+VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '', 0, 0, 11.45, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Terri Butler', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '', '', '', '11 The Courier Mail 6 Feb to 5 Mar 17', 0, 0, 19.00, '05-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

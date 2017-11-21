@@ -143,9 +143,9 @@ VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Car Costs', 'COMCAR', 'From 1 January 2016', '', '', '', '5 May 16 - Hobart', 0, 0, 0, 54.40, '05-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 61005.31, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 61005.31, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1538.27, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1538.27, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 9.07, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -197,7 +197,7 @@ VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution credit 1 Jan to 31 Jan 16', 0, 0, 0, -4.55, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Printing 6 Jan 16', 0, 0, 0, 315.00, '06-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -209,7 +209,7 @@ VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution 1 Feb to 29 Feb 16', 0, 0, 0, 13484.47, '29-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Feb 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Feb 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', '1 Printed item 2 Feb 16', 0, 0, 0, 323.40, '02-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -247,7 +247,7 @@ VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution 1 Apr to 30 Apr 16', 0, 0, 0, 6864.15, '30-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Apr 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Apr 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Andrew Wilkie', 'Representative', 'Denison', 'Tasmania', 'Independent', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', '1 Printed item 1 Apr 16', 0, 0, 0, 323.40, '01-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

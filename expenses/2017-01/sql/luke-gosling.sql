@@ -55,7 +55,7 @@ VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 January 2017', '', '', '', 'Lease adj 17 Nov to 16 Dec 16', 0, 0, 0, '16-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 January 2017', '', '', '', '', 0, 0, -983.78, '01-Jan-1900', '');
+VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 January 2017', '', '', '', '', 0, 0, -983.78, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 January 2017', '', '', '', 'Fuel 4 Dec 16', 0, 0, 67.77, '04-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -83,9 +83,9 @@ VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '26 Feb 17', 0, 0, 21.87, '26-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 22673.77, '01-Jan-1900', '');
+VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 22673.77, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3241.86, '01-Jan-1900', '');
+VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 3241.86, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Luke Gosling', 'Representative', 'Solomon', 'Northern Territory', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 422.71, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

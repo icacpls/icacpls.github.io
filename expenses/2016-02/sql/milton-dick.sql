@@ -185,7 +185,7 @@ VALUES ('Milton Dick', 'Representative', 'Oxley', 'Queensland', 'Australian Labo
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Milton Dick', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 July 2016', '', '', '', '2 Dec 16 - Brisbane', 0, 0, 0, 69.31, '02-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Milton Dick', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 62157.65, '01-Jan-1900', '');
+VALUES ('Milton Dick', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 62157.65, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Milton Dick', 'Representative', 'Oxley', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 20 Jul to 27 Aug 16', 0, 0, 0, 327.92, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

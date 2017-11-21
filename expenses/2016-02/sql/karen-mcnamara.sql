@@ -5,11 +5,11 @@ VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Libera
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', 'Lease 15 Jun to 14 Jul 16', 1320.57, '14-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 1982.80, '01-Jan-1900');
+VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 1982.80, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 6741.33, '01-Jan-1900');
+VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 6741.33, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'Distribution late payment fee Jul 16', 15.00, '01-Jan-1900');
+VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'Distribution late payment fee Jul 16', 15.00, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Karen McNamara', 'Representative', 'Dobell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '1 Printed item 1 Jul 16', 942.08, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

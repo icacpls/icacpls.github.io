@@ -1,7 +1,7 @@
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Nickolas Varvaris', 'Representative', 'Barton', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 695.58, '01-Jan-1900');
+VALUES ('Nickolas Varvaris', 'Representative', 'Barton', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 695.58, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Nickolas Varvaris', 'Representative', 'Barton', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3951.49, '01-Jan-1900');
+VALUES ('Nickolas Varvaris', 'Representative', 'Barton', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 3951.49, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Nickolas Varvaris', 'Representative', 'Barton', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'e-material 1 Jul 16', 12004.26, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

@@ -231,7 +231,7 @@ VALUES ('Derryn Hinch', 'Senator', '', 'Victoria', 'Derryn Hinch''s Justice Part
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Derryn Hinch', 'Senator', '', 'Victoria', 'Derryn Hinch''s Justice Party', 'Car Costs', 'Cabcharge', 'From 1 July 2016', '', '', '', '11 Nov 16', 0, 0, 0, 14.77, '11-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Derryn Hinch', 'Senator', '', 'Victoria', 'Derryn Hinch''s Justice Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 54356.34, '01-Jan-1900', '');
+VALUES ('Derryn Hinch', 'Senator', '', 'Victoria', 'Derryn Hinch''s Justice Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 54356.34, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Derryn Hinch', 'Senator', '', 'Victoria', 'Derryn Hinch''s Justice Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Aug to 23 Oct 16', 0, 0, 0, 3.28, '23-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

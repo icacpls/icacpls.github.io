@@ -123,7 +123,7 @@ VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'C
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'Before 1 January 2016', '', '', '', '22 Nov 15', 0, 0, 0, 116.05, '22-Nov-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 31102.24, '01-Jan-1900', '');
+VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 31102.24, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 843.52, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -193,7 +193,7 @@ VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'O
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution 1 Jan to 31 Jan 16', 0, 0, 0, 12.59, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Joe Ludwig', 'Senator', '', 'Queeensland', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', '1 Printed item 6 Feb to 7 Feb 16', 0, 0, 0, 120.00, '07-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

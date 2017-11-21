@@ -17,9 +17,9 @@ VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Car Costs', 'Other Car Costs', 'Before 1 July 2016', 'Mount Gambier 2 Jun to 3 Jun 16', 74.05, '', '03-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 0.47, '', '01-Jan-1900');
+VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 0.47, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5669.44, '', '01-Jan-1900');
+VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5669.44, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Anne McEwen', 'Senator', '', 'South Australia', 'Australian Labor Party', 'Telecommunications', 'Telecommunications - Usage', 'From 1 July 2016', 'Office phones 1 Jul 16', 2215.18, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

@@ -289,9 +289,9 @@ VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Car Costs
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Car Costs', 'Cabcharge', 'From 1 January 2016', '', '', '', '23 May 16', 0, 0, 0, 54.19, '23-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 58451.65, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 58451.65, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2759.34, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2759.34, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 24 Jan to 23 Feb 16', 0, 0, 0, 222.01, '23-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -313,9 +313,9 @@ VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Ad
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'General office consumables 2 May 16', 0, 0, 0, 546.74, '02-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 34.12, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 34.12, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 35.20, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 35.20, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Colour copy charge 24 Nov to 23 Dec 15', 0, 0, 0, 262.27, '23-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -323,7 +323,7 @@ VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Ad
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Office requisites and stationery 1 Dec to 31 Dec 15', 0, 0, 0, 118.81, '31-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 34.42, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 34.42, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Colour copy charge 24 Dec 15 to 23 Jan 16', 0, 0, 0, 173.44, '24-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -347,7 +347,7 @@ VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Ad
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution credit 1 Mar to 31 Mar 16', 0, 0, 0, -68.18, '31-Mar-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Mar 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Mar 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick McKim', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Printing 23 Mar 16', 0, 0, 0, 150.00, '23-Mar-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

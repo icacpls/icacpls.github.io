@@ -125,7 +125,7 @@ VALUES ('John McVeigh', 'Representative', 'Groom', 'Queensland', 'Liberal Party 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('John McVeigh', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 10 Sep and 13 Sep 16', 0, 0, 0, 84.55, '13-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('John McVeigh', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 48994.99, '01-Jan-1900', '');
+VALUES ('John McVeigh', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 48994.99, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('John McVeigh', 'Representative', 'Groom', 'Queensland', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Jul to 23 Aug 16', 0, 0, 0, 0.12, '23-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

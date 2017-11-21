@@ -79,7 +79,7 @@ VALUES ('Susan Templeman', 'Representative', 'Macquarie', 'New South Wales', 'Au
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Susan Templeman', 'Representative', 'Macquarie', 'New South Wales', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'From 1 July 2016', '', '', '', '7 Oct 16 - Sydney', 0, 0, 0, 132.50, '07-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Susan Templeman', 'Representative', 'Macquarie', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 74772.03, '01-Jan-1900', '');
+VALUES ('Susan Templeman', 'Representative', 'Macquarie', 'New South Wales', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 74772.03, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Susan Templeman', 'Representative', 'Macquarie', 'New South Wales', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 0.02, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

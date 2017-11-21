@@ -23,15 +23,15 @@ VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Li
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '30 Nov 16 - Sydney to Darwin', 0, '', '30-Nov-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 11.83, '', '01-Jan-1900');
+VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 11.83, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 4055.43, '', '01-Jan-1900');
+VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 4055.43, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'e-material 1 Jul to 2 Jul 16', 9563.17, '', '02-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '2 Printed items 1 Jul 16', 867.13, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee Apr 16', 15.00, '', '01-Jan-1900');
+VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee Apr 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution 1 Apr to 30 Apr 16', 545.45, '', '30-Apr-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -39,7 +39,7 @@ VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Li
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '1 Printed item 1 May 16', 490.91, '', '01-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jan-1900');
+VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee May 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution 1 May to 31 May 16', 10043.51, '', '31-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -67,7 +67,7 @@ VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Li
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution credit 1 Jun to 30 Jun 16', -9691.15, '', '30-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee Jun 16', 15.00, '', '01-Jan-1900');
+VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee Jun 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Natasha Griggs', 'Representative', 'Solomon', 'Northern Territory', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '1 Printed item 2 Jun 16', 433.56, '', '02-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

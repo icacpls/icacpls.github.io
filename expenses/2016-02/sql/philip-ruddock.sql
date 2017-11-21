@@ -19,7 +19,7 @@ VALUES ('Philip Ruddock', 'Representative', 'Berowra', 'New South Wales', 'Liber
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Philip Ruddock', 'Representative', 'Berowra', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', 'End of lease adj 6 May 16', -1011.06, '', '06-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Philip Ruddock', 'Representative', 'Berowra', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 244.56, '', '01-Jan-1900');
+VALUES ('Philip Ruddock', 'Representative', 'Berowra', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 244.56, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Philip Ruddock', 'Representative', 'Berowra', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', 'MFD Colour copy charge 28 Apr to 27 May 16', 74.97, '', '27-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

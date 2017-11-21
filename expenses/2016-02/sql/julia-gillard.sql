@@ -153,9 +153,9 @@ VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labo
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 July 2016', '30 Jun 16 - Adelaide', 41.80, '', '30-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 47827.06, '', '01-Jan-1900');
+VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 47827.06, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 425.45, '', '01-Jan-1900');
+VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 425.45, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Julia Gillard', 'Representative', 'Lalor', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', 'MFD Colour copy charge 28 Jul to 27 Aug 16', 23.31, '', '27-Aug-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

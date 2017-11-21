@@ -299,9 +299,9 @@ VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'C
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 15 Nov and 17 Nov 16', 0, 0, 0, 9.36, '17-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 32255.93, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 32255.93, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1656.59, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1656.59, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 1 Jul to 31 Jul 16', 0, 0, 0, 21.00, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -339,7 +339,7 @@ VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'O
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 1 Oct to 31 Oct 16', 0, 0, 0, 21.00, '31-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 933.64, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 933.64, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 24 Oct to 23 Nov 16', 0, 0, 0, 283.34, '23-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -427,17 +427,17 @@ VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'O
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '1 Printed item 27 May 16', 0, 0, 0, 0, '27-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 180.00, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 180.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '26 Printed items 1 Jun to 30 Jun 16', 0, 0, 0, 30421.22, '30-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', 'Distribution credit 1 Jun to 30 Jun 16', 0, 0, 0, 0, '30-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, -27.27, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, -27.27, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', 'Distribution 1 Jun to 30 Jun 16', 0, 0, 0, 0, '30-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 1240.09, '01-Jan-1900', '');
+VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 1240.09, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Anne Urquhart', 'Senator', '', 'Tasmania', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '', '', '', 'e-material 30 Jun 16', 0, 0, 0, 99.34, '30-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

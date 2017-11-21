@@ -9,7 +9,7 @@ VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Gree
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Melbourne', 'Resilience of Electricity Infrastructure in a Warming', 1, 128.00, 128.00, '06-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Canberra', 'Sittings of Parliament', 12, 276.00, 2208.00, '19-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -135,9 +135,9 @@ VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Gree
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'Before 1 January 2017', '', '', '', 'Canberra 27 Dec to 11 Jan 17', 0, 0, 1122.64, '11-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 28535.82, '01-Jan-1900', '');
+VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 28535.82, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 8219.59, '01-Jan-1900', '');
+VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 8219.59, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Sarah Hanson-Young', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 129.47, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

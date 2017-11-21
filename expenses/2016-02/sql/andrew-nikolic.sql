@@ -61,9 +61,9 @@ VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party o
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party of Australia', 'Car Costs', 'Private-Plated Vehicle', 'Before 1 July 2016', 'Car cleaning 20 Jun 16', 13.64, '', '20-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 467.15, '', '01-Jan-1900');
+VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 467.15, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 24607.88, '', '01-Jan-1900');
+VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 24607.88, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Andrew Nikolic', 'Representative', 'Bass', 'Tasmania', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'Distribution 1 Jul to 31 Jul 16', 7201.95, '', '31-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

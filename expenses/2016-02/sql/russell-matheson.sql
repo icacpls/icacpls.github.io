@@ -1,7 +1,7 @@
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 1021.82, '01-Jan-1900');
+VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 1021.82, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2823.04, '01-Jan-1900');
+VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 2823.04, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', 'e-material 1 Jul 16', 10807.57, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
@@ -41,7 +41,7 @@ VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'L
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', '1 Printed item 31 May 16', 1859.04, '31-May-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee Jun 16', 15.00, '01-Jan-1900');
+VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution late payment fee Jun 16', 15.00, '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Russell Matheson', 'Representative', 'Macarthur', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 July 2016', 'Distribution credit 1 Jun to 30 Jun 16', -31869.53, '30-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

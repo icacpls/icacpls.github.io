@@ -197,19 +197,19 @@ VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '13 Apr 16 - Ballina Airport to Sydney', 0, 0, 0, 0, '13-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 45.45, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 45.45, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '21 Jun 16 - Sydney to Melbourne', 0, 0, 0, 0, '21-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 780.82, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 780.82, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '26 Jun 16 - Brisbane to Melbourne', 0, 0, 0, 0, '26-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 991.59, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 991.59, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '28 Jun 16 - Melbourne to Canberra', 0, 0, 0, 0, '28-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 613.09, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 613.09, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Private-Plated Vehicle', 'From 1 July 2016', '', '', '', 'Lease 3 Jul to 2 Aug 16', 0, 0, 0, 998.75, '02-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -543,9 +543,9 @@ VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Parking', 'Before 1 July 2016', '', '', '', 'Valet parking Melbourne 22 Apr 16', 0, 0, 0, 70.00, '22-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52296.97, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 52296.97, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 998.46, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 998.46, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 42.41, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -591,7 +591,7 @@ VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Sep to 30 Sep 16', 0, 0, 0, 488.36, '30-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Brendan O''Connor', 'Representative', 'Gorton', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'e-material 13 Sep to 27 Sep 16', 0, 0, 0, 33.17, '27-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

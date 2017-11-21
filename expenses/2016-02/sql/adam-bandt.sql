@@ -101,9 +101,9 @@ VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Gre
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 1 Sep 16', 0, 0, 0, 46.95, '01-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 80972.87, '01-Jan-1900', '');
+VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 80972.87, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4607.29, '01-Jan-1900', '');
+VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4607.29, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 53.06, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -167,7 +167,7 @@ VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Gre
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-design 10 Aug 16', 0, 0, 0, 3681.96, '10-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Adam Bandt', 'Representative', 'Melbourne', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Sep to 30 Sep 16', 0, 0, 0, 1.09, '30-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

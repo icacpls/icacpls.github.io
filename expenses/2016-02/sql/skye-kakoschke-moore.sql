@@ -155,7 +155,7 @@ VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Reimbursement of taxi fare 21 Oct 16', 0, 0, 0, -23.20, '21-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 50825.42, '01-Jan-1900', '');
+VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 50825.42, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 0.87, '27-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

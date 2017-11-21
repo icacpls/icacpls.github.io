@@ -167,9 +167,9 @@ VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '6 Dec 16', 0, 0, 47.57, '06-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23209.93, '01-Jan-1900', '');
+VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23209.93, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2326.14, '01-Jan-1900', '');
+VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2326.14, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 74.61, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -215,7 +215,7 @@ VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1 Printed item 22 Aug 16', 0, 0, 130.00, '22-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Nov 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Rachel Siewert', 'Senator', '', 'Western Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', '1,000 Printed items 4 Nov 16', 0, 0, 140.00, '04-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

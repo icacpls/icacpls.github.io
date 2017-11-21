@@ -87,9 +87,9 @@ VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '8 Feb 17', 0, 0, 20.72, '08-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 33514.15, '01-Jan-1900', '');
+VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 33514.15, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2967.56, '01-Jan-1900', '');
+VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2967.56, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 1587.75, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -119,7 +119,7 @@ VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Jan to 31 Jan 17', 0, 0, 5202.44, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Printing 23 Jan 17', 0, 0, 40.00, '23-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -175,13 +175,13 @@ VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '1 Gallipoli 5 Oct 16', 0, 0, 0, '05-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '', 0, 0, 39.00, '01-Jan-1900', '');
+VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '', 0, 0, 39.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '1 Freedom Ride 5 Oct 16', 0, 0, 13.86, '05-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', 'Administrative fees 10 Nov 16', 0, 0, 0, '10-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '', 0, 0, 6.32, '01-Jan-1900', '');
+VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '', 0, 0, 6.32, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Julian Hill', 'Representative', 'Bruce', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '', '', '', '25 I Am Malala 10 Nov 16', 0, 0, 352.27, '10-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

@@ -7,13 +7,13 @@ VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Canberra', 'Resilience of Electricity Infrastructure in a Warming', 1, 276.00, 276.00, '09-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Canberra', 'Sittings of Parliament', 5, 276.00, 1380.00, '10-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Adelaide', 'Resilience of Electricity Infrastructure in a Warming', 1, 362.00, 362.00, '19-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', '', 'World', 0, 0, 0, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2017', '', '', 'Melbourne', 'Migration', 2, 382.00, 764.00, '20-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -139,9 +139,9 @@ VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '26 Mar 17 - Perth', 0, 0, 78.60, '26-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 31958.97, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 31958.97, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1730.83, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1730.83, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 20 Jan 17', 0, 0, 32.00, '20-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -157,7 +157,7 @@ VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Water refills 22 Mar 17 to 21 Mar 18', 0, 0, 90.00, '22-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 1909.09, '01-Jan-1900', '');
+VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'Software reimbursement 2016/17', 0, 0, 1909.09, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Chris Back', 'Senator', '', 'Western Australia', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'MFD Monochrome copy charge 28 Nov to 27 Dec 16', 0, 0, 12.78, '27-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

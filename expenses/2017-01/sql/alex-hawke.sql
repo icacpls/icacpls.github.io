@@ -55,9 +55,9 @@ VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2017', '', '', '', '9 Mar 17 - Sydney', 0, 0, 219.21, '09-Mar-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 41802.32, '01-Jan-1900');
+VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 41802.32, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 8047.77, '01-Jan-1900');
+VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 8047.77, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 177.99, '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
@@ -95,7 +95,7 @@ VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'e-material 1 Feb 17', 0, 0, 455.00, '01-Feb-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
-VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Feb 17', 0, 0, 15.00, '01-Jan-1900');
+VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Feb 17', 0, 0, 15.00, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)
 VALUES ('Alex Hawke', 'Representative', 'Mitchell', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Feb to 28 Feb 17', 0, 0, 770.98, '28-Feb-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date)

@@ -69,9 +69,9 @@ VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '14 Dec 16', 0, 0, 25.93, '14-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23272.54, '01-Jan-1900', '');
+VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 23272.54, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 8536.44, '01-Jan-1900', '');
+VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 8536.44, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 146.57, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -93,7 +93,7 @@ VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2017', '', '', '', 'MFD Colour copy charge 28 Dec 16 to 27 Jan 17', 0, 0, 61.30, '28-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Skye Kakoschke-Moore', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Web-services 10 Jan 17', 0, 0, 74.55, '10-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

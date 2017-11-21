@@ -49,7 +49,7 @@ VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', 'Sydney', 'Minister - Official Business', 1, 438.00, 0, 438.00, '25-Jun-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Overseas Travel', 'Overseas Travel', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 315.00, '01-Jan-1900', 'OS Ministerial - Minor official expense advance', '');
+VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Overseas Travel', 'Overseas Travel', 'From 1 July 2016', '', '', '', '', 0, 0, 0, 315.00, '01-Jul-2016', 'OS Ministerial - Minor official expense advance', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '2 Jul 16 - Melbourne to Sydney', 0, 0, 0, 781.55, '02-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
@@ -461,9 +461,9 @@ VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'Before 1 July 2016', '', '', '', 'Taxi 3 Jun 16', 0, 0, 0, 9.09, '03-Jun-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 97701.73, '01-Jan-1900', '', '');
+VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 97701.73, '01-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 7795.63, '01-Jan-1900', '', '');
+VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 7795.63, '01-Jul-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Scott Ryan', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Jul to 27 Aug 16', 0, 0, 0, 1.80, '27-Aug-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)

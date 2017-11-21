@@ -427,9 +427,9 @@ VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Ca
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'Before 1 July 2016', '', '', '', 'Reimbursement of hire car costs 29 Jun 16', 0, 0, 0, -22.72, '29-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 115068.80, '01-Jan-1900', '');
+VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 115068.80, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4381.57, '01-Jan-1900', '');
+VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4381.57, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 24 Jul to 23 Aug 16', 0, 0, 0, 148.11, '23-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -445,7 +445,7 @@ VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Of
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Sep to 23 Oct 16', 0, 0, 0, 20.11, '23-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2677.57, '01-Jan-1900', '');
+VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 2677.57, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery adj 1 Oct to 31 Oct 16', 0, 0, 0, -43.40, '31-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -467,7 +467,7 @@ VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Of
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', '500 Printed items 18 Jul 16', 0, 0, 0, 428.75, '18-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Aug 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Aug 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution 1 Aug to 31 Aug 16', 0, 0, 0, 90.91, '31-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -479,7 +479,7 @@ VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Of
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', '1 Printed item 1 Sep 16', 0, 0, 0, 450.00, '01-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Distribution late payment fee Sep 16', 0, 0, 0, 15.00, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Richard Di Natale', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 July 2016', '', '', '', 'Web-services 1 Sep 16', 0, 0, 0, 390.00, '01-Sep-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

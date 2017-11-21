@@ -153,7 +153,7 @@ VALUES ('Cathy O''Toole', 'Representative', 'Herbert', 'Queensland', 'Australian
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Cathy O''Toole', 'Representative', 'Herbert', 'Queensland', 'Australian Labor Party', 'Car Costs', 'Parking', 'From 1 July 2016', '', '', '', 'Parking between 15 Aug and 18 Aug 16', 0, 0, 0, 87.27, '18-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Cathy O''Toole', 'Representative', 'Herbert', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 41139.06, '01-Jan-1900', '');
+VALUES ('Cathy O''Toole', 'Representative', 'Herbert', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 41139.06, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Cathy O''Toole', 'Representative', 'Herbert', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Water refills 19 Aug 16', 0, 0, 0, 1.14, '19-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

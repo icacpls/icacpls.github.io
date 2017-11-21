@@ -19,4 +19,4 @@ VALUES ('Michael Ronaldson', 'Senator', '', 'Victoria', 'Liberal Party of Austra
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)
 VALUES ('Michael Ronaldson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Family Travel Costs', 'Family Traveller Domestic Scheduled Fares', 'From 1 July 2016', '15 Aug 16 - Maroochydore to Melbourne', 0, '', '15-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date, Type)
-VALUES ('Michael Ronaldson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Overseas Travel', 'Overseas Travel', 'Before 1 July 2016', '', -44.97, '', '01-Jan-1900', 'OS Ministerial - Accommodation and meals');
+VALUES ('Michael Ronaldson', 'Senator', '', 'Victoria', 'Liberal Party of Australia', 'Overseas Travel', 'Overseas Travel', 'Before 1 July 2016', '', -44.97, '', '01-Jul-2016', 'OS Ministerial - Accommodation and meals');

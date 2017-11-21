@@ -169,9 +169,9 @@ VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Car Costs', 'Other Car Costs', 'From 1 January 2016', '', '', '', 'Hire care costs between 31 Mar and 1 Apr 16', 0, 0, 0, 59.67, '01-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 47066.91, '01-Jan-1900', '');
+VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 47066.91, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1480.87, '01-Jan-1900', '');
+VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 1480.87, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 18 Jan 16', 0, 0, 0, 74.83, '18-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -227,7 +227,7 @@ VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team',
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution 1 Feb to 29 Feb 16', 0, 0, 0, 90.91, '29-Feb-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Mar 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Mar 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Nick Xenophon', 'Senator', '', 'South Australia', 'Nick Xenophon Team', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Web-services 16 Mar 16', 0, 0, 0, 1760.00, '16-Mar-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

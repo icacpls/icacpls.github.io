@@ -115,9 +115,9 @@ VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '20 Feb 17', 0, 0, 12.61, '20-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 59300.76, '01-Jan-1900', '');
+VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 59300.76, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5624.94, '01-Jan-1900', '');
+VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5624.94, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 274.17, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -151,7 +151,7 @@ VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Printing 20 Dec 16', 0, 0, 450.00, '20-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee credit Dec 16', 0, 0, -15.00, '01-Jan-1900', '');
+VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee credit Dec 16', 0, 0, -15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Patrick Dodson', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Telecommunications', 'Telecommunications - Usage', 'From 1 January 2017', '', '', '', 'Office phones 1 Jan 17', 0, 0, 335.05, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

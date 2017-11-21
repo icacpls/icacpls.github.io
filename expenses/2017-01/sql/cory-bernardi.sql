@@ -113,9 +113,9 @@ VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
 VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '17 Dec 16', 0, 0, 28.20, '17-Dec-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
-VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 22940.80, '01-Jan-1900', '', '');
+VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 22940.80, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
-VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1509.89, '01-Jan-1900', '', '');
+VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 1509.89, '01-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
 VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 431.84, '31-Jan-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
@@ -251,4 +251,4 @@ VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
 VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Telecommunications', 'Telecommunications - Residential - Official', 'From 1 January 2017', '', '', '', 'Dedicated data line 5 Mar 17', 0, 0, 156.30, '05-Mar-2017', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes, Type)
-VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Overseas Travel', 'Overseas Travel', 'Before 1 January 2017', '', '', '', '', 0, 0, 1003.34, '01-Jan-1900', '', 'OS Delegation - Ground transport');
+VALUES ('Cory Bernardi', 'Senator', '', 'South Australia', 'Australian Conservatives', 'Overseas Travel', 'Overseas Travel', 'Before 1 January 2017', '', '', '', '', 0, 0, 1003.34, '01-Jan-2017', '', 'OS Delegation - Ground transport');

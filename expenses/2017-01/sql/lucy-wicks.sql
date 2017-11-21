@@ -11,9 +11,9 @@ VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'Private Vehicle Allowance', 'From 1 January 2017', 'Canberra to Terrigal 2 Mar 17', 123.24, '02-Mar-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 29584.76, '01-Jan-1900');
+VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 29584.76, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 3046.13, '01-Jan-1900');
+VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 3046.13, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', 'Flags 1 Jan to 31 Jan 17', 660.52, '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
@@ -41,7 +41,7 @@ VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', 'Distribution credit 1 Jan to 31 Jan 17', -136.36, '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', 'Distribution late payment fee Jan 17', 15.00, '01-Jan-1900');
+VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', 'Distribution late payment fee Jan 17', 15.00, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', 'Distribution 1 Jan to 31 Jan 17', 5812.42, '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
@@ -91,11 +91,11 @@ VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '1 Printed item credit 27 Nov to 22 Dec 16', -271.50, '22-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '64 The Sydney Morning Herald, 13 The Sydney Morning Herald (Sat), 13 The Sun-Herald and 1 The', 134.86, '01-Jan-1900');
+VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', '64 The Sydney Morning Herald, 13 The Sydney Morning Herald (Sat), 13 The Sun-Herald and 1 The', 134.86, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Publications', 'From 1 January 2017', 'Sydney Morning Herald (digital) 14 Jan to 13 Apr 17', 0, '13-Apr-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
-VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '80 The Daily Telegraph, 16 The Daily Telegraph (Sat), 16 The Sunday Telegraph and 1 The Daily', 174.55, '01-Jan-1900');
+VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', '80 The Daily Telegraph, 16 The Daily Telegraph (Sat), 16 The Sunday Telegraph and 1 The Daily', 174.55, '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)
 VALUES ('Lucy Wicks', 'Representative', 'Robertson', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Publications', 'Before 1 January 2017', 'Telegraph (digital) 9 Dec 16 to 9 Apr 17', 0, '09-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date)

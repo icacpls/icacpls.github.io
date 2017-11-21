@@ -81,9 +81,9 @@ VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Lab
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Labor Party', 'Car Costs', 'COMCAR', 'Before 1 January 2017', '14 Dec 16 - Hobart', 75.00, '', '14-Dec-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 27407.42, '', '01-Jan-1900');
+VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', 'Aggregated Total', 27407.42, '', '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 2455.54, '', '01-Jan-1900');
+VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', 'Aggregated Total', 2455.54, '', '01-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Andrew Giles', 'Representative', 'Scullin', 'Victoria', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', 'Office requisites and stationery 1 Jan to 31 Jan 17', 1447.32, '', '31-Jan-2017');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

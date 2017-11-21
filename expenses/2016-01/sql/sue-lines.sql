@@ -11,7 +11,7 @@ VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'From 1 January 2016', '', '', 'Canberra', 'Finance and Public Administration', 1, 273.00, 0, 273.00, '03-Apr-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2016', '', '', '', '', 0, 0, 0, 7848.85, '01-Jan-1900', 'OS Delegation - Fares', '');
+VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Overseas Travel', 'Overseas Travel', 'From 1 January 2016', '', '', '', '', 0, 0, 0, 7848.85, '01-Jan-2016', 'OS Delegation - Fares', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Domestic Scheduled Fares', 'Fares', 'From 1 January 2016', '', '', '', '19 Jan 16 - Perth to Darwin', 0, 0, 0, 999.09, '19-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
@@ -153,9 +153,9 @@ VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Car Costs', 'Other Car Costs', 'Before 1 January 2016', '', '', '', 'Geraldton 9 Dec to 10 Dec 15', 0, 0, 0, 82.40, '10-Dec-2015', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 92726.26, '01-Jan-1900', '', '');
+VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 92726.26, '01-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
-VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4972.51, '01-Jan-1900', '', '');
+VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 4972.51, '01-Jan-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)
 VALUES ('Sue Lines', 'Senator', '', 'Western Australia', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 0, 0, 0, 108.55, '27-Feb-2016', '', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Type, Notes)

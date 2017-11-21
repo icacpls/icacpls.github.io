@@ -147,9 +147,9 @@ VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Libera
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Car Costs', 'COMCAR', 'From 1 January 2016', '24 Jun 16 - Melbourne', 577.73, '', '24-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 111708.73, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', 'Aggregated Total', 111708.73, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', 'Aggregated Total', 725.69, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', 'Aggregated Total', 725.69, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', 'MFD Colour copy charge 28 Jan to 27 Feb 16', 31.12, '', '27-Feb-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -189,9 +189,9 @@ VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Libera
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution credit 1 Jan to 31 Jan 16', -4.55, '', '31-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution late payment fee Jan 16', 15.00, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution late payment fee Jan 16', 15.00, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution late payment fee Feb 16', 15.00, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution late payment fee Feb 16', 15.00, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 January 2016', 'Distribution 1 Apr to 30 Apr 16', 181.82, '', '30-Apr-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -201,7 +201,7 @@ VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Libera
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'Before 1 January 2016', 'Distribution credit 1 Sep to 30 Sep 15', -4.55, '', '30-Sep-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'Before 1 January 2016', 'Distribution late payment fee Oct 15', 15.00, '', '01-Jan-1900');
+VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'Before 1 January 2016', 'Distribution late payment fee Oct 15', 15.00, '', '01-Jan-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('John Howard', 'Representative', 'Bennelong', 'New South Wales', 'Liberal Party of Australia', 'Office Administrative Costs', 'Additional Printing and Communications', 'Before 1 January 2016', 'Distribution 1 Dec to 31 Dec 15', 181.82, '', '31-Dec-2015');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

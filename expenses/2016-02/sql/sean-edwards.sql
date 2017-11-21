@@ -31,9 +31,9 @@ VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Aust
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Australia', 'Car Costs', 'Other Car Costs', 'Before 1 July 2016', 'Port Lincoln 23 Jun 16', 94.94, '', '23-Jun-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 23.81, '', '01-Jan-1900');
+VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 23.81, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5096.23, '', '01-Jan-1900');
+VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Australia', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', 5096.23, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Sean Edwards', 'Senator', '', 'South Australia', 'Liberal Party of Australia', 'Telecommunications', 'Telecommunications - Usage', 'From 1 July 2016', 'Office phones 1 Jul 16', 1654.96, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

@@ -49,9 +49,9 @@ VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s On
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Car Costs', 'Cabcharge', 'Before 1 January 2017', '', '', '', '26 Nov 16', 0, 0, 115.09, '26-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 15626.81, '01-Jan-1900', '');
+VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 15626.81, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2604.52, '01-Jan-1900', '');
+VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2604.52, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Brian Burston', 'Senator', '', 'New South Wales', 'Pauline Hanson''s One Nation', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 59.43, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

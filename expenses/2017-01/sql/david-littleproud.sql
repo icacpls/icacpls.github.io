@@ -101,9 +101,9 @@ VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '11 Feb 17', 0, 0, 18.90, '11-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 27413.85, '01-Jan-1900', '');
+VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 27413.85, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5772.68, '01-Jan-1900', '');
+VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 5772.68, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 627.07, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -149,7 +149,7 @@ VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution 1 Jan to 31 Jan 17', 0, 0, 15777.75, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Jan 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', '2,000 Printed items 9 Jan 17', 0, 0, 2876.45, '09-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -179,7 +179,7 @@ VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution credit 1 Feb to 28 Feb 17', 0, 0, -6.82, '28-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Feb 17', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Distribution late payment fee Feb 17', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', '1 Printed item 3 Feb 17', 0, 0, 460.90, '03-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
@@ -201,7 +201,7 @@ VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nat
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution credit 1 Dec to 31 Dec 16', 0, 0, -54.55, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution late payment fee Dec 16', 0, 0, 15.00, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('David Littleproud', 'Representative', 'Maranoa', 'Queensland', 'The Nationals', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2017', '', '', '', 'Distribution 1 Dec to 31 Dec 16', 0, 0, 55.50, '31-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

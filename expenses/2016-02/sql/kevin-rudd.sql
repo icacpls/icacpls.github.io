@@ -35,9 +35,9 @@ VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian La
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Car Costs', 'Cabcharge', 'From 1 July 2016', '29 Jul 16', 56.71, '', '29-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 55715.76, '', '01-Jan-1900');
+VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', 55715.76, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', -4583.00, '', '01-Jan-1900');
+VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', -4583.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', 'Office requisites and stationery 1 Aug to 31 Aug 16', 732.29, '', '31-Aug-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
@@ -47,7 +47,7 @@ VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian La
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution 1 Jul to 31 Jul 16', 80.90, '', '31-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
-VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution late payment fee Aug 16', 15.00, '', '01-Jan-1900');
+VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution late payment fee Aug 16', 15.00, '', '01-Jul-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)
 VALUES ('Kevin Rudd', 'Representative', 'Griffith', 'Queensland', 'Australian Labor Party', 'Office Administrative Costs', 'Additional Printing and Communications', 'From 1 July 2016', 'Distribution 1 Aug to 31 Aug 16', 62.40, '', '31-Aug-2016');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Notes, Date)

@@ -193,9 +193,9 @@ VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Car Costs', 'COMCAR', 'Before 1 January 2016', '', '', '', '17 Dec 15 - Sydney', 0, 0, 0, 40.00, '17-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 40269.93, '01-Jan-1900', '');
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 40269.93, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2505.82, '01-Jan-1900', '');
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 2505.82, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2016', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 16', 0, 0, 0, 450.78, '31-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -283,7 +283,7 @@ VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 January 2016', '', '', '', 'MFD Monochrome copy charge 28 Dec 15 to 27 Jan 16', 0, 0, 0, 0.70, '28-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Jan 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Web-design 14 Jan 16', 0, 0, 0, 3644.02, '14-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -307,7 +307,7 @@ VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'PO Box 8117 rental 1 Apr 16 to 31 Mar 17', 0, 0, 0, 164.55, '01-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Apr 16', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', 'Distribution late payment fee Apr 16', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2016', '', '', '', '1,000 Printed items 18 Apr 16', 0, 0, 0, 745.00, '18-Apr-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -353,7 +353,7 @@ VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', '
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2016', '', '', '', 'Distribution credit 1 Dec to 31 Dec 15', 0, 0, 0, -27.27, '31-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2016', '', '', '', 'Distribution late payment fee Dec 15', 0, 0, 0, 15.00, '01-Jan-1900', '');
+VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2016', '', '', '', 'Distribution late payment fee Dec 15', 0, 0, 0, 15.00, '01-Jan-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Robert Simms', 'Senator', '', 'South Australia', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'Before 1 January 2016', '', '', '', 'e-material 31 Dec 15', 0, 0, 0, 133.91, '31-Dec-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

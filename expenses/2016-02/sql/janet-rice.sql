@@ -135,9 +135,9 @@ VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Car Costs
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Taxi 19 Jul 16', 0, 0, 0, 19.73, '19-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 53486.82, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 53486.82, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3937.23, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 3937.23, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jul to 31 Jul 16', 0, 0, 0, 2.86, '31-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -159,13 +159,13 @@ VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Ad
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Sep to 27 Oct 16', 0, 0, 0, 4.03, '27-Oct-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 31.63, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 31.63, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 28 Oct to 27 Nov 16', 0, 0, 0, 4.90, '27-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Oct to 27 Nov 16', 0, 0, 0, 60.98, '27-Nov-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 31.40, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'Software reimbursement 2016/17', 0, 0, 0, 31.40, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Office requisites and stationery 1 May to 31 May 16', 0, 0, 0, 90.59, '31-May-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -175,7 +175,7 @@ VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Ad
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Office requisites and stationery 1 Jun to 30 Jun 16', 0, 0, 0, 323.08, '30-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 695.88, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'Software reimbursement 2015/16', 0, 0, 0, 695.88, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'Before 1 July 2016', '', '', '', 'MFD Colour copy charge 28 Jun to 27 Jul 16', 0, 0, 0, 55.44, '27-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

@@ -37,9 +37,9 @@ VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'T
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', 'Perth', 'Scrutiny of Government Budget Measures', -2, 137.00, 0, -548.00, '08-Oct-2015', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 0, '01-Jan-1900', '');
+VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Travelling Allowance', 'Parliamentary Travelling Allowance', 'Before 1 July 2016', '', '', '', '', 0, 0, 0, 0, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Domestic Scheduled Fares', 'Fares', 'From 1 July 2016', '', '', '', '8 Aug 16 - Launceston to Melbourne', 0, 0, 0, 383.44, '08-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
@@ -249,9 +249,9 @@ VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'C
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Car Costs', 'Other Car Costs', 'From 1 July 2016', '', '', '', 'Hobart to Launceston 2 Dec 16', 0, 0, 0, 228.28, '02-Dec-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 28590.44, '01-Jan-1900', '');
+VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 28590.44, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
-VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 9313.48, '01-Jan-1900', '');
+VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', '', '', '', 'Aggregated Total', 0, 0, 0, 9313.48, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)
 VALUES ('Peter Whish-Wilson', 'Senator', '', 'Tasmania', 'Australian Greens', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', '', '', '', 'MFD Monochrome copy charge 24 Jul to 23 Aug 16', 0, 0, 0, 8.15, '23-Aug-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Spouse, Amount, Date, Notes)

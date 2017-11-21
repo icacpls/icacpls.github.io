@@ -125,9 +125,9 @@ VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Car Costs
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Car Costs', 'Cabcharge', 'From 1 January 2017', '', '', '', '3 Feb 17', 0, 0, 40.46, '03-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 26687.19, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 26687.19, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2879.18, '01-Jan-1900', '');
+VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2879.18, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Janet Rice', 'Senator', '', 'Victoria', 'Australian Greens', 'Office Administrative Costs', 'Printing and Communications', 'From 1 January 2017', '', '', '', 'Web-services 1 Jan to 28 Feb 17', 0, 0, 39.00, '28-Feb-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

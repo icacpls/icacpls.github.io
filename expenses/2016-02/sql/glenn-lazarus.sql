@@ -49,9 +49,9 @@ VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Ca
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Car Costs', 'COMCAR', 'Before 1 July 2016', '27 Jun 16 - Townsville', 675.00, '27-Jun-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
-VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', -11802.02, '01-Jan-1900', '');
+VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'From 1 July 2016', 'Aggregated Total', -11802.02, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
-VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', -47208.08, '01-Jan-1900', '');
+VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Facilities', 'Office Facilities', 'Before 1 July 2016', 'Aggregated Total', -47208.08, '01-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)
 VALUES ('Glenn Lazarus', 'Senator', '', 'Queensland', 'Palmer United Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 July 2016', 'MFD Monochrome copy charge 1 Jul to 27 Jul 16', 37.95, '27-Jul-2016', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, Details, Amount, Date, Notes)

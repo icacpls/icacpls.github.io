@@ -221,9 +221,9 @@ VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal 
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal Party', 'Car Costs', 'Other Car Costs', 'From 1 January 2017', '', '', '', 'Cairns 8 Mar to 9 Mar 17', 0, 0, 341.61, '09-Mar-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 37624.79, '01-Jan-1900', '');
+VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal Party', 'Office Facilities', 'Office Facilities', 'From 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 37624.79, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
-VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2898.86, '01-Jan-1900', '');
+VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal Party', 'Office Facilities', 'Office Facilities', 'Before 1 January 2017', '', '', '', 'Aggregated Total', 0, 0, 2898.86, '01-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)
 VALUES ('Nigel Scullion', 'Senator', '', 'Northern Territory', 'Country Liberal Party', 'Office Administrative Costs', 'Office Consumables and Services', 'From 1 January 2017', '', '', '', 'Office requisites and stationery 1 Jan to 31 Jan 17', 0, 0, 102.14, '31-Jan-2017', '');
 INSERT INTO Expense (Name, MemberType, Electorate, State, Party, Category, SubCategory, Period, DateFrom, DateTo, Location, Details, Nights, Rate, Amount, Date, Notes)

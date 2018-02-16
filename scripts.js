@@ -5,7 +5,7 @@ $(document).ready(function() {
 		is: function (s) {
 			return false;
 		}, format: function (s) {
-			return s.replace('$','').replace(/,/g,'');
+			return s.replace('$','').replace(' 2', '').replace(/,/g,'');
 		}, type: "numeric"
 	});
 	var headers = {};

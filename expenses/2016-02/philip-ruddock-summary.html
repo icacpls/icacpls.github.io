@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Philip Ruddock | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Philip Ruddock</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P39_RUDDOCK_Philip.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,58 +37,339 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$5,627.16</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$5,627.16</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>4 Sep 16 - Sydney to Perth</td>
+			<td class="amount">1,988.40</td>
+			<td></td>
+			<td>04-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>7 Sep 16 - Perth to Sydney</td>
+			<td class="amount">2,022.48</td>
+			<td></td>
+			<td>07-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>5 Nov 16 - Sydney to Melbourne</td>
+			<td class="amount">808.14</td>
+			<td></td>
+			<td>05-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>6 Nov 16 - Melbourne to Sydney</td>
+			<td class="amount">808.14</td>
+			<td></td>
+			<td>06-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$5,627.16</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$5,627.16</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>4 Sep 16 - Sydney to Perth</td>
+			<td class="amount">1,988.40</td>
+			<td></td>
+			<td>04-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>7 Sep 16 - Perth to Sydney</td>
+			<td class="amount">2,022.48</td>
+			<td></td>
+			<td>07-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>5 Nov 16 - Sydney to Melbourne</td>
+			<td class="amount">808.14</td>
+			<td></td>
+			<td>05-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>6 Nov 16 - Melbourne to Sydney</td>
+			<td class="amount">808.14</td>
+			<td></td>
+			<td>06-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$511.06</td>
 			<td class="amount">-$511.06</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Accident excess 6 Apr 16</td>
+			<td class="amount">500.00</td>
+			<td>06-Apr-2016</td>
+		</tr>
+		<tr>
+			<td>End of lease adj 6 May 16</td>
+			<td class="amount">-1,011.06</td>
+			<td>06-May-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$244.56</td>
 			<td class="amount">$244.56</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">244.56</td>
+			<td>01-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$79.25</td>
 			<td class="amount">$79.25</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>MFD Colour copy charge 28 Apr to 27 May 16</td>
+			<td class="amount">74.97</td>
+			<td>27-May-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Apr to 27 May 16</td>
+			<td class="amount">4.28</td>
+			<td>27-May-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$94.90</td>
 			<td class="amount">-$94.90</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 1 May to 31 May 16</td>
+			<td class="amount">162.00</td>
+			<td>31-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 1 May 16</td>
+			<td class="amount">140.00</td>
+			<td>01-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 1 May 16</td>
+			<td class="amount">99.00</td>
+			<td>01-May-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 9 May 16</td>
+			<td class="amount">-495.90</td>
+			<td>09-May-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$98.53</td>
 			<td class="amount">$98.53</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>5 The Australian 1 May to 8 May 16</td>
+			<td class="amount">12.27</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 1 May to 8 May 16</td>
+			<td class="amount">1.09</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>5 The Daily Telegraph 1 May to 8 May 16</td>
+			<td class="amount">6.82</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Sydney Morning Herald 1 May to 8 May 16</td>
+			<td class="amount">14.55</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 1 May to 8 May 16</td>
+			<td class="amount">1.45</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Australian Financial Review 1 May to 8 May 16</td>
+			<td class="amount">21.82</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>5 The Sydney Morning Herald 1 May to 8 May 16</td>
+			<td class="amount">11.36</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>5 The Australian 1 May to 8 May 16</td>
+			<td class="amount">12.27</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>2 The Sun-Herald 1 May to 8 May 16</td>
+			<td class="amount">5.45</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>2 The Sunday Telegraph 1 May to 8 May 16</td>
+			<td class="amount">5.09</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Weekend Australian 1 May to 8 May 16</td>
+			<td class="amount">3.18</td>
+			<td>08-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Sydney Morning Herald (Sat) 1 May to 8 May 16</td>
+			<td class="amount">3.18</td>
+			<td>08-May-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Simon Crean | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Simon Crean</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P36_CREAN_Simon.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,19 +37,73 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$2,662.21</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$2,662.21</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>11 Mar 15 - Melbourne to Darwin</td>
+			<td class="amount">1,451.59</td>
+			<td></td>
+			<td>11-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>14 Mar 15 - Darwin to Melbourne</td>
+			<td class="amount">1,210.62</td>
+			<td></td>
+			<td>14-Mar-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$86.00</td>
 			<td class="amount">$86.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Fire protection services 7 May 13</td>
+			<td class="amount">86.00</td>
+			<td>07-May-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

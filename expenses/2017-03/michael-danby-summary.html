@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Michael Danby | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Michael Danby</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.ipea.gov.au/reporting/Q03/Q03_Danby_Michael.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -31,100 +35,1166 @@
 			<th colspan="3"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$3,366.00</td>
 			<td class="amount">$3,366.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>7 Aug 17</td>
+			<td>9 Aug 17</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>3</td>
+			<td class="amount">276.00</td>
+			<td class="amount">828.00</td>
+			<td>07-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>14 Aug 17</td>
+			<td>16 Aug 17</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>3</td>
+			<td class="amount">276.00</td>
+			<td class="amount">828.00</td>
+			<td>14-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>4 Sep 17</td>
+			<td>6 Sep 17</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>3</td>
+			<td class="amount">285.00</td>
+			<td class="amount">855.00</td>
+			<td>04-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>11 Sep 17</td>
+			<td>13 Sep 17</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>3</td>
+			<td class="amount">285.00</td>
+			<td class="amount">855.00</td>
+			<td>11-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$7,167.81</td>
 			<td class="amount">$7,167.81</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Canberra to Melbourne 23 Jun 17</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>23-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne to Brisbane 30 Jun 17</td>
+			<td class="amount">1,023.41</td>
+			<td></td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Brisbane to Melbourne 30 Jun 17</td>
+			<td class="amount">1,023.41</td>
+			<td></td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne to Canberra 6 Aug 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>06-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Canberra to Melbourne 10 Aug 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>10-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne to Canberra 14 Aug 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>14-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Canberra to Melbourne 17 Aug 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>17-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne to Canberra 4 Sep 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>04-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Canberra to Melbourne 7 Sep 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>07-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne to Canberra 11 Sep 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>11-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$3,146.40</td>
 			<td class="amount">$3,146.40</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Fuel 14 Jun 17</td>
+			<td class="amount">70.57</td>
+			<td>14-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Lease 17 Jun to 16 Jul 17</td>
+			<td class="amount">952.45</td>
+			<td>16-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Lease 17 Jul to 16 Aug 17</td>
+			<td class="amount">952.45</td>
+			<td>16-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Fuel 25 Jul 17</td>
+			<td class="amount">72.33</td>
+			<td>25-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Fuel 6 Aug to 17 Aug 17</td>
+			<td class="amount">146.15</td>
+			<td>17-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Lease 17 Aug to 16 Sep 17</td>
+			<td class="amount">952.45</td>
+			<td>16-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$3,410.98</td>
 			<td class="amount">$3,410.98</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/cabcharge-summary.html">Cabcharge</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Melbourne 30 Jun 17</td>
+			<td class="amount">68.67</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Brisbane 30 Jun 17</td>
+			<td class="amount">55.02</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Brisbane 30 Jun 17</td>
+			<td class="amount">40.00</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 30 Jun 17</td>
+			<td class="amount">74.59</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 3 Jul 17</td>
+			<td class="amount">197.60</td>
+			<td>03-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 3 Jul 17</td>
+			<td class="amount">178.60</td>
+			<td>03-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 4 Jul 17</td>
+			<td class="amount">216.10</td>
+			<td>04-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 21 Jul 17</td>
+			<td class="amount">312.00</td>
+			<td>21-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 26 Jul 17</td>
+			<td class="amount">114.00</td>
+			<td>26-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 31 Jul 17</td>
+			<td class="amount">60.80</td>
+			<td>31-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 6 Aug 17</td>
+			<td class="amount">121.10</td>
+			<td>06-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 10 Aug 17</td>
+			<td class="amount">123.10</td>
+			<td>10-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 11 Aug 17</td>
+			<td class="amount">58.00</td>
+			<td>11-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 11 Aug 17</td>
+			<td class="amount">209.00</td>
+			<td>11-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 13 Aug 17</td>
+			<td class="amount">172.90</td>
+			<td>13-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 14 Aug 17</td>
+			<td class="amount">94.50</td>
+			<td>14-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 17 Aug 17</td>
+			<td class="amount">142.50</td>
+			<td>17-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 22 Aug 17</td>
+			<td class="amount">58.90</td>
+			<td>22-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 28 Aug 17</td>
+			<td class="amount">58.00</td>
+			<td>28-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 1 Sep 17</td>
+			<td class="amount">155.80</td>
+			<td>01-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 3 Sep 17</td>
+			<td class="amount">114.00</td>
+			<td>03-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 4 Sep 17</td>
+			<td class="amount">111.60</td>
+			<td>04-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Canberra 6 Sep 17</td>
+			<td class="amount">58.00</td>
+			<td>06-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 7 Sep 17</td>
+			<td class="amount">121.20</td>
+			<td>07-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 11 Sep 17</td>
+			<td class="amount">98.30</td>
+			<td>11-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 14 Sep 17</td>
+			<td class="amount">102.20</td>
+			<td>14-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 17 Sep 17</td>
+			<td class="amount">114.00</td>
+			<td>17-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 19 Sep 17</td>
+			<td class="amount">66.50</td>
+			<td>19-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne 19 Sep 17</td>
+			<td class="amount">114.00</td>
+			<td>19-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/cabcharge-summary.html">Cabcharge</a>
+			</td>
 			<td class="amount">$195.24</td>
 			<td class="amount">$195.24</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>26 Jul 17</td>
+			<td class="amount">28.29</td>
+			<td>26-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 Aug 17</td>
+			<td class="amount">12.37</td>
+			<td>04-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>5 Aug 17</td>
+			<td class="amount">23.21</td>
+			<td>05-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>11 Aug 17</td>
+			<td class="amount">28.20</td>
+			<td>11-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>21 Aug 17</td>
+			<td class="amount">24.26</td>
+			<td>21-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>22 Aug 17</td>
+			<td class="amount">16.59</td>
+			<td>22-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>28 Aug 17</td>
+			<td class="amount">19.46</td>
+			<td>28-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>31 Aug 17</td>
+			<td class="amount">21.38</td>
+			<td>31-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>3 Sep 17</td>
+			<td class="amount">21.48</td>
+			<td>03-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$45,959.99</td>
 			<td class="amount">$45,959.99</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">45,959.99</td>
+			<td>30-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$1,701.02</td>
 			<td class="amount">$1,701.02</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Software reimbursement 2016/17</td>
+			<td class="amount">933.64</td>
+			<td>30-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 May to 27 Jun 17</td>
+			<td class="amount">189.95</td>
+			<td>27-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 May to 27 Jun 17</td>
+			<td class="amount">3.71</td>
+			<td>27-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jun to 27 Jul 17</td>
+			<td class="amount">248.85</td>
+			<td>27-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jun to 27 Jul 17</td>
+			<td class="amount">10.08</td>
+			<td>27-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Water refills 12 Jul 17</td>
+			<td class="amount">54.40</td>
+			<td>12-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Water refills 12 Jul 17</td>
+			<td class="amount">1.14</td>
+			<td>12-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jul to 27 Aug 17</td>
+			<td class="amount">169.22</td>
+			<td>27-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jul to 27 Aug 17</td>
+			<td class="amount">2.64</td>
+			<td>27-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Water refills 9 Aug 17</td>
+			<td class="amount">1.14</td>
+			<td>09-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Water refills 9 Aug 17</td>
+			<td class="amount">40.80</td>
+			<td>09-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>USB drive 10 Aug 17</td>
+			<td class="amount">45.45</td>
+			<td>10-Aug-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$59,126.06</td>
 			<td class="amount">$59,126.06</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Web-services 3 Mar 17</td>
+			<td class="amount">320.00</td>
+			<td>03-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 20 Apr 17</td>
+			<td class="amount">480.00</td>
+			<td>20-Apr-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 6 May 17</td>
+			<td class="amount">2,000.00</td>
+			<td>06-May-2017</td>
+		</tr>
+		<tr>
+			<td>39,300 Printed items 31 May 17</td>
+			<td class="amount">2,498.00</td>
+			<td>31-May-2017</td>
+		</tr>
+		<tr>
+			<td>28,200 Printed items 31 May 17</td>
+			<td class="amount">2,221.00</td>
+			<td>31-May-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 17</td>
+			<td class="amount">6,540.16</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Jun to 30 Jun 17</td>
+			<td class="amount">-0.91</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 17</td>
+			<td class="amount">26.00</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution late payment fee Jun 17</td>
+			<td class="amount">15.00</td>
+			<td>30-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 9 Jun 17</td>
+			<td class="amount">1,000.00</td>
+			<td>09-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>12,000 Printed items 16 Jun 17</td>
+			<td class="amount">3,017.00</td>
+			<td>16-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 19 Jun 17</td>
+			<td class="amount">8,373.59</td>
+			<td>19-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>e-material 22 Jun 17</td>
+			<td class="amount">1,130.00</td>
+			<td>22-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 23 Jun 17</td>
+			<td class="amount">3,000.00</td>
+			<td>23-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 28 Jun 17</td>
+			<td class="amount">15,552.00</td>
+			<td>28-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 30 Jun 17</td>
+			<td class="amount">3,000.00</td>
+			<td>30-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 1 Jul to 31 Jul 17</td>
+			<td class="amount">50.00</td>
+			<td>31-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 1 Jul 17</td>
+			<td class="amount">700.00</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jul to 31 Jul 17</td>
+			<td class="amount">8.00</td>
+			<td>31-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution late payment fee Jul 17</td>
+			<td class="amount">15.00</td>
+			<td>30-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jul to 31 Jul 17</td>
+			<td class="amount">54.77</td>
+			<td>31-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 7 Jul 17</td>
+			<td class="amount">1,000.00</td>
+			<td>07-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 17 Jul to 16 Aug 17</td>
+			<td class="amount">200.00</td>
+			<td>16-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 1 Aug 17</td>
+			<td class="amount">50.00</td>
+			<td>01-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 1 Aug 17</td>
+			<td class="amount">700.00</td>
+			<td>01-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Aug to 31 Aug 17</td>
+			<td class="amount">384.81</td>
+			<td>31-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 7 Aug 17</td>
+			<td class="amount">453.64</td>
+			<td>07-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Distribution 7 Aug 17</td>
+			<td class="amount">6,338.00</td>
+			<td>07-Aug-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$11,313.64</td>
 			<td class="amount">$11,313.64</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 7 Aug 17</td>
+			<td class="amount">3,650.00</td>
+			<td>07-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 11 Aug 17</td>
+			<td class="amount">3,000.00</td>
+			<td>11-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 15 Aug 17</td>
+			<td class="amount">50.00</td>
+			<td>15-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 17 Aug to 16 Sep 17</td>
+			<td class="amount">200.00</td>
+			<td>16-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>e-material 17 Aug to 24 Aug 17</td>
+			<td class="amount">1,000.00</td>
+			<td>24-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 1 Sep 17</td>
+			<td class="amount">1,760.00</td>
+			<td>01-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 1 Sep 17</td>
+			<td class="amount">700.00</td>
+			<td>01-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 4 Sep 17</td>
+			<td class="amount">453.64</td>
+			<td>04-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 15 Sep 17</td>
+			<td class="amount">250.00</td>
+			<td>15-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 17 Sep to 16 Oct 17</td>
+			<td class="amount">200.00</td>
+			<td>16-Oct-2017</td>
+		</tr>
+		<tr>
+			<td>Web-services 1 Oct 17</td>
+			<td class="amount">50.00</td>
+			<td>01-Oct-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$2,461.20</td>
 			<td class="amount">$2,461.20</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>12 The Tocsin and The Tocsin (digital) 8 May 17 to 7 May 19</td>
+			<td class="amount">2,000.00</td>
+			<td>08-May-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Australian 29 May to 11 Jun 17</td>
+			<td class="amount">10.91</td>
+			<td>11-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Refund of publications 29 May to 11 Jun 17</td>
+			<td class="amount">-2.73</td>
+			<td>11-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>4 Herald Sun 29 May to 11 Jun 17</td>
+			<td class="amount">11.27</td>
+			<td>11-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>20 The Australian Financial Review 4 Jun to 1 Jul 17</td>
+			<td class="amount">72.73</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 4 Jun to 1 Jul 17</td>
+			<td class="amount">12.73</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Saturday Paper 4 Jun to 1 Jul 17</td>
+			<td class="amount">14.55</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>20 The Australian 4 Jun to 1 Jul 17</td>
+			<td class="amount">54.55</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 4 Jun to 1 Jul 17</td>
+			<td class="amount">19.56</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 Herald Sun (Sat) 4 Jun to 1 Jul 17</td>
+			<td class="amount">8.73</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Financial Review 4 Jun to 1 Jul 17</td>
+			<td class="amount">14.55</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 Sunday Herald Sun 4 Jun to 1 Jul 17</td>
+			<td class="amount">10.91</td>
+			<td>01-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>7 The Australian 12 Jun to 23 Jul 17</td>
+			<td class="amount">19.09</td>
+			<td>23-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>7 Herald Sun 12 Jun to 23 Jul 17</td>
+			<td class="amount">19.73</td>
+			<td>23-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Saturday Paper 2 Jul to 12 Aug 17</td>
+			<td class="amount">14.55</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>18 The Australian 2 Jul to 12 Aug 17</td>
+			<td class="amount">49.09</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 2 Jul to 12 Aug 17</td>
+			<td class="amount">12.73</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>18 The Australian Financial Review 2 Jul to 12 Aug 17</td>
+			<td class="amount">65.45</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Financial Review 2 Jul to 12 Aug 17</td>
+			<td class="amount">14.55</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>4 Sunday Herald Sun 2 Jul to 12 Aug 17</td>
+			<td class="amount">10.91</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>4 Herald Sun (Sat) 2 Jul to 12 Aug 17</td>
+			<td class="amount">8.73</td>
+			<td>12-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 2 Jul to 12 Aug 17</td>
+			<td class="amount">18.61</td>
+			<td>12-Aug-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$916.69</td>
 			<td class="amount">$916.69</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 26 Jun 17</td>
+			<td class="amount">248.45</td>
+			<td>26-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 26 Jun 17</td>
+			<td class="amount">31.77</td>
+			<td>26-Jun-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 26 Jul 17</td>
+			<td class="amount">31.96</td>
+			<td>26-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 26 Jul 17</td>
+			<td class="amount">256.36</td>
+			<td>26-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 26 Aug 17</td>
+			<td class="amount">315.48</td>
+			<td>26-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 26 Aug 17</td>
+			<td class="amount">32.67</td>
+			<td>26-Aug-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$400.14</td>
 			<td class="amount">$400.14</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Dedicated data line 2 Jul 17</td>
+			<td class="amount">45.41</td>
+			<td>02-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Residential phones 8 Jul 17</td>
+			<td class="amount">83.72</td>
+			<td>08-Jul-2017</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Aug 17</td>
+			<td class="amount">45.41</td>
+			<td>01-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Residential phones 8 Aug 17</td>
+			<td class="amount">76.84</td>
+			<td>08-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Sep 17</td>
+			<td class="amount">45.41</td>
+			<td>01-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>Residential phones 8 Sep 17</td>
+			<td class="amount">103.35</td>
+			<td>08-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$2,068.55</td>
 			<td class="amount">$2,068.55</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Melbourne to Canberra 29 May 17</td>
+			<td class="amount">149.76</td>
+			<td></td>
+			<td>29-May-2017</td>
+		</tr>
+		<tr>
+			<td>Canberra to Melbourne 30 May 17</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>30-May-2017</td>
+		</tr>
+		<tr>
+			<td>Melbourne to Canberra 6 Aug 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>06-Aug-2017</td>
+		</tr>
+		<tr>
+			<td>Canberra to Melbourne 7 Aug 17</td>
+			<td class="amount">640.44</td>
+			<td></td>
+			<td>07-Aug-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$83.20</td>
 			<td class="amount">$83.20</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Melbourne 7 Aug 17</td>
+			<td class="amount">83.20</td>
+			<td>07-Aug-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/employee-costs-summary.html">Employee Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/employee-costs-summary.html">Employee Costs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/employee-costs-summary.html">Employee Costs</a>
+			</td>
 			<td class="amount">$9,347.55</td>
 			<td class="amount">$9,347.55</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Domestic Travel</td>
+			<td class="amount">9,347.55</td>
+			<td>30-Sep-2017</td>
+		</tr>
+		<tr>
+			<td>*Travel undertaken by 3 employees</td>
+			<td class="amount"></td>
+			<td>30-Sep-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

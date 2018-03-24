@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Helen Coonan | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Helen Coonan</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P32_COONAN_Helen.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,28 +37,159 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$1,265.94</td>
 			<td class="amount">$584.22</td>
 			<td class="amount">$1,850.16</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>26 Apr 13 - Sydney to Wagga Wagga</td>
+			<td class="amount">298.80</td>
+			<td></td>
+			<td>26-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>28 Apr 13 - Wagga Wagga to Sydney</td>
+			<td class="amount">298.80</td>
+			<td></td>
+			<td>28-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>16 May 13 - Sydney to Canberra</td>
+			<td class="amount">251.53</td>
+			<td></td>
+			<td>16-May-2013</td>
+		</tr>
+		<tr>
+			<td>17 May 13 - Canberra to Sydney</td>
+			<td class="amount">416.81</td>
+			<td></td>
+			<td>17-May-2013</td>
+		</tr>
+		<tr>
+			<td>27 Dec 12 - Sydney to Melbourne</td>
+			<td class="amount">584.22</td>
+			<td></td>
+			<td>27-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>30 Dec 12 - Melbourne to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>30-Dec-2012</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$597.60</td>
 			<td class="amount">$584.22</td>
 			<td class="amount">$1,181.82</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>26 Apr 13 - Sydney to Wagga Wagga</td>
+			<td class="amount">298.80</td>
+			<td></td>
+			<td>26-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>28 Apr 13 - Wagga Wagga to Sydney</td>
+			<td class="amount">298.80</td>
+			<td></td>
+			<td>28-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>27 Dec 12 - Sydney to Melbourne</td>
+			<td class="amount">584.22</td>
+			<td></td>
+			<td>27-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>30 Dec 12 - Melbourne to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>30-Dec-2012</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$217.26</td>
 			<td class="amount">-$217.26</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease adj 24 May 07</td>
+			<td class="amount">-46.77</td>
+			<td>24-May-2007</td>
+		</tr>
+		<tr>
+			<td>Lease adj 24 May 07</td>
+			<td class="amount">-138.39</td>
+			<td>24-May-2007</td>
+		</tr>
+		<tr>
+			<td>Lease adj 22 Aug 11</td>
+			<td class="amount">-32.10</td>
+			<td>22-Aug-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Joe Ludwig | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Joe Ludwig</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P39_LUDWIG_Joe.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,25 +36,134 @@
 			<th colspan="3"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/cabcharge-summary.html">Cabcharge</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/cabcharge-summary.html">Cabcharge</a>
+			</td>
 			<td class="amount">$121.09</td>
 			<td class="amount">$121.09</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>5 May 16</td>
+			<td class="amount">121.09</td>
+			<td>05-May-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$455.14</td>
 			<td class="amount">$455.14</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">455.14</td>
+			<td>01-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$12,357.11</td>
 			<td class="amount">$12,357.11</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Printing 1 Dec 15</td>
+			<td class="amount">350.00</td>
+			<td>01-Dec-2015</td>
+		</tr>
+		<tr>
+			<td>Printing 7 Apr 16</td>
+			<td class="amount">450.00</td>
+			<td>07-Apr-2016</td>
+		</tr>
+		<tr>
+			<td>Printing 15 Apr 16</td>
+			<td class="amount">150.00</td>
+			<td>15-Apr-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 6 May 16</td>
+			<td class="amount">1,409.40</td>
+			<td>06-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 6 May 16</td>
+			<td class="amount">4,071.60</td>
+			<td>06-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 6 May 16</td>
+			<td class="amount">2,818.80</td>
+			<td>06-May-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 7 May 16</td>
+			<td class="amount">4,682.34</td>
+			<td>07-May-2016</td>
+		</tr>
+		<tr>
+			<td>4 Printed items credit 7 May 16</td>
+			<td class="amount">-1,298.21</td>
+			<td>07-May-2016</td>
+		</tr>
+		<tr>
+			<td>PO Box rental credit 9 May 16</td>
+			<td class="amount">-276.82</td>
+			<td>09-May-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

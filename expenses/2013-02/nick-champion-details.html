@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Nick Champion | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Nick Champion</h1>
@@ -970,5 +974,12 @@
 		<a href="https://drive.google.com/open?id=1mkTf6285-kc43O097lJC5z7-H8yTwOfW">Period Expenses (CSV)</a> |
 		<a href="https://drive.google.com/open?id=1Q_9WQYRxg0i4_BTR0lvaexCAZdWxYAks">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Harry Jenkins | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Harry Jenkins</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P34_JENKINS_Harry.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,46 +37,190 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$894.77</td>
 			<td class="amount">$531.64</td>
 			<td class="amount">$1,426.41</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>19 Mar 14 - Melbourne to Canberra</td>
+			<td class="amount">334.66</td>
+			<td></td>
+			<td>19-Mar-2014</td>
+		</tr>
+		<tr>
+			<td>24 Mar 14 - Canberra to Melbourne</td>
+			<td class="amount">334.66</td>
+			<td></td>
+			<td>24-Mar-2014</td>
+		</tr>
+		<tr>
+			<td>5 Apr 14 - Melbourne to Coolangatta</td>
+			<td class="amount">225.45</td>
+			<td></td>
+			<td>05-Apr-2014</td>
+		</tr>
+		<tr>
+			<td>5 Apr 14 - Coolangatta to Melbourne</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>05-Apr-2014</td>
+		</tr>
+		<tr>
+			<td>18 Dec 13 - Canberra to Melbourne</td>
+			<td class="amount">531.64</td>
+			<td></td>
+			<td>18-Dec-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$334.66</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$334.66</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>24 Mar 14 - Canberra to Melbourne</td>
+			<td class="amount">334.66</td>
+			<td></td>
+			<td>24-Mar-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/overseas-travel-summary.html">Overseas Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/overseas-travel-summary.html">Overseas Travel</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/overseas-travel-summary.html">Overseas Travel</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$54.32</td>
 			<td class="amount">-$54.32</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<p>Vietnam, Singapore and Indonesia 7 Apr to 19 Apr 13 Parliamentary Delegation.</p>
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Type</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>OS Delegation - Accommodation and Meals</td>
+			<td class="amount">-54.32</td>
+			<td>01-Jan-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/other-car-costs-summary.html">Other Car Costs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/other-car-costs-summary.html">Other Car Costs</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$215.76</td>
 			<td class="amount">$215.76</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Canberra 31 May to 3 Jun 13</td>
+			<td class="amount">215.76</td>
+			<td>03-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$60.00</td>
 			<td class="amount">$60.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Residential phones 5 Aug 13</td>
+			<td class="amount">60.00</td>
+			<td>05-Aug-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

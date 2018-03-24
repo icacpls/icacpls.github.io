@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Michael Sukkar | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Michael Sukkar</h1>
@@ -802,5 +806,12 @@
 		<a href="https://drive.google.com/open?id=1PLtpnCl3rCAD676YduCfBJxzaKejPZPh">Period Expenses (CSV)</a> |
 		<a href="https://drive.google.com/open?id=1otAqND9Ie_vk1DSMxzu8LxqCwwLMx3Vg">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

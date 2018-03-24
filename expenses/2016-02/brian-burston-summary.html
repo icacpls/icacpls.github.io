@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Brian Burston | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Brian Burston</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P39_BURSTON_Brian.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -31,64 +35,606 @@
 			<th colspan="3"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$10,862.00</td>
 			<td class="amount">$10,862.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>15 Aug 16</td>
+			<td>17 Aug 16</td>
+			<td>Canberra</td>
+			<td>Electorate Business</td>
+			<td>3</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">819.00</td>
+			<td>15-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>22 Aug 16</td>
+			<td>24 Aug 16</td>
+			<td>Canberra</td>
+			<td>Official Government or Vice-Regal Function</td>
+			<td>3</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">819.00</td>
+			<td>22-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>30 Aug 16</td>
+			<td>2 Sep 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,104.00</td>
+			<td>30-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16</td>
+			<td>15 Sep 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,380.00</td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>9 Oct 16</td>
+			<td>13 Oct 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,380.00</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>30 Oct 16</td>
+			<td>30 Oct 16</td>
+			<td>Sydney</td>
+			<td>Electorate Business</td>
+			<td>1</td>
+			<td class="amount">400.00</td>
+			<td class="amount"></td>
+			<td class="amount">400.00</td>
+			<td>30-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>2 Nov 16</td>
+			<td>2 Nov 16</td>
+			<td>Tenterfield</td>
+			<td>Electorate Business</td>
+			<td>1</td>
+			<td class="amount">268.00</td>
+			<td class="amount"></td>
+			<td class="amount">268.00</td>
+			<td>02-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>7 Nov 16</td>
+			<td>11 Nov 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,380.00</td>
+			<td>07-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>20 Nov 16</td>
+			<td>1 Dec 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>12</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">3,312.00</td>
+			<td>20-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$1,224.19</td>
 			<td class="amount">$1,224.19</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>25 Nov 16 - Canberra to Brisbane</td>
+			<td class="amount">535.60</td>
+			<td></td>
+			<td>25-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>25 Nov 16 - Brisbane to Rockhampton</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>25-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>26 Nov 16 - Rockhampton to Brisbane</td>
+			<td class="amount">688.59</td>
+			<td></td>
+			<td>26-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>26 Nov 16 - Brisbane to Newcastle</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>26-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$3,271.51</td>
 			<td class="amount">$3,271.51</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 17 Aug to 25 Aug 16</td>
+			<td class="amount">603.35</td>
+			<td>25-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 23 Sep to 17 Oct 16</td>
+			<td class="amount">359.58</td>
+			<td>17-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 26 Sep to 25 Oct 16</td>
+			<td class="amount">850.12</td>
+			<td>25-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 26 Oct to 25 Nov 16</td>
+			<td class="amount">850.11</td>
+			<td>25-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 28 Oct to 12 Nov 16</td>
+			<td class="amount">413.87</td>
+			<td>12-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 19 Nov to 4 Dec 16</td>
+			<td class="amount">194.48</td>
+			<td>04-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$877.81</td>
 			<td class="amount">$877.81</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/other-car-costs-summary.html">Other Car Costs</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>16 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>16-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>16 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>16-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>17 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>17-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>17 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>17-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>17 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>17-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>17 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>17-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>17 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>17-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>22 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>22-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>22 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>22-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>22 Aug 16 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>22-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 Aug 16 - Canberra</td>
+			<td class="amount">40.61</td>
+			<td>23-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>23-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>23-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>24 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>24-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>24 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>24-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>25 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>25-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>25 Aug 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>25-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>25 Nov 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>25-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>27 Nov 16 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>27-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>30 Nov 16 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>30-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/other-car-costs-summary.html">Other Car Costs</a>
+			</td>
 			<td class="amount">$330.38</td>
 			<td class="amount">$330.38</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Fuel charge 15 Aug 16</td>
+			<td class="amount">44.50</td>
+			<td>15-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 19 Aug 16</td>
+			<td class="amount">37.86</td>
+			<td>19-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 25 Aug 16</td>
+			<td class="amount">47.34</td>
+			<td>25-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 29 Aug 16</td>
+			<td class="amount">39.55</td>
+			<td>29-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 2 Sep 16</td>
+			<td class="amount">53.29</td>
+			<td>02-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 4 Sep 16</td>
+			<td class="amount">28.78</td>
+			<td>04-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 10 Sep 16</td>
+			<td class="amount">38.15</td>
+			<td>10-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel charge 16 Sep 16</td>
+			<td class="amount">40.91</td>
+			<td>16-Sep-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$29,757.63</td>
 			<td class="amount">$29,757.63</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">29,757.63</td>
+			<td>01-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$428.44</td>
 			<td class="amount">$428.44</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Aug to 27 Sep 16</td>
+			<td class="amount">2.96</td>
+			<td>27-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Aug to 27 Sep 16</td>
+			<td class="amount">34.34</td>
+			<td>27-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Freight costs 5 Sep 16</td>
+			<td class="amount">120.00</td>
+			<td>05-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Oct to 31 Oct 16</td>
+			<td class="amount">271.14</td>
+			<td>31-Oct-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$2,105.25</td>
 			<td class="amount">$2,105.25</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution credit 1 Oct to 31 Oct 16</td>
+			<td class="amount">-2.27</td>
+			<td>31-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Oct to 31 Oct 16</td>
+			<td class="amount">90.91</td>
+			<td>31-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>1,000 Personalised letterhead stationery 11 Nov 16</td>
+			<td class="amount">68.10</td>
+			<td>11-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 19 Nov 16</td>
+			<td class="amount">1,925.78</td>
+			<td>19-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 5 Dec 16</td>
+			<td class="amount">22.73</td>
+			<td>05-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$1,325.80</td>
 			<td class="amount">$1,325.80</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 9 Sep 16</td>
+			<td class="amount">732.79</td>
+			<td>09-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Sep 16</td>
+			<td class="amount">91.34</td>
+			<td>09-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Oct 16</td>
+			<td class="amount">202.22</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Oct 16</td>
+			<td class="amount">32.50</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Nov 16</td>
+			<td class="amount">232.62</td>
+			<td>09-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Nov 16</td>
+			<td class="amount">34.33</td>
+			<td>09-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

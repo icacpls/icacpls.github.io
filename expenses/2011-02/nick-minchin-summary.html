@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Nick Minchin | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Nick Minchin</h1>
@@ -19,7 +23,7 @@
 		<a href="https://www.finance.gov.au/publications/parliamentarians-reporting/docs/T29/MINCHIN_Nick.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,97 +37,741 @@
 			<th colspan="4"><a href="categories/domestic-travel-summary.html">Domestic Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$8,960.93</td>
 			<td class="amount">$2,110.05</td>
 			<td class="amount">$11,070.98</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>4 Jul 11 Adelaide Melbourne</td>
+			<td class="amount">1,078.94</td>
+			<td></td>
+			<td>04-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>4 Jul 11 Melbourne Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>04-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>25 Jul 11 Adelaide Sydney</td>
+			<td class="amount">967.38</td>
+			<td></td>
+			<td>25-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>27 Jul 11 Sydney Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>27-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>3 Aug 11 Adelaide Sydney</td>
+			<td class="amount">967.38</td>
+			<td></td>
+			<td>03-Aug-2011</td>
+		</tr>
+		<tr>
+			<td>4 Aug 11 Sydney Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>04-Aug-2011</td>
+		</tr>
+		<tr>
+			<td>12 Aug 11 Adelaide Melbourne</td>
+			<td class="amount">539.47</td>
+			<td></td>
+			<td>12-Aug-2011</td>
+		</tr>
+		<tr>
+			<td>12 Aug 11 Melbourne Adelaide</td>
+			<td class="amount">266.64</td>
+			<td></td>
+			<td>12-Aug-2011</td>
+		</tr>
+		<tr>
+			<td>9 Sep 11 Adelaide Sydney</td>
+			<td class="amount">1,482.38</td>
+			<td></td>
+			<td>09-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>9 Sep 11 Sydney Dubbo</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>09-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>11 Sep 11 Dubbo Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>11-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>11 Sep 11 Sydney Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>11-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>2 Nov 11 Adelaide Melbourne</td>
+			<td class="amount">609.36</td>
+			<td></td>
+			<td>02-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>2 Nov 11 Melbourne Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>02-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>4 Nov 11 Adelaide Melbourne</td>
+			<td class="amount">609.36</td>
+			<td></td>
+			<td>04-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>5 Nov 11 Melbourne Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>05-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>7 Nov 11 Adelaide Sydney</td>
+			<td class="amount">967.38</td>
+			<td></td>
+			<td>07-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>8 Nov 11 Sydney Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>08-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>7 Dec 11 Adelaide Canberra</td>
+			<td class="amount">1,472.64</td>
+			<td></td>
+			<td>07-Dec-2011</td>
+		</tr>
+		<tr>
+			<td>8 Dec 11 Canberra Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>08-Dec-2011</td>
+		</tr>
+		<tr>
+			<td>19 Jun 11 Adelaide Melbourne</td>
+			<td class="amount">708.67</td>
+			<td></td>
+			<td>19-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>19 Jun 11 Melbourne Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>19-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>25 Jun 11 Canberra Adelaide</td>
+			<td class="amount">700.69</td>
+			<td></td>
+			<td>25-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>29 Jun 11 Adelaide Canberra</td>
+			<td class="amount">700.69</td>
+			<td></td>
+			<td>29-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-domestic-travel-summary.html">Family Domestic Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$5,207.82</td>
 			<td class="amount">$2,802.76</td>
 			<td class="amount">$8,010.58</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>4 Jul 11 Adelaide Melbourne</td>
+			<td class="amount">1,078.94</td>
+			<td></td>
+			<td>04-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>4 Jul 11 Melbourne Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>04-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>25 Jul 11 Adelaide Sydney</td>
+			<td class="amount">967.38</td>
+			<td></td>
+			<td>25-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>27 Jul 11 Sydney Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>27-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>9 Sep 11 Adelaide Sydney</td>
+			<td class="amount">1,707.99</td>
+			<td></td>
+			<td>09-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>9 Sep 11 Sydney Dubbo</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>09-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>11 Sep 11 Dubbo Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>11-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>11 Sep 11 Sydney Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>11-Sep-2011</td>
+		</tr>
+		<tr>
+			<td>2 Nov 11 Adelaide Melbourne</td>
+			<td class="amount">609.36</td>
+			<td></td>
+			<td>02-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>2 Nov 11 Melbourne Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>02-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>4 Nov 11 Adelaide Melbourne</td>
+			<td class="amount">844.15</td>
+			<td></td>
+			<td>04-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>5 Nov 11 Melbourne Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>05-Nov-2011</td>
+		</tr>
+		<tr>
+			<td>20 Jun 11 Adelaide Melbourne</td>
+			<td class="amount">700.69</td>
+			<td></td>
+			<td>20-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>20 Jun 11 Melbourne Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>20-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>22 Jun 11 Canberra Adelaide</td>
+			<td class="amount">700.69</td>
+			<td></td>
+			<td>22-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>20 Jun 11 Adelaide Melbourne</td>
+			<td class="amount">700.69</td>
+			<td></td>
+			<td>20-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>20 Jun 11 Melbourne Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>20-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>22 Jun 11 Canberra Adelaide</td>
+			<td class="amount">700.69</td>
+			<td></td>
+			<td>22-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/travelling-allowance-summary.html">Travelling Allowance</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,398.00</td>
 			<td class="amount">$1,398.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Purpose</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>19 Jun 11</td>
+			<td>23 Jun 11</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">233.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,165.00</td>
+			<td>19-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>24 Jun 11</td>
+			<td>24 Jun 11</td>
+			<td>Canberra</td>
+			<td>Parliamentary Political</td>
+			<td>1</td>
+			<td class="amount">233.00</td>
+			<td class="amount"></td>
+			<td class="amount">233.00</td>
+			<td>24-Jun-2011</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Party Meeting</td>
+			<td></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td>01-Jul-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle---electorate-summary.html">Private-Plated Vehicle - Electorate</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle---electorate-summary.html">Private-Plated Vehicle - Electorate</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$454.43</td>
 			<td class="amount">$454.43</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-vehicle-allowance-summary.html">Private Vehicle Allowance</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Infringement notice fee 26 Mar 11</td>
+			<td class="amount">25.00</td>
+			<td>26-Mar-2011</td>
+		</tr>
+		<tr>
+			<td>Reimb of infringement notice fee 26 Mar 11</td>
+			<td class="amount">-25.00</td>
+			<td>26-Mar-2011</td>
+		</tr>
+		<tr>
+			<td>Infringement notice fee 28 Mar 11</td>
+			<td class="amount">25.00</td>
+			<td>28-Mar-2011</td>
+		</tr>
+		<tr>
+			<td>Reimb of Infringement notice fee 28 Mar 11</td>
+			<td class="amount">-25.00</td>
+			<td>28-Mar-2011</td>
+		</tr>
+		<tr>
+			<td>Fuel 30 Apr 11</td>
+			<td class="amount">58.23</td>
+			<td>30-Apr-2011</td>
+		</tr>
+		<tr>
+			<td>Car cleaning 30 Apr 11</td>
+			<td class="amount">16.36</td>
+			<td>30-Apr-2011</td>
+		</tr>
+		<tr>
+			<td>Fuel 10 May to 23 May 11</td>
+			<td class="amount">163.67</td>
+			<td>23-May-2011</td>
+		</tr>
+		<tr>
+			<td>Fuel 6 Jun to 28 Jun 11</td>
+			<td class="amount">199.81</td>
+			<td>28-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Car cleaning 28 Jun 11</td>
+			<td class="amount">16.36</td>
+			<td>28-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-vehicle-allowance-summary.html">Private Vehicle Allowance</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$651.24</td>
 			<td class="amount">$651.24</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Canberra to Echuca 30 Jun 11</td>
+			<td class="amount">651.24 **</td>
+			<td>30-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$158.32</td>
 			<td class="amount">$158.32</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Melbourne 8 Jun 11</td>
+			<td class="amount">76.51</td>
+			<td>08-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Canberra 29 Jun 11</td>
+			<td class="amount">41.81</td>
+			<td>29-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Adelaide 29 Jun 11</td>
+			<td class="amount">40.00</td>
+			<td>29-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-expenses-summary.html">Office Expenses</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-expenses-summary.html">Office Expenses</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$475.00</td>
 			<td class="amount">$475.00</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-requisites-and-stationery-summary.html">Office Requisites and Stationery</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Freight costs 30 Jun 11</td>
+			<td class="amount">225.00</td>
+			<td>30-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Freight costs 30 Jun 11</td>
+			<td class="amount">250.00</td>
+			<td>30-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-requisites-and-stationery-summary.html">Office Requisites and Stationery</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$14.42</td>
 			<td class="amount">$14.42</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Photocopier usage 22 Nov 10 to 30 Jun 11</td>
+			<td class="amount">14.42</td>
+			<td>22-Nov-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-telecommunications-summary.html">Office Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$92.37</td>
 			<td class="amount">$92.37</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Reimb of residential phones 1 Jul to 10 Jul 11</td>
+			<td class="amount">-0.36</td>
+			<td>10-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>Residential phones 30 Jun 11</td>
+			<td class="amount">92.73</td>
+			<td>30-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,370.02</td>
 			<td class="amount">$1,370.02</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Mobile PDA 30 Jun 11</td>
+			<td class="amount">127.19</td>
+			<td>30-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Supplementary mobile phone 30 Jun 11</td>
+			<td class="amount">32.77</td>
+			<td>30-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Office fax 30 Jun 11</td>
+			<td class="amount">281.31</td>
+			<td>30-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Office phone directory charges 30 Jun 11</td>
+			<td class="amount">143.00</td>
+			<td>30-Jun-2011</td>
+		</tr>
+		<tr>
+			<td>Office phones 30 Jun 11</td>
+			<td class="amount">785.75</td>
+			<td>30-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$2,901.26</td>
 			<td class="amount">$2,901.26</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">0.00</td>
+			<td>01-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">2,901.26</td>
+			<td>01-Jul-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$0.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">0.00</td>
+			<td>01-Jul-2011</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">0.00</td>
+			<td>01-Jul-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

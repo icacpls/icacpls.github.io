@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Peter Hendy | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Peter Hendy</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P33_HENDY_Peter.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,38 +36,233 @@
 			<th colspan="3"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$4,354.42</td>
 			<td class="amount">$4,354.42</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 25 Sep to 30 Sep 13</td>
+			<td class="amount">219.95</td>
+			<td>30-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 27 Sep 13</td>
+			<td class="amount">92.05</td>
+			<td>27-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Oct to 31 Oct 13</td>
+			<td class="amount">1,099.77</td>
+			<td>31-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 1 Oct to 7 Nov 13</td>
+			<td class="amount">743.11</td>
+			<td>07-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Nov to 30 Nov 13</td>
+			<td class="amount">1,099.77</td>
+			<td>30-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Dec to 31 Dec 13</td>
+			<td class="amount">1,099.77</td>
+			<td>31-Dec-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$39,866.64</td>
 			<td class="amount">$39,866.64</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">39,866.64</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$2,798.90</td>
 			<td class="amount">$2,798.90</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Photocopy paper 1 Oct to 31 Oct 13</td>
+			<td class="amount">151.80</td>
+			<td>31-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Printer consumables 1 Oct to 31 Oct 13</td>
+			<td class="amount">1,331.64</td>
+			<td>31-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Nov to 30 Nov 13</td>
+			<td class="amount">94.46</td>
+			<td>30-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Software reimbursement 2013/14</td>
+			<td class="amount">1,221.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$1,120.00</td>
 			<td class="amount">$1,120.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>11,000 Personalised letterhead stationery 15 Nov 13</td>
+			<td class="amount">1,120.00</td>
+			<td>15-Nov-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$2,657.61</td>
 			<td class="amount">$2,657.61</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 2 Oct 13</td>
+			<td class="amount">711.15</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 2 Oct 13</td>
+			<td class="amount">220.43</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Oct 13</td>
+			<td class="amount">58.82</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Oct 13</td>
+			<td class="amount">120.00</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 1 Nov 13</td>
+			<td class="amount">888.53</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Refund of office phones 1 Nov 13</td>
+			<td class="amount">-169.05</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 1 Nov 13</td>
+			<td class="amount">124.35</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 2 Dec 13</td>
+			<td class="amount">574.13</td>
+			<td>02-Dec-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Dec 13</td>
+			<td class="amount">129.25</td>
+			<td>02-Dec-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

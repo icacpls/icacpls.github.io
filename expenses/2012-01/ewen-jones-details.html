@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Ewen Jones | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Ewen Jones</h1>
@@ -1697,5 +1701,12 @@
 		<a href="https://drive.google.com/open?id=1KCfEkq_nsuO5-lYNySVXMSUEUYLOoUe-">Period Expenses (CSV)</a> |
 		<a href="https://drive.google.com/open?id=1tjocL9cnjyqggssKaxQFsnwpItnTr624">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

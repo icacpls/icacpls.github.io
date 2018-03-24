@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>John Alexander | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>John Alexander</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P37_ALEXANDER_John.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,109 +36,1405 @@
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$9,914.00</td>
 			<td class="amount">$2,439.00</td>
 			<td class="amount">$12,353.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>9 Aug 15</td>
+			<td>12 Aug 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">271.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,084.00</td>
+			<td>09-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>13 Aug 15</td>
+			<td>13 Aug 15</td>
+			<td>Melbourne</td>
+			<td>Chair Parl Committee on Committee</td>
+			<td>1</td>
+			<td class="amount">377.00</td>
+			<td class="amount"></td>
+			<td class="amount">377.00</td>
+			<td>13-Aug-2015</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Business</td>
+			<td></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td>01-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>16 Aug 15</td>
+			<td>20 Aug 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">271.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,355.00</td>
+			<td>16-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>6 Sep 15</td>
+			<td>9 Sep 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,092.00</td>
+			<td>06-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>13 Sep 15</td>
+			<td>16 Sep 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,092.00</td>
+			<td>13-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>17 Sep 15</td>
+			<td>17 Sep 15</td>
+			<td>Canberra</td>
+			<td>Chair Parl Committee on Committee</td>
+			<td>1</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">273.00</td>
+			<td>17-Sep-2015</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Business</td>
+			<td></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td>01-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>11 Oct 15</td>
+			<td>14 Oct 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,092.00</td>
+			<td>11-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>18 Oct 15</td>
+			<td>21 Oct 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,092.00</td>
+			<td>18-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>22 Oct 15</td>
+			<td>22 Oct 15</td>
+			<td>Canberra</td>
+			<td>Economics - Reps</td>
+			<td>1</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">273.00</td>
+			<td>22-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>8 Nov 15</td>
+			<td>11 Nov 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,092.00</td>
+			<td>08-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>22 Nov 15</td>
+			<td>25 Nov 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">273.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,092.00</td>
+			<td>22-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>14 Jun 15</td>
+			<td>17 Jun 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">271.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,084.00</td>
+			<td>14-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>21 Jun 15</td>
+			<td>25 Jun 15</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">271.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,355.00</td>
+			<td>21-Jun-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$827.17</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$827.17</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>24 Jul 15 - Sydney to Melbourne</td>
+			<td class="amount">224.26</td>
+			<td></td>
+			<td>24-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>24 Jul 15 - Melbourne to Sydney</td>
+			<td class="amount">224.26</td>
+			<td></td>
+			<td>24-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>9 Aug 15 - Sydney to Canberra</td>
+			<td class="amount">103.74</td>
+			<td></td>
+			<td>09-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>13 Aug 15 - Canberra to Melbourne</td>
+			<td class="amount">135.61</td>
+			<td></td>
+			<td>13-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>14 Aug 15 - Melbourne to Sydney</td>
+			<td class="amount">139.30</td>
+			<td></td>
+			<td>14-Aug-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-vehicle-allowance-summary.html">Private Vehicle Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-vehicle-allowance-summary.html">Private Vehicle Allowance</a>
+			</td>
 			<td class="amount">$3,032.40</td>
 			<td class="amount">$400.00</td>
 			<td class="amount">$3,432.40</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Sydney to Canberra - 16 Aug 15</td>
+			<td class="amount">216.60</td>
+			<td>16-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 21 Aug 15</td>
+			<td class="amount">216.60</td>
+			<td>21-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 6 Sep 15</td>
+			<td class="amount">216.60</td>
+			<td>06-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 10 Sep 15</td>
+			<td class="amount">216.60</td>
+			<td>10-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 13 Sep 15</td>
+			<td class="amount">216.60</td>
+			<td>13-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 18 Sep 15</td>
+			<td class="amount">216.60</td>
+			<td>18-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 11 Oct 15</td>
+			<td class="amount">216.60</td>
+			<td>11-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 15 Oct 15</td>
+			<td class="amount">216.60</td>
+			<td>15-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 18 Oct 15</td>
+			<td class="amount">216.60</td>
+			<td>18-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 23 Oct 15</td>
+			<td class="amount">216.60</td>
+			<td>23-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 8 Nov 15</td>
+			<td class="amount">216.60</td>
+			<td>08-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 12 Nov 15</td>
+			<td class="amount">216.60</td>
+			<td>12-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 22 Nov 15</td>
+			<td class="amount">216.60</td>
+			<td>22-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 26 Nov 15</td>
+			<td class="amount">216.60</td>
+			<td>26-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 14 Jun 15</td>
+			<td class="amount">100.00</td>
+			<td>14-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 18 Jun 15</td>
+			<td class="amount">100.00</td>
+			<td>18-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Sydney to Canberra - 21 Jun 15</td>
+			<td class="amount">100.00</td>
+			<td>21-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Canberra to Sydney - 26 Jun 15</td>
+			<td class="amount">100.00</td>
+			<td>26-Jun-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$187.39</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$187.39</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/cabcharge-summary.html">Cabcharge</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>29 Sep 15 - Sydney</td>
+			<td class="amount">44.70</td>
+			<td>29-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>29 Sep 15 - Sydney</td>
+			<td class="amount">47.16</td>
+			<td>29-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>27 Nov 15 - Sydney</td>
+			<td class="amount">43.60</td>
+			<td>27-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>27 Nov 15 - Sydney</td>
+			<td class="amount">51.93</td>
+			<td>27-Nov-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/cabcharge-summary.html">Cabcharge</a>
+			</td>
 			<td class="amount">$506.22</td>
 			<td class="amount">$251.57</td>
 			<td class="amount">$757.79</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/other-car-costs-summary.html">Other Car Costs</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>24 Jul 15</td>
+			<td class="amount">119.89</td>
+			<td>24-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>9 Aug 15</td>
+			<td class="amount">119.89</td>
+			<td>09-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>13 Aug 15</td>
+			<td class="amount">76.73</td>
+			<td>13-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>14 Aug 15</td>
+			<td class="amount">57.55</td>
+			<td>14-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>14 Aug 15</td>
+			<td class="amount">67.14</td>
+			<td>14-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>27 Nov 15</td>
+			<td class="amount">26.85</td>
+			<td>27-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>27 Nov 15</td>
+			<td class="amount">38.17</td>
+			<td>27-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>3 May 15</td>
+			<td class="amount">115.09</td>
+			<td>03-May-2015</td>
+		</tr>
+		<tr>
+			<td>5 May 15</td>
+			<td class="amount">115.09</td>
+			<td>05-May-2015</td>
+		</tr>
+		<tr>
+			<td>16 Jun 15</td>
+			<td class="amount">21.39</td>
+			<td>16-Jun-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/other-car-costs-summary.html">Other Car Costs</a>
+			</td>
 			<td class="amount">$272.94</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$272.94</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Melbourne 24 Jul 15</td>
+			<td class="amount">272.94</td>
+			<td>24-Jul-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$110,598.32</td>
 			<td class="amount">$4,446.63</td>
 			<td class="amount">$115,044.95</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">110,598.32</td>
+			<td>01-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">4,446.63</td>
+			<td>01-Jul-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$6,060.44</td>
 			<td class="amount">$23,152.43</td>
 			<td class="amount">$29,212.87</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>General office consumables 1 Jul to 31 Jul 15</td>
+			<td class="amount">7.82</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Portable and attractive items 1 Jul to 31 Jul 15</td>
+			<td class="amount">1,504.04</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>1 Postage tape roll pack 17 Jul 15</td>
+			<td class="amount">145.50</td>
+			<td>17-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jul to 27 Aug 15</td>
+			<td class="amount">2.52</td>
+			<td>27-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jul to 27 Aug 15</td>
+			<td class="amount">43.03</td>
+			<td>27-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Aug to 27 Sep 15</td>
+			<td class="amount">403.45</td>
+			<td>27-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Aug to 27 Sep 15</td>
+			<td class="amount">7.54</td>
+			<td>27-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Sep to 30 Sep 15</td>
+			<td class="amount">260.12</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Software reimbursement 2015/16</td>
+			<td class="amount">1,500.00</td>
+			<td>01-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Software reimbursement 2015/16</td>
+			<td class="amount">818.18</td>
+			<td>01-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Sep to 27 Oct 15</td>
+			<td class="amount">1,195.99</td>
+			<td>27-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Sep to 27 Oct 15</td>
+			<td class="amount">4.86</td>
+			<td>27-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Oct to 31 Oct 15</td>
+			<td class="amount">109.75</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 28 Oct 15</td>
+			<td class="amount">30.99</td>
+			<td>28-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Nov to 30 Nov 15</td>
+			<td class="amount">26.65</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 May to 27 Jun 15</td>
+			<td class="amount">1,263.59</td>
+			<td>27-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 May to 27 Jun 15</td>
+			<td class="amount">10.96</td>
+			<td>27-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>General office consumables adj 1 Jun to 30 Jun 15</td>
+			<td class="amount">-30.82</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Jun to 30 Jun 15</td>
+			<td class="amount">8,511.83</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Digital cameras adj 1 Jun to 30 Jun 15</td>
+			<td class="amount">-1,504.04</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Flags adj 1 Jun to 30 Jun 15</td>
+			<td class="amount">-21,315.30</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Flags 1 Jun to 30 Jun 15</td>
+			<td class="amount">34,783.50</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Portable and attractive items 1 Jun to 30 Jun 15</td>
+			<td class="amount">1,086.63</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jun to 27 Jul 15</td>
+			<td class="amount">344.04</td>
+			<td>27-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jun to 27 Jul 15</td>
+			<td class="amount">2.04</td>
+			<td>27-Jul-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$70,232.76</td>
 			<td class="amount">$31,343.99</td>
 			<td class="amount">$101,576.75</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 1 Jul to 31 Jul 15</td>
+			<td class="amount">8,613.81</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Jul to 31 Jul 15</td>
+			<td class="amount">-25.00</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>e-material 7 Jul 15 to 6 Jul 16</td>
+			<td class="amount">228.00</td>
+			<td>07-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 15 Jul 15</td>
+			<td class="amount">180.00</td>
+			<td>15-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Printing 24 Jul 15</td>
+			<td class="amount">859.09</td>
+			<td>24-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 29 Jul 15</td>
+			<td class="amount">540.00</td>
+			<td>29-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>199,000 Printed items 30 Jul 15</td>
+			<td class="amount">12,215.00</td>
+			<td>30-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 30 Jul 15</td>
+			<td class="amount">3,716.36</td>
+			<td>30-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Aug to 31 Aug 15</td>
+			<td class="amount">-11.36</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Aug to 31 Aug 15</td>
+			<td class="amount">1,937.25</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>e-material 4 Aug 15</td>
+			<td class="amount">79.23</td>
+			<td>04-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 5 Aug 15</td>
+			<td class="amount">600.00</td>
+			<td>05-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 26 Aug 15</td>
+			<td class="amount">640.00</td>
+			<td>26-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Sep to 30 Sep 15</td>
+			<td class="amount">89.02</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 30 Sep 15</td>
+			<td class="amount">640.00</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Oct to 31 Oct 15</td>
+			<td class="amount">8,635.16</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Oct to 31 Oct 15</td>
+			<td class="amount">-11.36</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>250 Printed items 9 Oct 15</td>
+			<td class="amount">508.14</td>
+			<td>09-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 14 Oct 15</td>
+			<td class="amount">750.00</td>
+			<td>14-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Printing 14 Oct 15</td>
+			<td class="amount">980.00</td>
+			<td>14-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 21 Oct 15</td>
+			<td class="amount">312.66</td>
+			<td>21-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 28 Oct 15</td>
+			<td class="amount">640.00</td>
+			<td>28-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution late payment fee Nov 15</td>
+			<td class="amount">15.00</td>
+			<td>01-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Nov to 30 Nov 15</td>
+			<td class="amount">-11.36</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Nov to 30 Nov 15</td>
+			<td class="amount">8,473.85</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 2 Nov 15</td>
+			<td class="amount">3,036.95</td>
+			<td>02-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>67,000 Printed items 2 Nov 15</td>
+			<td class="amount">11,506.36</td>
+			<td>02-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>67,000 Printed items 2 Nov 15</td>
+			<td class="amount">2,330.64</td>
+			<td>02-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 4 Nov 15</td>
+			<td class="amount">640.00</td>
+			<td>04-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 11 Nov 15</td>
+			<td class="amount">750.00</td>
+			<td>11-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 11 Nov 15</td>
+			<td class="amount">625.32</td>
+			<td>11-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 25 Nov 15</td>
+			<td class="amount">750.00</td>
+			<td>25-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Web-services 1 Jul to 30 Aug 14</td>
+			<td class="amount">138.00</td>
+			<td>30-Aug-2014</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 27 May 15</td>
+			<td class="amount">540.00</td>
+			<td>27-May-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 27 May 15</td>
+			<td class="amount">540.00</td>
+			<td>27-May-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 27 May 15</td>
+			<td class="amount">540.00</td>
+			<td>27-May-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 31 May 15</td>
+			<td class="amount">550.00</td>
+			<td>31-May-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 15</td>
+			<td class="amount">7,888.72</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 17 Jun 15</td>
+			<td class="amount">600.00</td>
+			<td>17-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 17 Jun 15</td>
+			<td class="amount">1,000.00</td>
+			<td>17-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Distribution 18 Jun 15</td>
+			<td class="amount">3,290.91</td>
+			<td>18-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>133,000 Printed items 18 Jun 15</td>
+			<td class="amount">13,769.09</td>
+			<td>18-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>Printing 18 Jun 15</td>
+			<td class="amount">650.00</td>
+			<td>18-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>500 Printed items 18 Jun 15</td>
+			<td class="amount">147.27</td>
+			<td>18-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>2 Printed items 24 Jun 15</td>
+			<td class="amount">1,140.00</td>
+			<td>24-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 24 Jun 15</td>
+			<td class="amount">550.00</td>
+			<td>24-Jun-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$844.29</td>
 			<td class="amount">$160.73</td>
 			<td class="amount">$1,005.02</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>23 The Daily Telegraph 1 Jul to 31 Jul 15</td>
+			<td class="amount">29.27</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>23 The Sydney Morning Herald 1 Jul to 31 Jul 15</td>
+			<td class="amount">52.27</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph (Sat) 1 Jul to 31 Jul 15</td>
+			<td class="amount">8.00</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald (Sat) 1 Jul to 31 Jul 15</td>
+			<td class="amount">12.73</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 1 Jul to 31 Jul 15</td>
+			<td class="amount">12.00</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>23 The Australian 1 Jul to 31 Jul 15</td>
+			<td class="amount">52.27</td>
+			<td>31-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>1 The Australian 1 Aug to 31 Aug 15</td>
+			<td class="amount">2.45</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>5 The Daily Telegraph (Sat) 1 Aug to 31 Aug 15</td>
+			<td class="amount">10.00</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Sydney Morning Herald 1 Aug to 31 Aug 15</td>
+			<td class="amount">47.73</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Daily Telegraph 1 Aug to 31 Aug 15</td>
+			<td class="amount">26.73</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>20 The Australian 1 Aug to 31 Aug 15</td>
+			<td class="amount">45.45</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Weekend Australian 1 Aug to 31 Aug 15</td>
+			<td class="amount">15.00</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>5 The Sydney Morning Herald (Sat) 1 Aug to 31 Aug 15</td>
+			<td class="amount">15.91</td>
+			<td>31-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 1 Sep to 30 Sep 15</td>
+			<td class="amount">12.73</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Australian 1 Sep to 30 Sep 15</td>
+			<td class="amount">54.00</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Daily Telegraph 1 Sep to 30 Sep 15</td>
+			<td class="amount">28.00</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald (Sat) 1 Sep to 30 Sep 15</td>
+			<td class="amount">12.73</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Sydney Morning Herald 1 Sep to 30 Sep 15</td>
+			<td class="amount">50.00</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph (Sat) 1 Sep to 30 Sep 15</td>
+			<td class="amount">8.00</td>
+			<td>30-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Daily Telegraph 1 Oct to 31 Oct 15</td>
+			<td class="amount">28.00</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>5 The Daily Telegraph (Sat) 1 Oct to 31 Oct 15</td>
+			<td class="amount">10.00</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Australian 1 Oct to 31 Oct 15</td>
+			<td class="amount">51.55</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Sydney Morning Herald 1 Oct to 31 Oct 15</td>
+			<td class="amount">50.00</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>5 The Sydney Morning Herald (Sat) 1 Oct to 31 Oct 15</td>
+			<td class="amount">15.91</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>5 The Weekend Australian 1 Oct to 31 Oct 15</td>
+			<td class="amount">15.91</td>
+			<td>31-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Australian 1 Nov to 30 Nov 15</td>
+			<td class="amount">51.55</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Daily Telegraph 1 Nov to 30 Nov 15</td>
+			<td class="amount">26.73</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>21 The Sydney Morning Herald 1 Nov to 30 Nov 15</td>
+			<td class="amount">47.73</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 1 Nov to 30 Nov 15</td>
+			<td class="amount">12.73</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph (Sat) 1 Nov to 30 Nov 15</td>
+			<td class="amount">8.00</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald (Sat) 1 Nov to 30 Nov 15</td>
+			<td class="amount">12.73</td>
+			<td>30-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>1 Roald Dahl Story Collection 5 Nov 15</td>
+			<td class="amount">18.18</td>
+			<td>05-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 1 Jun to 30 Jun 15</td>
+			<td class="amount">12.00</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald (Sat) 1 Jun to 30 Jun 15</td>
+			<td class="amount">12.73</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Australian 1 Jun to 30 Jun 15</td>
+			<td class="amount">50.00</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Daily Telegraph 1 Jun to 30 Jun 15</td>
+			<td class="amount">28.00</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>22 The Sydney Morning Herald 1 Jun to 30 Jun 15</td>
+			<td class="amount">50.00</td>
+			<td>30-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph (Sat) 1 Jun to 30 Jun 15</td>
+			<td class="amount">8.00</td>
+			<td>30-Jun-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$1,960.27</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,960.27</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 9 Jul 15</td>
+			<td class="amount">296.70</td>
+			<td>09-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Jul 15</td>
+			<td class="amount">67.73</td>
+			<td>09-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Aug 15</td>
+			<td class="amount">342.87</td>
+			<td>09-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Aug 15</td>
+			<td class="amount">73.33</td>
+			<td>09-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Office phones 10 Sep 15</td>
+			<td class="amount">347.67</td>
+			<td>10-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Office fax 10 Sep 15</td>
+			<td class="amount">69.44</td>
+			<td>10-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Oct 15</td>
+			<td class="amount">331.05</td>
+			<td>09-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Oct 15</td>
+			<td class="amount">70.03</td>
+			<td>09-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Nov 15</td>
+			<td class="amount">282.65</td>
+			<td>09-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Nov 15</td>
+			<td class="amount">78.80</td>
+			<td>09-Nov-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$719.26</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$719.26</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Dedicated data line 2 Jul 15</td>
+			<td class="amount">45.41</td>
+			<td>02-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Residential phones 6 Jul 15</td>
+			<td class="amount">87.39</td>
+			<td>06-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Aug 15</td>
+			<td class="amount">45.41</td>
+			<td>01-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Residential phones 6 Aug 15</td>
+			<td class="amount">88.80</td>
+			<td>06-Aug-2015</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Sep 15</td>
+			<td class="amount">45.41</td>
+			<td>01-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Residential phones 6 Sep 15</td>
+			<td class="amount">65.45</td>
+			<td>06-Sep-2015</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 2 Oct 15</td>
+			<td class="amount">45.41</td>
+			<td>02-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Residential phones 6 Oct 15</td>
+			<td class="amount">66.08</td>
+			<td>06-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Nov 15</td>
+			<td class="amount">45.41</td>
+			<td>01-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Residential phones 6 Nov 15</td>
+			<td class="amount">66.81</td>
+			<td>06-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 2 Dec 15</td>
+			<td class="amount">45.41</td>
+			<td>02-Dec-2015</td>
+		</tr>
+		<tr>
+			<td>Residential phones 6 Dec 15</td>
+			<td class="amount">72.27</td>
+			<td>06-Dec-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$433.20</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$433.20</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>8 Nov 15 - Perth to Canberra</td>
+			<td class="amount">433.20</td>
+			<td></td>
+			<td>08-Nov-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,145.45</td>
 			<td class="amount">$1,145.45</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">1,145.45</td>
+			<td>01-Jul-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

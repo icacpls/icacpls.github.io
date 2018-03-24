@@ -15,4 +15,11 @@ $(document).ready(function() {
 	$(".tablesorter").tablesorter({
 		headers: headers
 	});
+	$("tr.details").hide();
+	$("a.toggle-link").click( function() {
+		var next = $(this).closest("tr").next("tr.details");
+		next.toggle();
+		$(this).text(next.is(":visible") ? "-" : "+");
+		return false;
+	});
 }); 

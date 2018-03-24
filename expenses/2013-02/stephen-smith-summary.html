@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Stephen Smith | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Stephen Smith</h1>
@@ -21,7 +25,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P33_SMITH_Stephen.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -35,112 +39,1843 @@
 			<th colspan="4"><a href="categories/airline-loyalty-points-usage-summary.html">Airline Loyalty Points Usage</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$2,890.00</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$2,890.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>27 Sep 13 - Perth to Melbourne</td>
+			<td class="amount">1,445.00</td>
+			<td></td>
+			<td>27-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>29 Sep 13 - Melbourne to Perth</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>29-Sep-2013</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td class="amount">1,445.00</td>
+			<td></td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$1,898.00</td>
 			<td class="amount">$2,340.00</td>
 			<td class="amount">$4,238.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>8 Jul 13</td>
+			<td>8 Jul 13</td>
+			<td>Canberra</td>
+			<td>Minister - Official Business</td>
+			<td>1</td>
+			<td class="amount">260.00</td>
+			<td class="amount"></td>
+			<td class="amount">260.00</td>
+			<td>08-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>21 Jul 13</td>
+			<td>21 Jul 13</td>
+			<td>Sydney</td>
+			<td>Minister - Official Business</td>
+			<td>1</td>
+			<td class="amount">429.00</td>
+			<td class="amount"></td>
+			<td class="amount">429.00</td>
+			<td>21-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13</td>
+			<td>22 Jul 13</td>
+			<td>Canberra</td>
+			<td>Minister - Official Business</td>
+			<td>1</td>
+			<td class="amount">260.00</td>
+			<td class="amount"></td>
+			<td class="amount">260.00</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13</td>
+			<td>6 Aug 13</td>
+			<td>Canberra</td>
+			<td>Minister - Official Business</td>
+			<td>1</td>
+			<td class="amount">260.00</td>
+			<td class="amount"></td>
+			<td class="amount">260.00</td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13</td>
+			<td>14 Aug 13</td>
+			<td>Canberra</td>
+			<td>Minister - Official Business</td>
+			<td>1</td>
+			<td class="amount">260.00</td>
+			<td class="amount"></td>
+			<td class="amount">260.00</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>27 Aug 13</td>
+			<td>27 Aug 13</td>
+			<td>Melbourne</td>
+			<td>Minister - Official Business</td>
+			<td>1</td>
+			<td class="amount">429.00</td>
+			<td class="amount"></td>
+			<td class="amount">429.00</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>16 Jun 13</td>
+			<td>19 Jun 13</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">260.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,040.00</td>
+			<td>16-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>23 Jun 13</td>
+			<td>27 Jun 13</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">260.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,300.00</td>
+			<td>23-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/overseas-travel-summary.html">Overseas Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/overseas-travel-summary.html">Overseas Travel</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/overseas-travel-summary.html">Overseas Travel</a>
+			</td>
 			<td class="amount">$51,602.80</td>
 			<td class="amount">$9,064.09</td>
 			<td class="amount">$60,666.89</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<p>Republic of Korea and Japan 2 Jul to 6 Jul 13 To attend the 2+2 Foreign and Defence Ministers' Meeting and conduct a series of high-level meetings.</p>
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/overseas-travel-summary.html">Overseas Travel</a></td>
+			<th>Type</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>OS Ministerial - Accommodation and Meals</td>
+			<td class="amount">5,141.09</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Fares</td>
+			<td class="amount">45,252.12</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Ground Transport</td>
+			<td class="amount">818.59</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Minor Official Expense Advance</td>
+			<td class="amount">189.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Related Travel Expenses</td>
+			<td class="amount">38.80</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Travel Advance</td>
+			<td class="amount">163.20</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Fares</td>
+			<td class="amount">-3,675.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Passport Costs</td>
+			<td class="amount">403.82</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Accommodation and Meals</td>
+			<td class="amount">-46.12</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Related Travel Expenses</td>
+			<td class="amount">22.50</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Accommodation and Meals</td>
+			<td class="amount">-258.90</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Ground Transport</td>
+			<td class="amount">4,072.50</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Accommodation and Meals</td>
+			<td class="amount">3,968.21</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Fares</td>
+			<td class="amount">4,670.96</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Related Travel Expenses</td>
+			<td class="amount">-78.61</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Travel Advance</td>
+			<td class="amount">-15.27</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/overseas-travel-summary.html">Overseas Travel</a>
+			</td>
 			<td class="amount">$10,734.10</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$10,734.10</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<p>Brunei 28 Aug to 30 Aug 13 To attend the ASEAN Defence Ministers' Meeting - Plus (ADMM-Plus).</p>
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Type</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>OS Ministerial - Accommodation and Meals</td>
+			<td class="amount">649.06</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Fares</td>
+			<td class="amount">9,896.16</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Minor Official Expense Advance</td>
+			<td class="amount">126.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>OS Ministerial - Travel Advance</td>
+			<td class="amount">62.88</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$18,370.58</td>
 			<td class="amount">$1,961.25</td>
 			<td class="amount">$20,331.83</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>9 Jul 13 - Canberra to Perth</td>
+			<td class="amount">1,511.43</td>
+			<td></td>
+			<td>09-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13 - Sydney to Canberra</td>
+			<td class="amount">418.38</td>
+			<td></td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>23 Jul 13 - Canberra to Perth</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>23-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Perth to Melbourne</td>
+			<td class="amount">1,523.02</td>
+			<td></td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Melbourne to Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>7 Aug 13 - Canberra to Perth</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>07-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13 - Perth to Canberra</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>15 Aug 13 - Canberra to Perth</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>15-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>27 Aug 13 - Perth to Melbourne</td>
+			<td class="amount">1,445.70</td>
+			<td></td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>30 Aug 13 - Melbourne to Perth</td>
+			<td class="amount">1,445.70</td>
+			<td></td>
+			<td>30-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>2 Sep 13 - Perth to Canberra</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>02-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>4 Sep 13 - Canberra to Perth</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>7 Sep 13 - Perth to Sydney</td>
+			<td class="amount">1,472.20</td>
+			<td></td>
+			<td>07-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>8 Sep 13 - Sydney to Perth</td>
+			<td class="amount">1,473.93</td>
+			<td></td>
+			<td>08-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Canberra to Melbourne</td>
+			<td class="amount">517.77</td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Melbourne to Perth</td>
+			<td class="amount">1,443.48</td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$1,019.21</td>
 			<td class="amount">$339.68</td>
 			<td class="amount">$1,358.89</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 1 Jul to 31 Jul 13</td>
+			<td class="amount">784.34</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 21 Jul to 4 Aug 13</td>
+			<td class="amount">132.57</td>
+			<td>04-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Aug to 5 Aug 13</td>
+			<td class="amount">126.50</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Lease adj 1 Aug to 5 Aug 13</td>
+			<td class="amount">-24.20</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 11 May 13</td>
+			<td class="amount">77.85</td>
+			<td>11-May-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 7 Jun to 15 Jul 13</td>
+			<td class="amount">261.83</td>
+			<td>15-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$11,180.22</td>
 			<td class="amount">$118.60</td>
 			<td class="amount">$11,298.82</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>1 Jul 13 - Perth</td>
+			<td class="amount">99.56</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>1 Jul 13 - Perth</td>
+			<td class="amount">52.40</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>2 Jul 13 - Perth</td>
+			<td class="amount">112.66</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>2 Jul 13 - Perth</td>
+			<td class="amount">60.26</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>2 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>6 Jul 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>06-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>8 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>08-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>8 Jul 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>08-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>9 Jul 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>09-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>9 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>09-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>10 Jul 13 - Perth</td>
+			<td class="amount">69.43</td>
+			<td>10-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>10 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>10-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>10 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>10-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>10 Jul 13 - Perth</td>
+			<td class="amount">56.33</td>
+			<td>10-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>11 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>11-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>11 Jul 13 - Perth</td>
+			<td class="amount">66.81</td>
+			<td>11-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>11 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>11-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>12 Jul 13 - Perth</td>
+			<td class="amount">44.54</td>
+			<td>12-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>12 Jul 13 - Perth</td>
+			<td class="amount">116.59</td>
+			<td>12-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>12 Jul 13 - Perth</td>
+			<td class="amount">87.77</td>
+			<td>12-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>15 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>15-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>15 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>15-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>15 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>15-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>15 Jul 13 - Perth</td>
+			<td class="amount">116.59</td>
+			<td>15-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>16 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>16-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>16 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>16-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>16 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>16-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>17 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>17-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>17 Jul 13 - Perth</td>
+			<td class="amount">61.57</td>
+			<td>17-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>17 Jul 13 - Perth</td>
+			<td class="amount">43.23</td>
+			<td>17-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>18 Jul 13 - Perth</td>
+			<td class="amount">183.40</td>
+			<td>18-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>18 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>18-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>19 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>19-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>19 Jul 13 - Perth</td>
+			<td class="amount">72.05</td>
+			<td>19-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>19 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>19-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>21 Jul 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>21-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>21 Jul 13 - Sydney</td>
+			<td class="amount">84.00</td>
+			<td>21-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13 - Sydney</td>
+			<td class="amount">72.05</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13 - Sydney</td>
+			<td class="amount">40.00</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13 - Sydney</td>
+			<td class="amount">40.00</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13 - Canberra</td>
+			<td class="amount">41.80</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>23 Jul 13 - Canberra</td>
+			<td class="amount">255.45</td>
+			<td>23-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>23 Jul 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>23-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>23 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>23-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>24 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>24-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>24 Jul 13 - Perth</td>
+			<td class="amount">227.94</td>
+			<td>24-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>25 Jul 13 - Perth</td>
+			<td class="amount">757.18</td>
+			<td>25-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>25 Jul 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>25-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>25 Jul 13 - Perth</td>
+			<td class="amount">77.29</td>
+			<td>25-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>26 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>26-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>26 Jul 13 - Perth</td>
+			<td class="amount">85.15</td>
+			<td>26-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>29 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>29-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>29 Jul 13 - Perth</td>
+			<td class="amount">53.71</td>
+			<td>29-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>29 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>29-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>30 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>30-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>30 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>30-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>30 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>30-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>31 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>31 Jul 13 - Perth</td>
+			<td class="amount">150.65</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>31 Jul 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>1 Aug 13 - Perth</td>
+			<td class="amount">56.33</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>1 Aug 13 - Perth</td>
+			<td class="amount">112.66</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>2 Aug 13 - Perth</td>
+			<td class="amount">43.23</td>
+			<td>02-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>2 Aug 13 - Perth</td>
+			<td class="amount">289.51</td>
+			<td>02-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>5 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>5 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>5 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Canberra</td>
+			<td class="amount">41.80</td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Canberra</td>
+			<td class="amount">55.02</td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>6 Aug 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>06-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>7 Aug 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>07-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>7 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>07-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>8 Aug 13 - Perth</td>
+			<td class="amount">52.40</td>
+			<td>08-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>8 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>08-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>8 Aug 13 - Perth</td>
+			<td class="amount">44.54</td>
+			<td>08-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>9 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>09-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>9 Aug 13 - Perth</td>
+			<td class="amount">56.33</td>
+			<td>09-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>9 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>09-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>12 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>12-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>12 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>12-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>12 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>12-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>12 Aug 13 - Perth</td>
+			<td class="amount">49.78</td>
+			<td>12-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>12 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>12-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>13 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>13-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>13 Aug 13 - Perth</td>
+			<td class="amount">48.47</td>
+			<td>13-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>13 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>13-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13 - Perth</td>
+			<td class="amount">61.57</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13 - Perth</td>
+			<td class="amount">45.85</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>14 Aug 13 - Canberra</td>
+			<td class="amount">41.80</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>15 Aug 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>15-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>15 Aug 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>15-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>15 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>15-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>16 Aug 13 - Perth</td>
+			<td class="amount">112.66</td>
+			<td>16-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>16 Aug 13 - Perth</td>
+			<td class="amount">77.29</td>
+			<td>16-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>16 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>16-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>19 Aug 13 - Perth</td>
+			<td class="amount">43.23</td>
+			<td>19-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>19 Aug 13 - Perth</td>
+			<td class="amount">57.64</td>
+			<td>19-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>19 Aug 13 - Perth</td>
+			<td class="amount">81.22</td>
+			<td>19-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>20 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>20-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>20 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>20-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>20 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>20-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>20 Aug 13 - Perth</td>
+			<td class="amount">89.08</td>
+			<td>20-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>21 Aug 13 - Perth</td>
+			<td class="amount">45.85</td>
+			<td>21-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>21 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>21-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>21 Aug 13 - Perth</td>
+			<td class="amount">69.43</td>
+			<td>21-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>21 Aug 13 - Perth</td>
+			<td class="amount">99.56</td>
+			<td>21-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>21 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>21-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>22-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 Aug 13 - Perth</td>
+			<td class="amount">103.49</td>
+			<td>22-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 Aug 13 - Perth</td>
+			<td class="amount">47.16</td>
+			<td>22-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 Aug 13 - Perth</td>
+			<td class="amount">56.33</td>
+			<td>22-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>22-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>22-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>23 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>23-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>23 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>23-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>23 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>23-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>26 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>26-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>26 Aug 13 - Perth</td>
+			<td class="amount">66.81</td>
+			<td>26-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>26 Aug 13 - Perth</td>
+			<td class="amount">60.26</td>
+			<td>26-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>26 Aug 13 - Perth</td>
+			<td class="amount">43.23</td>
+			<td>26-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>26 Aug 13 - Perth</td>
+			<td class="amount">74.67</td>
+			<td>26-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>27 Aug 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>27 Aug 13 - Melbourne</td>
+			<td class="amount">136.56</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>28 Aug 13 - Melbourne</td>
+			<td class="amount">60.85</td>
+			<td>28-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>30 Aug 13 - Perth</td>
+			<td class="amount">43.23</td>
+			<td>30-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>30 Aug 13 - Perth</td>
+			<td class="amount">199.12</td>
+			<td>30-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>30 Aug 13 - Perth</td>
+			<td class="amount">131.00</td>
+			<td>30-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>31 Aug 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>31 Aug 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>31 Aug 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>31 Aug 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>2 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>02-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>02-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>02-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>02-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 Sep 13 - Canberra</td>
+			<td class="amount">41.80</td>
+			<td>02-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>3 Sep 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>03-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>3 Sep 13 - Canberra</td>
+			<td class="amount">86.46</td>
+			<td>03-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>4 Sep 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>4 Sep 13 - Canberra</td>
+			<td class="amount">60.26</td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>4 Sep 13 - Canberra</td>
+			<td class="amount">116.59</td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>4 Sep 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>4 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>5 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>05-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>5 Sep 13 - Perth</td>
+			<td class="amount">56.33</td>
+			<td>05-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>5 Sep 13 - Perth</td>
+			<td class="amount">83.84</td>
+			<td>05-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 Sep 13 - Perth</td>
+			<td class="amount">40.61</td>
+			<td>06-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 Sep 13 - Perth</td>
+			<td class="amount">89.08</td>
+			<td>06-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 Sep 13 - Perth</td>
+			<td class="amount">60.26</td>
+			<td>06-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 Sep 13 - Perth</td>
+			<td class="amount">99.56</td>
+			<td>06-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>7 Sep 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>07-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>7 Sep 13 - Sydney</td>
+			<td class="amount">93.95</td>
+			<td>07-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>7 Sep 13 - Sydney</td>
+			<td class="amount">78.60</td>
+			<td>07-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>8 Sep 13 - Sydney</td>
+			<td class="amount">78.60</td>
+			<td>08-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>8 Sep 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>08-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>8 Sep 13 - Sydney</td>
+			<td class="amount">133.62</td>
+			<td>08-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>9 Sep 13 - Perth</td>
+			<td class="amount">72.05</td>
+			<td>09-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>9 Sep 13 - Perth</td>
+			<td class="amount">43.23</td>
+			<td>09-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>10 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>10-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>10 Sep 13 - Perth</td>
+			<td class="amount">48.47</td>
+			<td>10-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>11 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>11-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>11 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>11-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>12 Sep 13 - Perth</td>
+			<td class="amount">44.54</td>
+			<td>12-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>12 Sep 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>12-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>13 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>13-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>13 Sep 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>13-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>23 Jun 13 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>23-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>28-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$40,619.42</td>
 			<td class="amount">$4,511.11</td>
 			<td class="amount">$45,130.53</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">40,619.42</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">4,511.11</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$1,869.32</td>
 			<td class="amount">$3,083.43</td>
 			<td class="amount">$4,952.75</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>General office consumables 1 Jul to 31 Jul 13</td>
+			<td class="amount">568.85</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 1 Jul to 27 Jul 13</td>
+			<td class="amount">177.99</td>
+			<td>27-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 1 Jul to 27 Jul 13</td>
+			<td class="amount">26.29</td>
+			<td>27-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Freight costs 5 Jul 13</td>
+			<td class="amount">159.09</td>
+			<td>05-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jul to 27 Aug 13</td>
+			<td class="amount">897.12</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jul to 27 Aug 13</td>
+			<td class="amount">39.98</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Apr to 27 May 13</td>
+			<td class="amount">18.25</td>
+			<td>27-May-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Apr to 27 May 13</td>
+			<td class="amount">260.13</td>
+			<td>27-May-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 May to 27 Jun 13</td>
+			<td class="amount">23.49</td>
+			<td>27-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 May to 27 Jun 13</td>
+			<td class="amount">238.08</td>
+			<td>27-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Jun to 30 Jun 13</td>
+			<td class="amount">629.03</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Refund of general office consumables 1 Jun to 30 Jun 13</td>
+			<td class="amount">-224.95</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Photocopy paper 1 Jun to 30 Jun 13</td>
+			<td class="amount">155.20</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Occupational health and safety 1 Jun to 30 Jun 13</td>
+			<td class="amount">33.20</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Refund of occupational health and safety 1 Jun to 30 Jun 13</td>
+			<td class="amount">-16.60</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Emergency services - Site establishment 19 Jun 13</td>
+			<td class="amount">1,020.00</td>
+			<td>19-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Emergency services - Site establishment 19 Jun 13</td>
+			<td class="amount">714.00</td>
+			<td>19-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Freight costs 26 Jun 13</td>
+			<td class="amount">10.91</td>
+			<td>26-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 26 Jun 13</td>
+			<td class="amount">200.00</td>
+			<td>26-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jun to 30 Jun 13</td>
+			<td class="amount">2.92</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jun to 30 Jun 13</td>
+			<td class="amount">19.77</td>
+			<td>30-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$2,472.00</td>
 			<td class="amount">$17,720.58</td>
 			<td class="amount">$20,192.58</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 1 Aug to 31 Aug 13</td>
+			<td class="amount">2,472.00</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>68,620 Printed items 18 Apr 13</td>
+			<td class="amount">8,474.40</td>
+			<td>18-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 13</td>
+			<td class="amount">9,246.18</td>
+			<td>30-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$106.67</td>
 			<td class="amount">$130.85</td>
 			<td class="amount">$237.52</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>16 The Australian 15 Jul to 5 Aug 13</td>
+			<td class="amount">29.09</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 15 Jul to 5 Aug 13</td>
+			<td class="amount">7.76</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>16 The West Australian 15 Jul to 5 Aug 13</td>
+			<td class="amount">21.82</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>16 The Australian Financial Review 15 Jul to 5 Aug 13</td>
+			<td class="amount">48.00</td>
+			<td>05-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 17 Jun to 14 Jul 13</td>
+			<td class="amount">7.22</td>
+			<td>14-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>20 The Australian Financial Review 17 Jun to 14 Jul 13</td>
+			<td class="amount">60.00</td>
+			<td>14-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>20 The Australian 17 Jun to 14 Jul 13</td>
+			<td class="amount">36.36</td>
+			<td>14-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>20 The West Australian 17 Jun to 14 Jul 13</td>
+			<td class="amount">27.27</td>
+			<td>14-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$705.45</td>
 			<td class="amount">$202.40</td>
 			<td class="amount">$907.85</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 2 Jul 13</td>
+			<td class="amount">289.59</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Jul 13</td>
+			<td class="amount">32.64</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 1 Aug 13</td>
+			<td class="amount">348.83</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 1 Aug 13</td>
+			<td class="amount">34.39</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile PDA overseas calls 30 Jun 13</td>
+			<td class="amount">64.24</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile PDA 30 Jun 13</td>
+			<td class="amount">138.16</td>
+			<td>30-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$3,026.74</td>
 			<td class="amount">$6,433.10</td>
 			<td class="amount">$9,459.84</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>14 Aug 13 - Perth to Canberra</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>15 Aug 13 - Canberra to Perth</td>
+			<td class="amount">1,513.37</td>
+			<td></td>
+			<td>15-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>27 Jun 13 - Sydney to Canberra</td>
+			<td class="amount">251.53</td>
+			<td></td>
+			<td>27-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Canberra to Melbourne</td>
+			<td class="amount">1,520.33</td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Melbourne to Perth</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>26 Jun 13 - Perth to Sydney</td>
+			<td class="amount">1,179.66</td>
+			<td></td>
+			<td>26-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>26 Jun 13 - Sydney to Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>26-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Canberra to Melbourne</td>
+			<td class="amount">1,520.33</td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Melbourne to Perth</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Canberra to Melbourne</td>
+			<td class="amount">517.77</td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>28 Jun 13 - Melbourne to Perth</td>
+			<td class="amount">1,443.48</td>
+			<td></td>
+			<td>28-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$40.00</td>
 			<td class="amount">$40.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>27 Jun 13 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>27-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

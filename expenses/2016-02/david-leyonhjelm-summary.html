@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>David Leyonhjelm | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>David Leyonhjelm</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P39_LEYONHJELM_David.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,85 +36,1326 @@
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$6,634.00</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$6,634.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>29 Aug 16</td>
+			<td>1 Sep 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,104.00</td>
+			<td>29-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>10 Sep 16</td>
+			<td>10 Sep 16</td>
+			<td>Dubbo</td>
+			<td>Electorate Business</td>
+			<td>1</td>
+			<td class="amount">286.00</td>
+			<td class="amount"></td>
+			<td class="amount">286.00</td>
+			<td>10-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16</td>
+			<td>15 Sep 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,380.00</td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>9 Oct 16</td>
+			<td>13 Oct 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,380.00</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>16 Oct 16</td>
+			<td>19 Oct 16</td>
+			<td>Canberra</td>
+			<td>Senate Estimates</td>
+			<td>4</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,104.00</td>
+			<td>16-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>6 Nov 16</td>
+			<td>10 Nov 16</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,380.00</td>
+			<td>06-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$6,683.06</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$6,683.06</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>29 Aug 16 - Sydney to Canberra</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>29-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>2 Sep 16 - Canberra to Sydney</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>02-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>10 Sep 16 - Sydney to Dubbo</td>
+			<td class="amount">318.06</td>
+			<td></td>
+			<td>10-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16 - Dubbo to Sydney</td>
+			<td class="amount">318.06</td>
+			<td></td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16 - Sydney to Canberra</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>16 Sep 16 - Canberra to Sydney</td>
+			<td class="amount">334.35</td>
+			<td></td>
+			<td>16-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>23 Sep 16 - Melbourne to Sydney</td>
+			<td class="amount">154.16</td>
+			<td></td>
+			<td>23-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>23 Sep 16 - Sydney to Melbourne</td>
+			<td class="amount">154.16</td>
+			<td></td>
+			<td>23-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>23 Sep 16 - Melbourne to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>23-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>9 Oct 16 - Sydney to Canberra</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>14 Oct 16 - Canberra to Sydney</td>
+			<td class="amount">334.35</td>
+			<td></td>
+			<td>14-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>16 Oct 16 - Sydney to Canberra</td>
+			<td class="amount">161.04</td>
+			<td></td>
+			<td>16-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 Oct 16 - Canberra to Sydney</td>
+			<td class="amount">161.04</td>
+			<td></td>
+			<td>20-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>27 Oct 16 - Sydney to Cairns</td>
+			<td class="amount">834.30</td>
+			<td></td>
+			<td>27-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>28 Oct 16 - Cairns to Sydney</td>
+			<td class="amount">926.35</td>
+			<td></td>
+			<td>28-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>6 Nov 16 - Sydney to Canberra</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>06-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>11 Nov 16 - Canberra to Sydney</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>11-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>14 Nov 16 - Sydney to Wagga Wagga</td>
+			<td class="amount">470.04</td>
+			<td></td>
+			<td>14-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>14 Nov 16 - Wagga Wagga to Sydney</td>
+			<td class="amount">470.04</td>
+			<td></td>
+			<td>14-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>20 Nov 16 - Sydney to Canberra</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>20-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>25 Nov 16 - Canberra to Sydney</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>25-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>27 Nov 16 - Sydney to Canberra</td>
+			<td class="amount">121.30</td>
+			<td></td>
+			<td>27-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>2 Dec 16 - Canberra to Sydney</td>
+			<td class="amount">790.66</td>
+			<td></td>
+			<td>02-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>2 Dec 16 - Sydney to Brisbane</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>02-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>3 Dec 16 - Brisbane to Sydney</td>
+			<td class="amount">164.75</td>
+			<td></td>
+			<td>03-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$995.18</td>
 			<td class="amount">$898.40</td>
 			<td class="amount">$1,893.58</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 1 Jul to 31 Jul 16</td>
+			<td class="amount">898.40</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Registration 6 Jul 16</td>
+			<td class="amount">32.00</td>
+			<td>06-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Registration 7 Jul 16</td>
+			<td class="amount">236.75</td>
+			<td>07-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Registration 7 Jul 16</td>
+			<td class="amount">60.41</td>
+			<td>07-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>End of lease adj 31 Jul 16</td>
+			<td class="amount">-3,459.04</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Aug to 31 Aug 16</td>
+			<td class="amount">898.40</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 1 Aug 16</td>
+			<td class="amount">63.01</td>
+			<td>01-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Sep to 30 Sep 16</td>
+			<td class="amount">898.40</td>
+			<td>30-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Registration 28 Sep 16</td>
+			<td class="amount">0.13</td>
+			<td>28-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 30 Sep to 29 Oct 16</td>
+			<td class="amount">658.29</td>
+			<td>29-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 4 Oct 16</td>
+			<td class="amount">50.14</td>
+			<td>04-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 30 Oct to 29 Nov 16</td>
+			<td class="amount">658.29</td>
+			<td>29-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Jun to 30 Jun 16</td>
+			<td class="amount">898.40</td>
+			<td>30-Jun-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$1,754.73</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,754.73</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/cabcharge-summary.html">Cabcharge</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>29 Aug 16 - Sydney</td>
+			<td class="amount">40.00</td>
+			<td>29-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>2 Sep 16 - Sydney</td>
+			<td class="amount">54.70</td>
+			<td>02-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>10 Sep 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>10-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16 - Sydney</td>
+			<td class="amount">54.70</td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>16 Sep 16 - Sydney</td>
+			<td class="amount">54.70</td>
+			<td>16-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>23 Sep 16 - Sydney</td>
+			<td class="amount">44.90</td>
+			<td>23-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>23 Sep 16 - Sydney</td>
+			<td class="amount">69.72</td>
+			<td>23-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>9 Oct 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>14 Oct 16 - Sydney</td>
+			<td class="amount">56.20</td>
+			<td>14-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>16 Oct 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>16-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 Oct 16 - Sydney</td>
+			<td class="amount">54.90</td>
+			<td>20-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>27 Oct 16 - Sydney</td>
+			<td class="amount">66.47</td>
+			<td>27-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>28 Oct 16 - Sydney</td>
+			<td class="amount">54.90</td>
+			<td>28-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>6 Nov 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>06-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>11 Nov 16 - Sydney</td>
+			<td class="amount">69.92</td>
+			<td>11-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>14 Nov 16 - Sydney</td>
+			<td class="amount">96.60</td>
+			<td>14-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>14 Nov 16 - Sydney</td>
+			<td class="amount">54.90</td>
+			<td>14-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>20 Nov 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>20-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>25 Nov 16 - Sydney</td>
+			<td class="amount">84.33</td>
+			<td>25-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>27 Nov 16 - Sydney</td>
+			<td class="amount">83.50</td>
+			<td>27-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>2 Dec 16 - Sydney</td>
+			<td class="amount">65.99</td>
+			<td>02-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>2 Dec 16 - Brisbane</td>
+			<td class="amount">54.00</td>
+			<td>02-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>3 Dec 16 - Sydney</td>
+			<td class="amount">93.50</td>
+			<td>03-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>19 Dec 16 - Sydney</td>
+			<td class="amount">44.90</td>
+			<td>19-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>22 Dec 16 - Sydney</td>
+			<td class="amount">54.90</td>
+			<td>22-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/cabcharge-summary.html">Cabcharge</a>
+			</td>
 			<td class="amount">$574.75</td>
 			<td class="amount">$170.22</td>
 			<td class="amount">$744.97</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1 Aug 16</td>
+			<td class="amount">18.52</td>
+			<td>01-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>1 Aug 16</td>
+			<td class="amount">24.08</td>
+			<td>01-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>8 Aug 16</td>
+			<td class="amount">21.68</td>
+			<td>08-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>8 Aug 16</td>
+			<td class="amount">24.08</td>
+			<td>08-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>19 Aug 16</td>
+			<td class="amount">25.90</td>
+			<td>19-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>19 Aug 16</td>
+			<td class="amount">23.31</td>
+			<td>19-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>2 Sep 16</td>
+			<td class="amount">23.98</td>
+			<td>02-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>2 Sep 16</td>
+			<td class="amount">19.37</td>
+			<td>02-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>10 Sep 16</td>
+			<td class="amount">19.28</td>
+			<td>10-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>10 Sep 16</td>
+			<td class="amount">18.13</td>
+			<td>10-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>11 Sep 16</td>
+			<td class="amount">21.87</td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>13 Sep 16</td>
+			<td class="amount">9.59</td>
+			<td>13-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>20 Sep 16</td>
+			<td class="amount">23.50</td>
+			<td>20-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>20 Sep 16</td>
+			<td class="amount">22.83</td>
+			<td>20-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>21 Sep 16</td>
+			<td class="amount">22.93</td>
+			<td>21-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>21 Sep 16</td>
+			<td class="amount">28.30</td>
+			<td>21-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>21 Sep 16</td>
+			<td class="amount">28.77</td>
+			<td>21-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>21 Sep 16</td>
+			<td class="amount">23.98</td>
+			<td>21-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>2 Nov 16</td>
+			<td class="amount">52.70</td>
+			<td>02-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 Nov 16</td>
+			<td class="amount">45.51</td>
+			<td>03-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 Nov 16</td>
+			<td class="amount">26.19</td>
+			<td>03-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 Dec 16</td>
+			<td class="amount">50.25</td>
+			<td>03-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>23 Jun 16</td>
+			<td class="amount">54.43</td>
+			<td>23-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>23 Jun 16</td>
+			<td class="amount">15.94</td>
+			<td>23-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>24 Jun 16</td>
+			<td class="amount">57.74</td>
+			<td>24-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>30 Jun 16</td>
+			<td class="amount">20.05</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>30 Jun 16</td>
+			<td class="amount">22.06</td>
+			<td>30-Jun-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$53,919.55</td>
 			<td class="amount">$3,254.00</td>
 			<td class="amount">$57,173.55</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">53,919.55</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">3,254.00</td>
+			<td>01-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$424.78</td>
 			<td class="amount">$1,111.36</td>
 			<td class="amount">$1,536.14</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jul to 27 Aug 16</td>
+			<td class="amount">18.18</td>
+			<td>27-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jul to 27 Aug 16</td>
+			<td class="amount">89.33</td>
+			<td>27-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Aug to 31 Aug 16</td>
+			<td class="amount">204.20</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Aug to 27 Sep 16</td>
+			<td class="amount">6.26</td>
+			<td>27-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Aug to 27 Sep 16</td>
+			<td class="amount">13.55</td>
+			<td>27-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Sep to 30 Sep 16</td>
+			<td class="amount">59.97</td>
+			<td>30-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Sep to 27 Oct 16</td>
+			<td class="amount">5.86</td>
+			<td>27-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Sep to 27 Oct 16</td>
+			<td class="amount">5.11</td>
+			<td>27-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Oct to 27 Nov 16</td>
+			<td class="amount">17.33</td>
+			<td>27-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Oct to 27 Nov 16</td>
+			<td class="amount">4.99</td>
+			<td>27-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Apr to 27 May 16</td>
+			<td class="amount">20.20</td>
+			<td>27-May-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Apr to 27 May 16</td>
+			<td class="amount">54.37</td>
+			<td>27-May-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 May to 27 Jun 16</td>
+			<td class="amount">13.21</td>
+			<td>27-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 May to 27 Jun 16</td>
+			<td class="amount">384.87</td>
+			<td>27-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Jun to 30 Jun 16</td>
+			<td class="amount">280.65</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 Postage tape rolls pack 17 Jun 16</td>
+			<td class="amount">100.00</td>
+			<td>17-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 Ink cartridge 17 Jun 16</td>
+			<td class="amount">227.62</td>
+			<td>17-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jun to 27 Jul 16</td>
+			<td class="amount">19.23</td>
+			<td>27-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jun to 27 Jul 16</td>
+			<td class="amount">11.21</td>
+			<td>27-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$6,762.72</td>
 			<td class="amount">$74,318.62</td>
 			<td class="amount">$81,081.34</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Web-services 1 Jul to 31 Jul 16</td>
+			<td class="amount">250.00</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Aug to 31 Aug 16</td>
+			<td class="amount">-22.73</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Aug to 31 Aug 16</td>
+			<td class="amount">909.09</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Web-services 21 Aug 16</td>
+			<td class="amount">250.00</td>
+			<td>21-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Web-services 21 Sep to 20 Oct 16</td>
+			<td class="amount">250.00</td>
+			<td>20-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Web-services 25 Sep 16</td>
+			<td class="amount">3,750.00</td>
+			<td>25-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Web-services 21 Oct 16</td>
+			<td class="amount">250.00</td>
+			<td>21-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Nov to 30 Nov 16</td>
+			<td class="amount">909.09</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Nov to 30 Nov 16</td>
+			<td class="amount">-22.73</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>100 Printed items 9 Dec 16</td>
+			<td class="amount">240.00</td>
+			<td>09-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Jun to 30 Jun 16</td>
+			<td class="amount">-16,079.46</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 16</td>
+			<td class="amount">77,239.42</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>97,000 Printed items 17 Jun 16</td>
+			<td class="amount">9,769.11</td>
+			<td>17-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 17 Jun 16</td>
+			<td class="amount">3,139.55</td>
+			<td>17-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Web-services 21 Jun to 20 Jul 16</td>
+			<td class="amount">250.00</td>
+			<td>20-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$1,588.62</td>
 			<td class="amount">$400.83</td>
 			<td class="amount">$1,989.45</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>21 The Daily Telegraph 1 Jul to 30 Jul 16</td>
+			<td class="amount">28.64</td>
+			<td>30-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>21 The Australian Financial Review 1 Jul to 30 Jul 16</td>
+			<td class="amount">76.36</td>
+			<td>30-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>21 The Sydney Morning Herald 1 Jul to 30 Jul 16</td>
+			<td class="amount">47.73</td>
+			<td>30-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>21 The Australian 1 Jul to 30 Jul 16</td>
+			<td class="amount">51.55</td>
+			<td>30-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Sydney Morning Herald (digital) 4 Jul to 3 Aug 16</td>
+			<td class="amount">23.07</td>
+			<td>03-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Daily Telegraph (digital) 20 Jul to 16 Aug 16</td>
+			<td class="amount">21.82</td>
+			<td>16-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 The Sydney Morning Herald 1 Aug to 31 Aug 16</td>
+			<td class="amount">52.27</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 The Australian Financial Review 1 Aug to 31 Aug 16</td>
+			<td class="amount">83.64</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 The Australian 1 Aug to 31 Aug 16</td>
+			<td class="amount">56.45</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>23 The Daily Telegraph 1 Aug to 31 Aug 16</td>
+			<td class="amount">31.36</td>
+			<td>31-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Sydney Morning Herald (digital) 4 Aug to 3 Sep 16</td>
+			<td class="amount">23.07</td>
+			<td>03-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian Financial Review, 4 The Weekend Financial Review and 1 The Australian Financial</td>
+			<td class="amount">69.21</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Review (digital) 4 Aug to 3 Sep 16</td>
+			<td class="amount"></td>
+			<td>03-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian, 4 The Weekend Australian and 1 The Australian (digital) 15 Aug to 11 Sep 16</td>
+			<td class="amount">32.73</td>
+			<td>11-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Daily Telegraph (digital) 17 Aug to 13 Sep 16</td>
+			<td class="amount">21.82</td>
+			<td>13-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>12 Fishing World 1 Sep 16 to 31 Aug 17</td>
+			<td class="amount">63.59</td>
+			<td>01-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Sydney Morning Herald 1 Sep to 30 Sep 16</td>
+			<td class="amount">50.00</td>
+			<td>30-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Australian 1 Sep to 30 Sep 16</td>
+			<td class="amount">54.00</td>
+			<td>30-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Australian Financial Review 1 Sep to 30 Sep 16</td>
+			<td class="amount">80.00</td>
+			<td>30-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Daily Telegraph 1 Sep to 30 Sep 16</td>
+			<td class="amount">30.00</td>
+			<td>30-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Sydney Morning Herald (digital) 4 Sep to 3 Oct 16</td>
+			<td class="amount">22.93</td>
+			<td>03-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian Financial Review, 4 The Weekend Financial Review and 1 The Australian Financial</td>
+			<td class="amount">68.80</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Review (digital) 4 Sep to 3 Oct 16</td>
+			<td class="amount"></td>
+			<td>03-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian, 4 The Weekend Australian and 1 The Australian (digital) 12 Sep to 9 Oct 16</td>
+			<td class="amount">32.73</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Daily Telegraph (digital) 14 Sep to 11 Oct 16</td>
+			<td class="amount">21.82</td>
+			<td>11-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian 1 Oct to 31 Oct 16</td>
+			<td class="amount">49.09</td>
+			<td>31-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian Financial Review 1 Oct to 31 Oct 16</td>
+			<td class="amount">72.73</td>
+			<td>31-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Daily Telegraph 1 Oct to 31 Oct 16</td>
+			<td class="amount">27.27</td>
+			<td>31-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Sydney Morning Herald 1 Oct to 31 Oct 16</td>
+			<td class="amount">50.91</td>
+			<td>31-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Sydney Morning Herald (digital) 4 Oct to 3 Sep 16</td>
+			<td class="amount">22.93</td>
+			<td>03-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian, 4 The Weekend Australian and 1 The Australian (digital) 10 Oct to 6 Nov 16</td>
+			<td class="amount">32.73</td>
+			<td>06-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Daily Telegraph (digital) 12 Oct to 8 Nov 16</td>
+			<td class="amount">21.82</td>
+			<td>08-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>21 The Daily Telegraph 1 Nov to 30 Nov 16</td>
+			<td class="amount">28.64</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Australian 1 Nov to 30 Nov 16</td>
+			<td class="amount">54.00</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Australian Financial Review 1 Nov to 30 Nov 16</td>
+			<td class="amount">80.00</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Sydney Morning Herald 1 Nov to 30 Nov 16</td>
+			<td class="amount">56.00</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>1 Australian Law Reform Commission Report: 129 Traditional Rights and Freedoms 29 Nov 16</td>
+			<td class="amount">48.91</td>
+			<td>29-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Daily Telegraph (digital) 25 May to 19 Jul 16</td>
+			<td class="amount">32.73</td>
+			<td>19-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian, 4 The Weekend Australian and 1 The Australian (digital) 31 May to 27 Jun 16</td>
+			<td class="amount">32.73</td>
+			<td>27-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Sydney Morning Herald 1 Jun to 30 Jun 16</td>
+			<td class="amount">50.00</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Australian 1 Jun to 30 Jun 16</td>
+			<td class="amount">54.00</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Australian Financial Review 1 Jun to 30 Jun 16</td>
+			<td class="amount">76.36</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>22 The Daily Telegraph 1 Jun to 30 Jun 16</td>
+			<td class="amount">30.00</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Sydney Morning Herald (digital) 4 Jun to 3 Jul 16</td>
+			<td class="amount">23.07</td>
+			<td>03-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian Financial Review, 4 The Weekend Financial Review and 1 The Australian Financial</td>
+			<td class="amount">69.21</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Review (digital) 14 Jun to 13 Jul 16</td>
+			<td class="amount"></td>
+			<td>13-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian, 4 The Weekend Australian and 1 The Australian (digital) 28 Jun to 25 Jul 16</td>
+			<td class="amount">32.73</td>
+			<td>25-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$1,774.57</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,774.57</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 9 Jul 16</td>
+			<td class="amount">392.15</td>
+			<td>09-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Jul 16</td>
+			<td class="amount">78.37</td>
+			<td>09-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Aug 16</td>
+			<td class="amount">212.28</td>
+			<td>09-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Aug 16</td>
+			<td class="amount">73.58</td>
+			<td>09-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Sep 16</td>
+			<td class="amount">263.65</td>
+			<td>09-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Sep 16</td>
+			<td class="amount">80.14</td>
+			<td>09-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Oct 16</td>
+			<td class="amount">269.03</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Oct 16</td>
+			<td class="amount">74.67</td>
+			<td>09-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Nov 16</td>
+			<td class="amount">256.75</td>
+			<td>09-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Nov 16</td>
+			<td class="amount">73.95</td>
+			<td>09-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$623.60</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$623.60</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Dedicated data line 4 Jul 16</td>
+			<td class="amount">124.72</td>
+			<td>04-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 4 Aug 16</td>
+			<td class="amount">124.72</td>
+			<td>04-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 4 Sep 16</td>
+			<td class="amount">124.72</td>
+			<td>04-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 4 Oct 16</td>
+			<td class="amount">124.72</td>
+			<td>04-Oct-2016</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 4 Nov 16</td>
+			<td class="amount">124.72</td>
+			<td>04-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Steve Georganas | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Steve Georganas</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P34_GEORGANAS_Steve.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,37 +36,144 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$1,573.06</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$1,573.06</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>25 Feb 14 - Adelaide to Melbourne</td>
+			<td class="amount">794.44</td>
+			<td></td>
+			<td>25-Feb-2014</td>
+		</tr>
+		<tr>
+			<td>25 Feb 14 - Melbourne to Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>25-Feb-2014</td>
+		</tr>
+		<tr>
+			<td>28 Feb 14 - Canberra to Adelaide</td>
+			<td class="amount">778.62</td>
+			<td></td>
+			<td>28-Feb-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/overseas-travel-summary.html">Overseas Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/overseas-travel-summary.html">Overseas Travel</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/overseas-travel-summary.html">Overseas Travel</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$826.16</td>
 			<td class="amount">-$826.16</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<p>Germany, Spain, Greece, Serbia, UK and Singapore 14 Dec 12 to 25 Jan 13 Overseas Study.</p>
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Type</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>OS Study - Fares</td>
+			<td class="amount">-826.16</td>
+			<td>01-Jan-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$3,030.14</td>
 			<td class="amount">$3,030.14</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>End of lease adj 9 Sep to 9 Dec 13</td>
+			<td class="amount">3,030.14</td>
+			<td>09-Dec-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$6.50</td>
 			<td class="amount">-$6.50</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">-6.50</td>
+			<td>01-Jan-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

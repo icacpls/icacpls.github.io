@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Lin Thorp | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Lin Thorp</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P35_THORP_Lin.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -31,88 +35,452 @@
 			<th colspan="3"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$3,216.00</td>
 			<td class="amount">$3,216.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>15 Jun 14</td>
+			<td>26 Jun 14</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>12</td>
+			<td class="amount">268.00</td>
+			<td class="amount"></td>
+			<td class="amount">3,216.00</td>
+			<td>15-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/overseas-travel-summary.html">Overseas Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/overseas-travel-summary.html">Overseas Travel</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/overseas-travel-summary.html">Overseas Travel</a>
+			</td>
 			<td class="amount">-$214.81</td>
 			<td class="amount">-$214.81</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<p>Switzerland 13 Mar to 23 Mar 14 Parliamentary Delegation.</p>
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Type</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>OS Delegation - Ground transport</td>
+			<td class="amount">-214.81</td>
+			<td>01-Jul-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$1,615.49</td>
 			<td class="amount">$1,615.49</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>15 Jun 14 - Hobart to Melbourne</td>
+			<td class="amount">477.63</td>
+			<td></td>
+			<td>15-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>15 Jun 14 - Melbourne to Canberra</td>
+			<td class="amount">491.54</td>
+			<td></td>
+			<td>15-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>27 Jun 14 - Canberra to Melbourne</td>
+			<td class="amount">646.32</td>
+			<td></td>
+			<td>27-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>27 Jun 14 - Melbourne to Hobart</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>27-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$128.51</td>
 			<td class="amount">$128.51</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Fuel 8 Jun to 26 Jun 14</td>
+			<td class="amount">106.69</td>
+			<td>26-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>Car cleaning 8 Jun to 26 Jun 14</td>
+			<td class="amount">21.82</td>
+			<td>26-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$120.60</td>
 			<td class="amount">$120.60</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/other-car-costs-summary.html">Other Car Costs</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>15 Jun 14 - Hobart</td>
+			<td class="amount">78.60</td>
+			<td>15-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>27 Jun 14 - Hobart</td>
+			<td class="amount">42.00</td>
+			<td>27-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/other-car-costs-summary.html">Other Car Costs</a>
+			</td>
 			<td class="amount">$945.80</td>
 			<td class="amount">$945.80</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Canberra 15 Mar to 18 Mar 13</td>
+			<td class="amount">258.82</td>
+			<td>18-Mar-2013</td>
+		</tr>
+		<tr>
+			<td>Canberra 30 May to 2 Jun 14</td>
+			<td class="amount">299.69</td>
+			<td>02-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>Canberra 20 Jun to 23 Jun 14</td>
+			<td class="amount">387.29</td>
+			<td>23-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$19,552.89</td>
 			<td class="amount">$19,552.89</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">19,552.89</td>
+			<td>01-Jul-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a>
+			</td>
 			<td class="amount">$160.00</td>
 			<td class="amount">$160.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">160.00</td>
+			<td>01-Jul-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$626.97</td>
 			<td class="amount">$626.97</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>MFD Monochrome copy charge 24 May to 23 Jun 14</td>
+			<td class="amount">6.24</td>
+			<td>23-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 24 May to 23 Jun 14</td>
+			<td class="amount">598.00</td>
+			<td>23-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>Water refills 1 Jun to 30 Jun 14</td>
+			<td class="amount">22.73</td>
+			<td>30-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">-$53.64</td>
 			<td class="amount">-$53.64</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>PO Box 5053 rental adj 30 Jun 14 to 31 Mar 15</td>
+			<td class="amount">-53.64</td>
+			<td>30-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$295.25</td>
 			<td class="amount">$295.25</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 30 Jun 14</td>
+			<td class="amount">226.85</td>
+			<td>30-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>Office fax 30 Jun 14</td>
+			<td class="amount">68.40</td>
+			<td>30-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$1,531.90</td>
 			<td class="amount">$1,531.90</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>19 Jun 14 - Hobart to Melbourne</td>
+			<td class="amount">765.95</td>
+			<td></td>
+			<td>19-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>19 Jun 14 - Melbourne to Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>19-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>24 Jun 14 - Canberra to Melbourne</td>
+			<td class="amount">765.95</td>
+			<td></td>
+			<td>24-Jun-2014</td>
+		</tr>
+		<tr>
+			<td>24 Jun 14 - Melbourne to Hobart</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>24-Jun-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

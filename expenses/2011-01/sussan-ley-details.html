@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Sussan Ley | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Sussan Ley</h1>
@@ -3314,5 +3318,12 @@
 		<a href="https://drive.google.com/open?id=13jH2-a6CobBjI1ItBsX6sFmnDsr8K861">Period Expenses (CSV)</a> |
 		<a href="https://drive.google.com/open?id=12Hsc18Iah50nqWFRrtyhWiH4Qekpz3pT">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

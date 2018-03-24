@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Guy Barnett | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Guy Barnett</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P32_BARNETT_Guy.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,19 +36,193 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$5,516.26</td>
 			<td class="amount">-$428.56</td>
 			<td class="amount">$5,087.70</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>12 Jan 13 - Launceston to Melbourne</td>
+			<td class="amount">283.64</td>
+			<td></td>
+			<td>12-Jan-2013</td>
+		</tr>
+		<tr>
+			<td>15 Jan 13 - Melbourne to Launceston</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>15-Jan-2013</td>
+		</tr>
+		<tr>
+			<td>11 Feb 13 - Launceston to Sydney</td>
+			<td class="amount">550.04</td>
+			<td></td>
+			<td>11-Feb-2013</td>
+		</tr>
+		<tr>
+			<td>11 Feb 13 - Sydney to Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>11-Feb-2013</td>
+		</tr>
+		<tr>
+			<td>19 Apr 13 - Launceston to Melbourne</td>
+			<td class="amount">321.96</td>
+			<td></td>
+			<td>19-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>21 Apr 13 - Melbourne to Launceston</td>
+			<td class="amount">325.54</td>
+			<td></td>
+			<td>21-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>24 Apr 13 - Launceston to Melbourne</td>
+			<td class="amount">813.64</td>
+			<td></td>
+			<td>24-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>24 Apr 13 - Melbourne to Canberra</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>24-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>3 May 13 - Launceston to Melbourne</td>
+			<td class="amount">260.00</td>
+			<td></td>
+			<td>03-May-2013</td>
+		</tr>
+		<tr>
+			<td>5 May 13 - Melbourne to Launceston</td>
+			<td class="amount">269.09</td>
+			<td></td>
+			<td>05-May-2013</td>
+		</tr>
+		<tr>
+			<td>9 May 13 - Launceston to Melbourne</td>
+			<td class="amount">919.79</td>
+			<td></td>
+			<td>09-May-2013</td>
+		</tr>
+		<tr>
+			<td>9 May 13 - Melbourne to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>09-May-2013</td>
+		</tr>
+		<tr>
+			<td>11 May 13 - Sydney to Launceston</td>
+			<td class="amount">325.99</td>
+			<td></td>
+			<td>11-May-2013</td>
+		</tr>
+		<tr>
+			<td>19 May 13 - Launceston to Melbourne</td>
+			<td class="amount">699.69</td>
+			<td></td>
+			<td>19-May-2013</td>
+		</tr>
+		<tr>
+			<td>19 May 13 - Melbourne to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>19-May-2013</td>
+		</tr>
+		<tr>
+			<td>19 May 13 - Sydney to Launceston</td>
+			<td class="amount">259.55</td>
+			<td></td>
+			<td>19-May-2013</td>
+		</tr>
+		<tr>
+			<td>24 May 13 - Launceston to Melbourne</td>
+			<td class="amount">212.78</td>
+			<td></td>
+			<td>24-May-2013</td>
+		</tr>
+		<tr>
+			<td>25 May 13 - Melbourne to Launceston</td>
+			<td class="amount">274.55</td>
+			<td></td>
+			<td>25-May-2013</td>
+		</tr>
+		<tr>
+			<td>1 Dec 12 - Launceston to Melbourne</td>
+			<td class="amount">-145.00</td>
+			<td>Refund</td>
+			<td>01-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>4 Dec 12 - Sydney to Launceston</td>
+			<td class="amount">45.46 21</td>
+			<td></td>
+			<td>04-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>4 Dec 12 - Launceston to Sydney</td>
+			<td class="amount">-329.02</td>
+			<td>Refund</td>
+			<td>04-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>21 Sector not flown. Ticket cancellation fee.</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>01-Jan-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$104.70</td>
 			<td class="amount">-$104.70</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease adj 25 Jun 11</td>
+			<td class="amount">-104.70</td>
+			<td>25-Jun-2011</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

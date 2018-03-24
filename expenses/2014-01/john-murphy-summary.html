@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>John Murphy | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>John Murphy</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P34_MURPHY_John.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,25 +36,221 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$1,744.60</td>
 			<td class="amount">$871.98</td>
 			<td class="amount">$2,616.58</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>28 Jan 14 - Sydney to Canberra</td>
+			<td class="amount">436.15</td>
+			<td></td>
+			<td>28-Jan-2014</td>
+		</tr>
+		<tr>
+			<td>28 Jan 14 - Canberra to Sydney</td>
+			<td class="amount">436.15</td>
+			<td></td>
+			<td>28-Jan-2014</td>
+		</tr>
+		<tr>
+			<td>31 Jan 14 - Sydney to Canberra</td>
+			<td class="amount">436.15</td>
+			<td></td>
+			<td>31-Jan-2014</td>
+		</tr>
+		<tr>
+			<td>31 Jan 14 - Canberra to Sydney</td>
+			<td class="amount">436.15</td>
+			<td></td>
+			<td>31-Jan-2014</td>
+		</tr>
+		<tr>
+			<td>18 Dec 13 - Sydney to Canberra</td>
+			<td class="amount">435.99</td>
+			<td></td>
+			<td>18-Dec-2013</td>
+		</tr>
+		<tr>
+			<td>18 Dec 13 - Canberra to Sydney</td>
+			<td class="amount">435.99</td>
+			<td></td>
+			<td>18-Dec-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$75.07</td>
 			<td class="amount">-$75.07</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Printing 3 Sep 13</td>
+			<td class="amount">200.00</td>
+			<td>03-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Refund of distribution 6 Sep 13</td>
+			<td class="amount">-275.07</td>
+			<td>06-Sep-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$323.73</td>
 			<td class="amount">$323.73</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>52 The Weekend Australian 29 Sep 12 to 28 Sep 13</td>
+			<td class="amount">70.91</td>
+			<td>29-Sep-2012</td>
+		</tr>
+		<tr>
+			<td>55 The Daily Telegraph (Sat) and 55 The Sunday Telegraph 29 Sep 12 to 19 Oct 13</td>
+			<td class="amount">160.73</td>
+			<td>29-Sep-2012</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald 22 Dec to 30 Dec 12</td>
+			<td class="amount">6.18</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 22 Dec to 30 Dec 12</td>
+			<td class="amount">1.27</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>4 The Australian 22 Dec to 30 Dec 12</td>
+			<td class="amount">7.27</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>1 The Sunday Telegraph 22 Dec to 30 Dec 12</td>
+			<td class="amount">1.82</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph 22 Dec to 30 Dec 12</td>
+			<td class="amount">3.64</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>2 The Australian Financial Review 22 Dec to 30 Dec 12</td>
+			<td class="amount">5.45</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>1 The Australian Financial Review 22 Dec to 30 Dec 12</td>
+			<td class="amount">2.27</td>
+			<td>30-Dec-2012</td>
+		</tr>
+		<tr>
+			<td>1 The Australian Financial Review 5 Aug to 1 Sep 13</td>
+			<td class="amount">2.27</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 The Daily Telegraph 5 Aug to 1 Sep 13</td>
+			<td class="amount">6.55</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 The Sydney Morning Herald 5 Aug to 1 Sep 13</td>
+			<td class="amount">10.91</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 5 Aug to 1 Sep 13</td>
+			<td class="amount">1.64</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>6 The Australian 5 Aug to 1 Sep 13</td>
+			<td class="amount">12.00</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>5 The Australian Financial Review 5 Aug to 1 Sep 13</td>
+			<td class="amount">15.00</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 The Australian 5 Aug to 1 Sep 13</td>
+			<td class="amount">4.00</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 The Sydney Morning Herald 5 Aug to 1 Sep 13</td>
+			<td class="amount">3.64</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 The Australian Financial Review 5 Aug to 1 Sep 13</td>
+			<td class="amount">6.00</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>2 The Daily Telegraph 5 Aug to 1 Sep 13</td>
+			<td class="amount">2.18</td>
+			<td>01-Sep-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

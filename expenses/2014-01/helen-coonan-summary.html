@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Helen Coonan | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Helen Coonan</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P34_COONAN_Helen.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,19 +37,97 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$2,769.52</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$2,769.52</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1 May 14 - Sydney to Melbourne</td>
+			<td class="amount">637.40</td>
+			<td></td>
+			<td>01-May-2014</td>
+		</tr>
+		<tr>
+			<td>2 May 14 - Melbourne to Sydney</td>
+			<td class="amount">637.40</td>
+			<td></td>
+			<td>02-May-2014</td>
+		</tr>
+		<tr>
+			<td>13 May 14 - Sydney to Canberra</td>
+			<td class="amount">395.90</td>
+			<td></td>
+			<td>13-May-2014</td>
+		</tr>
+		<tr>
+			<td>14 May 14 - Canberra to Sydney</td>
+			<td class="amount">470.24</td>
+			<td></td>
+			<td>14-May-2014</td>
+		</tr>
+		<tr>
+			<td>30 May 14 - Sydney to Canberra</td>
+			<td class="amount">158.34</td>
+			<td></td>
+			<td>30-May-2014</td>
+		</tr>
+		<tr>
+			<td>30 May 14 - Canberra to Sydney</td>
+			<td class="amount">470.24</td>
+			<td></td>
+			<td>30-May-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$3,134.23</td>
 			<td class="amount">-$3,134.23</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Reimb of price cap overspend 30 Jun 10</td>
+			<td class="amount">-3,134.23</td>
+			<td>30-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

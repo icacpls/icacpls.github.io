@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Sharon Grierson | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Sharon Grierson</h1>
@@ -1000,5 +1004,12 @@
 		<a href="https://drive.google.com/open?id=1RSAVjDEOvn1hbnmj185tchQjLyniQtFO">Period Expenses (CSV)</a> |
 		<a href="https://drive.google.com/open?id=16xO9Q6thReY49_1Rv0yy_vl5fRkKuCB1">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

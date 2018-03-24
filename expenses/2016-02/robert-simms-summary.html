@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Robert Simms | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Robert Simms</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P39_SIMMS_Robert.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,58 +37,425 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$986.76</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$986.76</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2 Aug 16 - Adelaide to Canberra</td>
+			<td class="amount">486.52</td>
+			<td></td>
+			<td>02-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>4 Aug 16 - Canberra to Melbourne</td>
+			<td class="amount">500.24</td>
+			<td></td>
+			<td>04-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>4 Aug 16 - Melbourne to Adelaide</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>04-Aug-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$21.97</td>
 			<td class="amount">$1,403.32</td>
 			<td class="amount">$1,425.29</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">21.97</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">1,403.32</td>
+			<td>01-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$17.13</td>
 			<td class="amount">$487.39</td>
 			<td class="amount">$504.52</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Water refills 1 Jul 16</td>
+			<td class="amount">1.15</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Water refills 1 Jul 16</td>
+			<td class="amount">15.98</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 May to 27 Jun 16</td>
+			<td class="amount">239.21</td>
+			<td>27-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 May to 27 Jun 16</td>
+			<td class="amount">1.18</td>
+			<td>27-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Water refills 7 Jun 16</td>
+			<td class="amount">1.15</td>
+			<td>07-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Water refills 7 Jun 16</td>
+			<td class="amount">31.98</td>
+			<td>07-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Water refills 21 Jun 16</td>
+			<td class="amount">23.98</td>
+			<td>21-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Water refills 21 Jun 16</td>
+			<td class="amount">1.15</td>
+			<td>21-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jun to 27 Jul 16</td>
+			<td class="amount">0.62</td>
+			<td>27-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jun to 27 Jul 16</td>
+			<td class="amount">188.12</td>
+			<td>27-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$17,518.66</td>
 			<td class="amount">$17,518.66</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>750 Printed items 8 Mar 16</td>
+			<td class="amount">384.00</td>
+			<td>08-Mar-2016</td>
+		</tr>
+		<tr>
+			<td>e-material 31 Mar 16</td>
+			<td class="amount">115.80</td>
+			<td>31-Mar-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Jun to 30 Jun 16</td>
+			<td class="amount">-24,376.49</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 16</td>
+			<td class="amount">36,807.35</td>
+			<td>30-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>20,000 Printed items 15 Jun 16</td>
+			<td class="amount">1,835.00</td>
+			<td>15-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>20,000 Printed items 20 Jun 16</td>
+			<td class="amount">810.00</td>
+			<td>20-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution 20 Jun 16</td>
+			<td class="amount">1,598.00</td>
+			<td>20-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Printing 23 Jun 16</td>
+			<td class="amount">345.00</td>
+			<td>23-Jun-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$591.59</td>
 			<td class="amount">$591.59</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1 The Australian Financial Review (digital) 4 May to 3 Jun 16</td>
+			<td class="amount">54.44</td>
+			<td>03-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 news + Full Access and 7 Day 13 May to 12 Jun 16</td>
+			<td class="amount">25.45</td>
+			<td>12-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 30 May to 26 Jun 16</td>
+			<td class="amount">6.60</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Australian 30 May to 26 Jun 16</td>
+			<td class="amount">49.09</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Age 30 May to 26 Jun 16</td>
+			<td class="amount">70.91</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Advertiser 30 May to 26 Jun 16</td>
+			<td class="amount">27.27</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>19 The Australian Financial Review 30 May to 26 Jun 16</td>
+			<td class="amount">69.09</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Monthly 30 May to 26 Jun 16</td>
+			<td class="amount">10.86</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 Quarterly Essay 30 May to 26 Jun 16</td>
+			<td class="amount">20.90</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>20 The Sydney Morning Herald 30 May to 26 Jun 16</td>
+			<td class="amount">74.55</td>
+			<td>26-Jun-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Australian Financial Review (digital) 4 Jun to 3 Jul 16</td>
+			<td class="amount">54.44</td>
+			<td>03-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>1 news + Full Access and 7 Day 10 Jun to 9 Jul 16</td>
+			<td class="amount">25.45</td>
+			<td>09-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>1 The Monthly 27 Jun to 31 Jul 16</td>
+			<td class="amount">11.77</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Advertiser 27 Jun to 31 Jul 16</td>
+			<td class="amount">8.18</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Age 27 Jun to 31 Jul 16</td>
+			<td class="amount">21.27</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Australian 27 Jun to 31 Jul 16</td>
+			<td class="amount">14.73</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Australian Financial Review 27 Jun to 31 Jul 16</td>
+			<td class="amount">21.82</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>6 The Sydney Morning Herald 27 Jun to 31 Jul 16</td>
+			<td class="amount">22.36</td>
+			<td>31-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 27 Jun to 31 Jul 16</td>
+			<td class="amount">2.41</td>
+			<td>31-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$960.24</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$960.24</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 1 Jul 16</td>
+			<td class="amount">864.20</td>
+			<td>01-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 1 Jul 16</td>
+			<td class="amount">96.04</td>
+			<td>01-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$397.00</td>
 			<td class="amount">$397.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>15 Jun 16</td>
+			<td>15 Jun 16</td>
+			<td>Sydney</td>
+			<td>Electorate Business</td>
+			<td>1</td>
+			<td class="amount">397.00</td>
+			<td class="amount"></td>
+			<td class="amount">397.00</td>
+			<td>15-Jun-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Patrick Dodson | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Patrick Dodson</h1>
@@ -555,5 +559,12 @@
 		<a href="https://drive.google.com/open?id=1rpoa_SXcktIh-_MZd4RSL3508G4dOrn8">Period Expenses (CSV)</a> |
 		<a href="https://drive.google.com/open?id=1UtFm8RBWPtsV7YolssIRNLhpI7XkRnP9">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
 </body>
 </html>

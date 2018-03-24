@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Maxine McKew | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Maxine McKew</h1>
@@ -18,7 +22,7 @@
 		<a href="https://www.finance.gov.au/publications/parliamentarians-reporting/docs/T27/MCKEW_Maxine.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,97 +36,777 @@
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/travelling-allowance-summary.html">Travelling Allowance</a>
+			</td>
 			<td class="amount">$1,216.00</td>
 			<td class="amount">$2,070.00</td>
 			<td class="amount">$3,286.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>9 Jul 10</td>
+			<td>9 Jul 10</td>
+			<td>Brisbane</td>
+			<td>1</td>
+			<td class="amount">386.00</td>
+			<td class="amount"></td>
+			<td class="amount">386.00</td>
+			<td>09-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>11 Jul 10</td>
+			<td>11 Jul 10</td>
+			<td>Melbourne</td>
+			<td>1</td>
+			<td class="amount">415.00</td>
+			<td class="amount"></td>
+			<td class="amount">415.00</td>
+			<td>11-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>19 Jul 10</td>
+			<td>19 Jul 10</td>
+			<td>Darwin</td>
+			<td>1</td>
+			<td class="amount">415.00</td>
+			<td class="amount"></td>
+			<td class="amount">415.00</td>
+			<td>19-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>14 Jun 10</td>
+			<td>17 Jun 10</td>
+			<td>Canberra</td>
+			<td>4</td>
+			<td class="amount">230.00</td>
+			<td class="amount"></td>
+			<td class="amount">920.00</td>
+			<td>14-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>20 Jun 10</td>
+			<td>24 Jun 10</td>
+			<td>Canberra</td>
+			<td>5</td>
+			<td class="amount">230.00</td>
+			<td class="amount"></td>
+			<td class="amount">1,150.00</td>
+			<td>20-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/domestic-travel-summary.html">Domestic Travel</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$3,387.38</td>
 			<td class="amount">-$0.01</td>
 			<td class="amount">$3,387.37</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>9 Jul 10 Sydney Brisbane</td>
+			<td class="amount">882.02</td>
+			<td></td>
+			<td>09-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>10 Jul 10 Brisbane Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>10-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>11 Jul 10 Sydney Melbourne</td>
+			<td class="amount">901.40</td>
+			<td></td>
+			<td>11-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>12 Jul 10 Melbourne Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>12-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>19 Jul 10 Sydney Darwin</td>
+			<td class="amount">547.27</td>
+			<td></td>
+			<td>19-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>20 Jul 10 Darwin Sydney</td>
+			<td class="amount">1,056.69</td>
+			<td></td>
+			<td>20-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>24 Jun 10 Canberra Sydney</td>
+			<td class="amount">-318.05</td>
+			<td>Refund</td>
+			<td>24-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>25 Jun 10 Canberra Sydney</td>
+			<td class="amount">318.04</td>
+			<td></td>
+			<td>25-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$2,192.46</td>
 			<td class="amount">-$412.27</td>
 			<td class="amount">$1,780.19</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 1 Jul to 31 Jul 10</td>
+			<td class="amount">1,076.50</td>
+			<td>31-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Fuel 20 Jul to 22 Jul 10</td>
+			<td class="amount">39.11</td>
+			<td>22-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Fuel 31 Jul to 13 Aug 10</td>
+			<td class="amount">95.91</td>
+			<td>13-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Aug to 31 Aug 10</td>
+			<td class="amount">1,076.50</td>
+			<td>31-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>LESS Personal Contribution for Private-Plated Vehicle</td>
+			<td class="amount">-95.56</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Refund of fuel interest fee 1 Feb to 10 Apr 10</td>
+			<td class="amount">-9.98</td>
+			<td>10-Apr-2010</td>
+		</tr>
+		<tr>
+			<td>Lease adj 1 May 10</td>
+			<td class="amount">-401.29</td>
+			<td>01-May-2010</td>
+		</tr>
+		<tr>
+			<td>Fuel 11 May to 15 May 10</td>
+			<td class="amount">52.86</td>
+			<td>15-May-2010</td>
+		</tr>
+		<tr>
+			<td>LESS Personal Contribution for Private-Plated Vehicle</td>
+			<td class="amount">-53.86</td>
+			<td>01-Jul-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$1,593.01</td>
 			<td class="amount">$535.65</td>
 			<td class="amount">$2,128.66</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Brisbane 9 Jul 10</td>
+			<td class="amount">79.59</td>
+			<td>09-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Brisbane 9 Jul 10</td>
+			<td class="amount">42.72</td>
+			<td>09-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Brisbane 9 Jul 10</td>
+			<td class="amount">203.17</td>
+			<td>09-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Brisbane 9 Jul 10</td>
+			<td class="amount">137.61</td>
+			<td>09-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 11 Jul 10</td>
+			<td class="amount">88.33</td>
+			<td>11-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Melbourne 11 Jul 10</td>
+			<td class="amount">81.85</td>
+			<td>11-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Melbourne 12 Jul 10</td>
+			<td class="amount">258.36</td>
+			<td>12-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 12 Jul 10</td>
+			<td class="amount">51.64</td>
+			<td>12-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 19 Jul 10</td>
+			<td class="amount">117.90</td>
+			<td>19-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 19 Jul 10</td>
+			<td class="amount">108.72</td>
+			<td>19-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Darwin 19 Jul 10</td>
+			<td class="amount">100.00</td>
+			<td>19-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Darwin 20 Jul 10</td>
+			<td class="amount">100.00</td>
+			<td>20-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Darwin 20 Jul 10</td>
+			<td class="amount">100.00</td>
+			<td>20-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 20 Jul 10</td>
+			<td class="amount">123.12</td>
+			<td>20-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Brisbane 21 May 10</td>
+			<td class="amount">170.01</td>
+			<td>21-May-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 25 Jun 10</td>
+			<td class="amount">83.86</td>
+			<td>25-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 28 Jun 10</td>
+			<td class="amount">86.02</td>
+			<td>28-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 28 Jun 10</td>
+			<td class="amount">101.00</td>
+			<td>28-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>Sydney 28 Jun 10</td>
+			<td class="amount">94.76</td>
+			<td>28-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$2,145.85</td>
 			<td class="amount">$2,260.73</td>
 			<td class="amount">$4,406.58</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office fax 7 Jul 10</td>
+			<td class="amount">62.06</td>
+			<td>07-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Office phones 7 Jul 10</td>
+			<td class="amount">465.96</td>
+			<td>07-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Office fax 7 Aug 10</td>
+			<td class="amount">68.80</td>
+			<td>07-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>Office phones 7 Aug 10</td>
+			<td class="amount">774.06</td>
+			<td>07-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>Office phones 7 Sep 10</td>
+			<td class="amount">774.97</td>
+			<td>07-Sep-2010</td>
+		</tr>
+		<tr>
+			<td>Office fax 7 Jun 10</td>
+			<td class="amount">65.69</td>
+			<td>07-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>Office phones 7 Jun 10</td>
+			<td class="amount">2,195.04</td>
+			<td>07-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$16,017.52</td>
 			<td class="amount">$11,267.05</td>
 			<td class="amount">$27,284.57</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">16,017.52</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">11,267.05</td>
+			<td>01-Jul-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-expenses-summary.html">Office Expenses</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-expenses-summary.html">Office Expenses</a>
+			</td>
 			<td class="amount">$1,716.80</td>
 			<td class="amount">$186.82</td>
 			<td class="amount">$1,903.62</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-requisites-and-stationery-summary.html">Office Requisites and Stationery</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Flags 12 Jul 10</td>
+			<td class="amount">1,400.00</td>
+			<td>12-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Shredding and recycling 26 Jul 10</td>
+			<td class="amount">60.30</td>
+			<td>26-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Shredding and recycling 31 Aug 10</td>
+			<td class="amount">256.50</td>
+			<td>31-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>Shredding and recycling 26 Mar 10</td>
+			<td class="amount">58.06</td>
+			<td>26-Mar-2010</td>
+		</tr>
+		<tr>
+			<td>Shredding and recycling 26 May 10</td>
+			<td class="amount">70.70</td>
+			<td>26-May-2010</td>
+		</tr>
+		<tr>
+			<td>Shredding and recycling 26 Jun 10</td>
+			<td class="amount">58.06</td>
+			<td>26-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-requisites-and-stationery-summary.html">Office Requisites and Stationery</a>
+			</td>
 			<td class="amount">$39.07</td>
 			<td class="amount">$2,314.63</td>
 			<td class="amount">$2,353.70</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-equipment-summary.html">Office Equipment</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Photocopier usage 1 Jul to 31 Jul 10</td>
+			<td class="amount">20.06</td>
+			<td>31-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Photocopier usage 1 Aug to 20 Aug 10</td>
+			<td class="amount">19.01</td>
+			<td>20-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery Jun 10</td>
+			<td class="amount">291.70</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Photocopy paper Jun 10</td>
+			<td class="amount">569.00</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Printer consumables Jun 10</td>
+			<td class="amount">1,368.05</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Photocopier usage 1 Jun to 30 Jun 10</td>
+			<td class="amount">25.93</td>
+			<td>30-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>1 Equipment maintenance kit 24 Jun 10</td>
+			<td class="amount">59.95</td>
+			<td>24-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-equipment-summary.html">Office Equipment</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$510.00</td>
 			<td class="amount">$510.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Music on hold player 12 May 10</td>
+			<td class="amount">510.00</td>
+			<td>12-May-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/printing-and-communications-summary.html">Printing and Communications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$73,603.24</td>
 			<td class="amount">$42,183.35</td>
 			<td class="amount">$115,786.59</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 1 Jul 10</td>
+			<td class="amount">22,424.26</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jul 10</td>
+			<td class="amount">3.82</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution 16 Jul 10</td>
+			<td class="amount">24,482.59</td>
+			<td>16-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution 28 Jul 10</td>
+			<td class="amount">152.73</td>
+			<td>28-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Aug 10</td>
+			<td class="amount">18,176.20</td>
+			<td>01-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>80,000 Printed items 20 Aug 10</td>
+			<td class="amount">8,363.64</td>
+			<td>20-Aug-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun 10</td>
+			<td class="amount">8,634.21</td>
+			<td>01-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Jun 10</td>
+			<td class="amount">-27.27</td>
+			<td>01-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>67,000 Printed items 10 Jun 10</td>
+			<td class="amount">14,090.91</td>
+			<td>10-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>Distribution 26 Jun 10</td>
+			<td class="amount">1,160.00</td>
+			<td>26-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>5,000 Personalised letterhead stationery 28 Jun 10</td>
+			<td class="amount">800.00</td>
+			<td>28-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>60,000 Printed items 28 Jun 10</td>
+			<td class="amount">9,131.82</td>
+			<td>28-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>48,595 Postal vote applications 28 Jun 10</td>
+			<td class="amount">8,393.68</td>
+			<td>28-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/publications-summary.html">Publications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$163.45</td>
 			<td class="amount">$163.45</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>20 The Australian 31 May to 27 Jun 10</td>
+			<td class="amount">27.27</td>
+			<td>27-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>20 The Daily Telegraph 31 May to 27 Jun 10</td>
+			<td class="amount">18.18</td>
+			<td>27-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>20 The Sydney Morning Herald 31 May to 27 Jun 10</td>
+			<td class="amount">27.27</td>
+			<td>27-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>4 New Scientist 31 May to 27 Jun 10</td>
+			<td class="amount">28.91</td>
+			<td>27-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>4 The Economist 31 May to 27 Jun 10</td>
+			<td class="amount">40.00</td>
+			<td>27-Jun-2010</td>
+		</tr>
+		<tr>
+			<td>8 The Australian Financial Review 31 May to 27 Jun 10</td>
+			<td class="amount">21.82</td>
+			<td>27-Jun-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a>
+			</td>
 			<td class="amount">$2,949.09</td>
 			<td class="amount">$6,725.97</td>
 			<td class="amount">$9,675.06</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">2,949.09</td>
+			<td>01-Jul-2010</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">6,725.97</td>
+			<td>01-Jul-2010</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

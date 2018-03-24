@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Derryn Hinch | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Derryn Hinch</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.ipea.gov.au/reporting/Q01/Q01_HINCH_Derryn.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,67 +36,582 @@
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$4,140.00</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$4,140.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>5 Feb 17</td>
+			<td>9 Feb 17</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount">1,380.00</td>
+			<td>05-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>12 Feb 17</td>
+			<td>16 Feb 17</td>
+			<td>Canberra</td>
+			<td>Sittings of Parliament</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount">1,380.00</td>
+			<td>12-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>26 Feb 17</td>
+			<td>2 Mar 17</td>
+			<td>Canberra</td>
+			<td>Senate Estimates</td>
+			<td>5</td>
+			<td class="amount">276.00</td>
+			<td class="amount">1,380.00</td>
+			<td>26-Feb-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$8,527.68</td>
 			<td class="amount">$2,149.99</td>
 			<td class="amount">$10,677.67</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2 Jan 17 - Melbourne to Sydney</td>
+			<td class="amount">756.04</td>
+			<td></td>
+			<td>02-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>3 Jan 17 - Sydney to Melbourne</td>
+			<td class="amount">756.04</td>
+			<td></td>
+			<td>03-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>23 Jan 17 - Sydney to Melbourne</td>
+			<td class="amount">756.04</td>
+			<td></td>
+			<td>23-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 Feb 17 - Melbourne to Canberra</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>04-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>10 Feb 17 - Canberra to Melbourne</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>10-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>12 Feb 17 - Melbourne to Canberra</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>12-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>17 Feb 17 - Canberra to Melbourne</td>
+			<td class="amount">751.97</td>
+			<td></td>
+			<td>17-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>26 Feb 17 - Melbourne to Canberra</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>13 Mar 17 - Melbourne to Brisbane</td>
+			<td class="amount">1,023.41</td>
+			<td></td>
+			<td>13-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>14 Mar 17 - Brisbane to Canberra</td>
+			<td class="amount">739.64</td>
+			<td></td>
+			<td>14-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>16 Mar 17 - Canberra to Sydney</td>
+			<td class="amount">554.99</td>
+			<td></td>
+			<td>16-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>19 Mar 17 - Melbourne to Canberra</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>19-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>12 Dec 16 - Canberra to Melbourne</td>
+			<td class="amount">637.91</td>
+			<td></td>
+			<td>12-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>22 Dec 16 - Melbourne to Sydney</td>
+			<td class="amount">756.04</td>
+			<td></td>
+			<td>22-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>23 Dec 16 - Sydney to Melbourne</td>
+			<td class="amount">756.04</td>
+			<td></td>
+			<td>23-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$1,262.69</td>
 			<td class="amount">$85.85</td>
 			<td class="amount">$1,348.54</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/cabcharge-summary.html">Cabcharge</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2 Jan 17 - Sydney</td>
+			<td class="amount">88.60</td>
+			<td>02-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>3 Jan 17 - Sydney</td>
+			<td class="amount">40.00</td>
+			<td>03-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 Feb 17 - Canberra</td>
+			<td class="amount">107.91</td>
+			<td>04-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 Feb 17 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>04-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>5 Feb 17 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>05-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>5 Feb 17 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>05-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>12 Feb 17 - Canberra</td>
+			<td class="amount">80.40</td>
+			<td>12-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>26 Feb 17 - Canberra</td>
+			<td class="amount">80.40</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>13 Mar 17 - Brisbane</td>
+			<td class="amount">50.90</td>
+			<td>13-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>14 Mar 17 - Brisbane</td>
+			<td class="amount">40.00</td>
+			<td>14-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>14 Mar 17 - Brisbane</td>
+			<td class="amount">45.91</td>
+			<td>14-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>14 Mar 17 - Canberra</td>
+			<td class="amount">41.80</td>
+			<td>14-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>15 Mar 17 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>15-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>16 Mar 17 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>16-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>16 Mar 17 - Sydney</td>
+			<td class="amount">82.40</td>
+			<td>16-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>16 Mar 17 - Sydney</td>
+			<td class="amount">40.00</td>
+			<td>16-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>17 Mar 17 - Sydney</td>
+			<td class="amount">87.77</td>
+			<td>17-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>19 Mar 17 - Canberra</td>
+			<td class="amount">80.40</td>
+			<td>19-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>26 Mar 17 - Canberra</td>
+			<td class="amount">80.40</td>
+			<td>26-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>3 Nov 16 - Sydney</td>
+			<td class="amount">45.85</td>
+			<td>03-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>23 Dec 16 - Sydney</td>
+			<td class="amount">40.00</td>
+			<td>23-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/cabcharge-summary.html">Cabcharge</a>
+			</td>
 			<td class="amount">$2,193.93</td>
 			<td class="amount">$2,343.06</td>
 			<td class="amount">$4,536.99</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1 Nov to 30 Nov 16</td>
+			<td class="amount"></td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td class="amount">1,067.47</td>
+			<td>01-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>1 Dec to 31 Dec 16</td>
+			<td class="amount"></td>
+			<td>31-Dec-2016</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td class="amount">991.70</td>
+			<td>01-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>30 Jan 17</td>
+			<td class="amount">74.71</td>
+			<td>30-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>30 Jan 17</td>
+			<td class="amount">8.44</td>
+			<td>30-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>30 Jan 17</td>
+			<td class="amount">13.33</td>
+			<td>30-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>14 Feb 17</td>
+			<td class="amount">10.08</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>14 Feb 17</td>
+			<td class="amount">10.74</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>14 Feb 17</td>
+			<td class="amount">8.25</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>15 Feb 17</td>
+			<td class="amount">9.21</td>
+			<td>15-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>1 Oct to 31 Oct 16</td>
+			<td class="amount">2,343.06</td>
+			<td>31-Oct-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$21,669.32</td>
 			<td class="amount">$1,385.52</td>
 			<td class="amount">$23,054.84</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">21,669.32</td>
+			<td>01-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">1,385.52</td>
+			<td>01-Jan-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$266.26</td>
 			<td class="amount">$640.98</td>
 			<td class="amount">$907.24</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office requisites and stationery 1 Jan to 31 Jan 17</td>
+			<td class="amount">133.13</td>
+			<td>31-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Feb to 28 Feb 17</td>
+			<td class="amount">133.13</td>
+			<td>28-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 25 Sep 16</td>
+			<td class="amount">557.98</td>
+			<td>25-Sep-2016</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 14 Dec 16</td>
+			<td class="amount">83.00</td>
+			<td>14-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$169.09</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$169.09</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>PO Box 33241 rental 1 Apr 17 to 31 Mar 18</td>
+			<td class="amount">169.09</td>
+			<td>01-Apr-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$669.42</td>
 			<td class="amount">$774.54</td>
 			<td class="amount">$1,443.96</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 19 Jan 17</td>
+			<td class="amount">12.90</td>
+			<td>19-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 26 Jan 17</td>
+			<td class="amount">276.21</td>
+			<td>26-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 26 Jan 17</td>
+			<td class="amount">31.77</td>
+			<td>26-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 26 Feb 17</td>
+			<td class="amount">316.77</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 26 Feb 17</td>
+			<td class="amount">31.77</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 5 Aug 16</td>
+			<td class="amount">180.00</td>
+			<td>05-Aug-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 26 Dec 16</td>
+			<td class="amount">362.84</td>
+			<td>26-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 26 Dec 16</td>
+			<td class="amount">31.77</td>
+			<td>26-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Office phones 30 Dec 16</td>
+			<td class="amount">199.93</td>
+			<td>30-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

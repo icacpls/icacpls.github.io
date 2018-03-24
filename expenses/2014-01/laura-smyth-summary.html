@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Laura Smyth | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Laura Smyth</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P34_SMYTH_Laura.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -31,46 +35,232 @@
 			<th colspan="3"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$642.86</td>
 			<td class="amount">$642.86</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>11 Jul 12 - Broome to Fitzroy Crossing</td>
+			<td class="amount">642.86</td>
+			<td></td>
+			<td>11-Jul-2012</td>
+		</tr>
+		<tr>
+			<td>11 Jul 12 - Fitzroy Crossing to Broome</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>11-Jul-2012</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">-$50.00</td>
 			<td class="amount">-$50.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Reimb of infringement notice fee 4 Sep 13</td>
+			<td class="amount">-25.00</td>
+			<td>04-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>w���� �� �</td>
+			<td class="amount"></td>
+			<td>01-Jan-2014</td>
+		</tr>
+		<tr>
+			<td>nfringement notice fee 6 Sep 13</td>
+			<td class="amount">-25.00</td>
+			<td>06-Sep-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$3,791.58</td>
 			<td class="amount">$3,791.58</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">3,791.58</td>
+			<td>01-Jan-2014</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$350.46</td>
 			<td class="amount">$350.46</td>
 		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Reimb of MFD colour copy charge 28 Apr to 30 Jun 13</td>
+			<td class="amount">-254.04</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 1 Jul to 27 Jul 13</td>
+			<td class="amount">107.15</td>
+			<td>27-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Aug to 6 Sep 13</td>
+			<td class="amount">487.70</td>
+			<td>06-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Aug to 6 Sep 13</td>
+			<td class="amount">9.65</td>
+			<td>06-Sep-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$6,375.00</td>
 			<td class="amount">$6,375.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 31 Aug 13</td>
+			<td class="amount">3,470.00</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>60,000 Personalised letterhead stationery 31 Aug 13</td>
+			<td class="amount">2,790.00</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Web-services 1 Sep to 30 Sep 13</td>
+			<td class="amount">115.00</td>
+			<td>30-Sep-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="3"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$60.00</td>
 			<td class="amount">$60.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="3">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Residential phones 6 Sep 13</td>
+			<td class="amount">30.00</td>
+			<td>06-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 6 Sep 13</td>
+			<td class="amount">30.00</td>
+			<td>06-Sep-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

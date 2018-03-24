@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Craig Emerson | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Craig Emerson</h1>
@@ -19,7 +23,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P34_EMERSON_Craig.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,10 +37,65 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$2,432.12</td>
 			<td class="amount">$45.46</td>
 			<td class="amount">$2,477.58</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>12 Mar 14 - Canberra to Adelaide</td>
+			<td class="amount">459.98</td>
+			<td></td>
+			<td>12-Mar-2014</td>
+		</tr>
+		<tr>
+			<td>13 Mar 14 - Adelaide to Canberra</td>
+			<td class="amount">529.95</td>
+			<td></td>
+			<td>13-Mar-2014</td>
+		</tr>
+		<tr>
+			<td>7 Apr 14 - Canberra to Brisbane</td>
+			<td class="amount">606.03</td>
+			<td></td>
+			<td>07-Apr-2014</td>
+		</tr>
+		<tr>
+			<td>18 Apr 14 - Sydney to Canberra</td>
+			<td class="amount">273.15</td>
+			<td></td>
+			<td>18-Apr-2014</td>
+		</tr>
+		<tr>
+			<td>19 May 14 - Canberra to Melbourne</td>
+			<td class="amount">563.01</td>
+			<td></td>
+			<td>19-May-2014</td>
+		</tr>
+		<tr>
+			<td>3 Jul 13 - Canberra to Sydney</td>
+			<td class="amount">45.46</td>
+			<td></td>
+			<td>03-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

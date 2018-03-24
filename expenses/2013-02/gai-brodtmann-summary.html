@@ -1,7 +1,11 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Gai Brodtmann | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
 	<h1>Gai Brodtmann</h1>
@@ -18,7 +22,7 @@
 		<a href="http://www.finance.gov.au/sites/default/files/P33_BRODTMANN_Gai.pdf">Source PDF</a>
 	</p>
 
-	<table class="tablesorter">
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,94 +36,995 @@
 			<th colspan="4"><a href="categories/travelling-allowance-summary.html">Travelling Allowance</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/parliamentary-travelling-allowance-summary.html">Parliamentary Travelling Allowance</a>
+			</td>
 			<td class="amount">$124.00</td>
 			<td class="amount">$497.00</td>
 			<td class="amount">$621.00</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/daily-expense-allowance-summary.html">Daily Expense Allowance</a></td>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>21 Jul 13</td>
+			<td>21 Jul 13</td>
+			<td>Sydney</td>
+			<td>Parliamentary Political Party Meeting</td>
+			<td>1</td>
+			<td class="amount">124.00</td>
+			<td class="amount"></td>
+			<td class="amount">124.00</td>
+			<td>21-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>15 Apr 13</td>
+			<td>15 Apr 13</td>
+			<td>Norfolk Island</td>
+			<td>External Territory Visit</td>
+			<td>0</td>
+			<td class="amount">333.00</td>
+			<td class="amount"></td>
+			<td class="amount">82.00 **</td>
+			<td>15-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>29 Apr 13</td>
+			<td>29 Apr 13</td>
+			<td>Norfolk Island</td>
+			<td>External Territory Visit</td>
+			<td>0</td>
+			<td class="amount">333.00</td>
+			<td class="amount"></td>
+			<td class="amount">82.00 **</td>
+			<td>29-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>9 Jun 13</td>
+			<td>9 Jun 13</td>
+			<td>Norfolk Island</td>
+			<td>External Territory Visit</td>
+			<td>1</td>
+			<td class="amount">333.00</td>
+			<td class="amount"></td>
+			<td class="amount">333.00</td>
+			<td>09-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>**</td>
+			<td>Balance of payment.</td>
+			<td>Member previously underpaid.</td>
+			<td></td>
+			<td></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td class="amount"></td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/daily-expense-allowance-summary.html">Daily Expense Allowance</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$807.00</td>
 			<td class="amount">$807.00</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Date From</th>
+			<th>Date To</th>
+			<th>Location</th>
+			<th>Details</th>
+			<th>Nights</th>
+			<th class="amount">Rate</th>
+			<th class="amount">Spouse</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>14 May 13</td>
+			<td>16 May 13</td>
+			<td>Parl House</td>
+			<td>Sittings of Parliament</td>
+			<td>3</td>
+			<td class="amount">79.00</td>
+			<td class="amount"></td>
+			<td class="amount">127.00</td>
+			<td>14-May-2013</td>
+		</tr>
+		<tr>
+			<td>27 May 13</td>
+			<td>30 May 13</td>
+			<td>Parl House</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">79.00</td>
+			<td class="amount"></td>
+			<td class="amount">170.00</td>
+			<td>27-May-2013</td>
+		</tr>
+		<tr>
+			<td>3 Jun 13</td>
+			<td>6 Jun 13</td>
+			<td>Parl House</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">79.00</td>
+			<td class="amount"></td>
+			<td class="amount">170.00</td>
+			<td>03-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>17 Jun 13</td>
+			<td>20 Jun 13</td>
+			<td>Parl House</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">79.00</td>
+			<td class="amount"></td>
+			<td class="amount">170.00</td>
+			<td>17-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>24 Jun 13</td>
+			<td>27 Jun 13</td>
+			<td>Parl House</td>
+			<td>Sittings of Parliament</td>
+			<td>4</td>
+			<td class="amount">79.00</td>
+			<td class="amount"></td>
+			<td class="amount">170.00</td>
+			<td>24-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$507.20</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$507.20</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>21 Jul 13 - Canberra to Sydney</td>
+			<td class="amount">253.60</td>
+			<td></td>
+			<td>21-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 Jul 13 - Sydney to Canberra</td>
+			<td class="amount">253.60</td>
+			<td></td>
+			<td>22-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$5,078.12</td>
 			<td class="amount">$114.13</td>
 			<td class="amount">$5,192.25</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 1 Jul to 31 Jul 13</td>
+			<td class="amount">636.17</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 2 Jul to 12 Jul 13</td>
+			<td class="amount">141.14</td>
+			<td>12-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 24 Jul to 15 Aug 13</td>
+			<td class="amount">230.52</td>
+			<td>15-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Aug to 31 Aug 13</td>
+			<td class="amount">636.17</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Lease adj 1 Aug to 31 Aug 13</td>
+			<td class="amount">98.47</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 25 Aug to 5 Sep 13</td>
+			<td class="amount">157.10</td>
+			<td>05-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Sep to 30 Sep 13</td>
+			<td class="amount">734.65</td>
+			<td>30-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 19 Sep 13</td>
+			<td class="amount">83.10</td>
+			<td>19-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Oct to 31 Oct 13</td>
+			<td class="amount">734.65</td>
+			<td>31-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Fuel 23 Oct to 6 Nov 13</td>
+			<td class="amount">156.85</td>
+			<td>06-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Nov to 30 Nov 13</td>
+			<td class="amount">734.65</td>
+			<td>30-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Lease 1 Dec to 31 Dec 13</td>
+			<td class="amount">734.65</td>
+			<td>31-Dec-2013</td>
+		</tr>
+		<tr>
+			<td>Reimb of infringement notice fee 6 Nov 12</td>
+			<td class="amount">-25.00</td>
+			<td>06-Nov-2012</td>
+		</tr>
+		<tr>
+			<td>Fuel 21 May to 13 Jun 13</td>
+			<td class="amount">139.13</td>
+			<td>13-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$78.60</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$78.60</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>8 Nov 13 - Perth</td>
+			<td class="amount">78.60</td>
+			<td>08-Nov-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$71,223.05</td>
 			<td class="amount">$260.87</td>
 			<td class="amount">$71,483.92</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">71,223.05</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">260.87</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-fit-outs-summary.html">Office Fit Outs</a>
+			</td>
 			<td class="amount">$234.34</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$234.34</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">234.34</td>
+			<td>01-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$6,677.25</td>
 			<td class="amount">$4,203.75</td>
 			<td class="amount">$10,881.00</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/printing-and-communications-summary.html">Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>General office consumables 1 Jul to 31 Jul 13</td>
+			<td class="amount">416.64</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Occupational health and safety 1 Jul to 31 Jul 13</td>
+			<td class="amount">13.52</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 22 Jul 13</td>
+			<td class="amount">350.00</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 22 Jul 13</td>
+			<td class="amount">138.64</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 22 Jul 13</td>
+			<td class="amount">175.00</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 22 Jul 13</td>
+			<td class="amount">138.64</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 22 Jul 13</td>
+			<td class="amount">540.91</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 22 Jul 13</td>
+			<td class="amount">188.64</td>
+			<td>22-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jul to 27 Aug 13</td>
+			<td class="amount">8.53</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jul to 27 Aug 13</td>
+			<td class="amount">105.21</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Aug to 31 Aug 13</td>
+			<td class="amount">192.22</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Printer consumables 1 Aug to 31 Aug 13</td>
+			<td class="amount">1,841.21</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Aug 13 to 27 Sep 13</td>
+			<td class="amount">18.22</td>
+			<td>28-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Aug 13 to 27 Sep 13</td>
+			<td class="amount">134.06</td>
+			<td>28-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Sep to 27 Oct 13</td>
+			<td class="amount">6.93</td>
+			<td>27-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Sep to 27 Oct 13</td>
+			<td class="amount">2.01</td>
+			<td>27-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 21 Oct 13</td>
+			<td class="amount">277.27</td>
+			<td>21-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Flags 21 Oct 13</td>
+			<td class="amount">350.00</td>
+			<td>21-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Nov to 30 Nov 13</td>
+			<td class="amount">279.60</td>
+			<td>30-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Software reimbursement 2013/14</td>
+			<td class="amount">1,500.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Software reimbursement 2011/12</td>
+			<td class="amount">1,500.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Software reimbursement 2012/13</td>
+			<td class="amount">1,500.00</td>
+			<td>01-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 May to 27 Jun 13</td>
+			<td class="amount">19.91</td>
+			<td>27-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 May to 27 Jun 13</td>
+			<td class="amount">2.67</td>
+			<td>27-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>General office consumables 1 Jun to 30 Jun 13</td>
+			<td class="amount">301.28</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Emergency services - Site establishment 26 Jun 13</td>
+			<td class="amount">816.00</td>
+			<td>26-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jun to 27 Jul 13</td>
+			<td class="amount">28.30</td>
+			<td>27-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jun to 27 Jul 13</td>
+			<td class="amount">35.59</td>
+			<td>27-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/printing-and-communications-summary.html">Printing and Communications</a>
+			</td>
 			<td class="amount">$34,145.05</td>
 			<td class="amount">$43,129.71</td>
 			<td class="amount">$77,274.76</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 1 Jul to 31 Jul 13</td>
+			<td class="amount">11,487.84</td>
+			<td>31-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Aug to 31 Aug 13</td>
+			<td class="amount">10,268.64</td>
+			<td>31-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 14 Aug 13</td>
+			<td class="amount">1,363.64</td>
+			<td>14-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>10,000 Printed items 20 Aug 13</td>
+			<td class="amount">2,375.00</td>
+			<td>20-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>77,477 Printed items 27 Aug 13</td>
+			<td class="amount">8,272.00</td>
+			<td>27-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Oct to 31 Oct 13</td>
+			<td class="amount">78.55</td>
+			<td>31-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>200 Printed items 31 Oct 13</td>
+			<td class="amount">299.38</td>
+			<td>31-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 28 May 13</td>
+			<td class="amount">1,338.40</td>
+			<td>28-May-2013</td>
+		</tr>
+		<tr>
+			<td>Distribution 1 Jun to 30 Jun 13</td>
+			<td class="amount">24,184.56</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Jun to 30 Jun 13</td>
+			<td class="amount">-3,112.05</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 4 Jun 13</td>
+			<td class="amount">1,338.40</td>
+			<td>04-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>78,000 Printed items 7 Jun 13</td>
+			<td class="amount">8,301.00</td>
+			<td>07-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>1,000 Printed items 12 Jun 13</td>
+			<td class="amount">3,197.00</td>
+			<td>12-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>100,000 Personalised letterhead stationery 13 Jun 13</td>
+			<td class="amount">3,094.00</td>
+			<td>13-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>50,000 Printed items 18 Jun 13</td>
+			<td class="amount">1,680.00</td>
+			<td>18-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 25 Jun 13</td>
+			<td class="amount">1,338.40</td>
+			<td>25-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>1 Printed item 27 Jun 13</td>
+			<td class="amount">1,770.00</td>
+			<td>27-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$236.28</td>
 			<td class="amount">$56.00</td>
 			<td class="amount">$292.28</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>4 The Sunday Canberra Times 3 Jul to 1 Aug 13</td>
+			<td class="amount">7.27</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>4 The Canberra Times (Sat) 3 Jul to 1 Aug 13</td>
+			<td class="amount">10.18</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>22 The Canberra Times 3 Jul to 1 Aug 13</td>
+			<td class="amount">34.00</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 3 Jul to 1 Aug 13</td>
+			<td class="amount">2.73</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 2 Aug to 1 Sep 13</td>
+			<td class="amount">2.73</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>5 The Sunday Canberra Times 2 Aug to 1 Sep 13</td>
+			<td class="amount">9.09</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>5 The Canberra Times (Sat) 2 Aug to 1 Sep 13</td>
+			<td class="amount">12.73</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>22 The Canberra Times 2 Aug to 1 Sep 13</td>
+			<td class="amount">34.00</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>28 The Canberra Times 2 Sep to 2 Oct 13</td>
+			<td class="amount">43.27</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>4 The Canberra Times (Sat) 2 Sep to 2 Oct 13</td>
+			<td class="amount">10.18</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>4 The Sunday Canberra Times 2 Sep to 2 Oct 13</td>
+			<td class="amount">7.27</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 2 Sep to 2 Oct 13</td>
+			<td class="amount">2.73</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>23 The Canberra Times 3 Oct to 3 Nov 13</td>
+			<td class="amount">35.55</td>
+			<td>03-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>5 The Sunday Canberra Times 3 Oct to 3 Nov 13</td>
+			<td class="amount">9.09</td>
+			<td>03-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 3 Oct to 3 Nov 13</td>
+			<td class="amount">2.73</td>
+			<td>03-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>5 The Canberra Times (Sat) 3 Oct to 3 Nov 13</td>
+			<td class="amount">12.73</td>
+			<td>03-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>4 The Canberra Times (Sat) 2 Jun to 2 Jul 13</td>
+			<td class="amount">10.18</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 2 Jun to 2 Jul 13</td>
+			<td class="amount">2.73</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>22 The Canberra Times 2 Jun to 2 Jul 13</td>
+			<td class="amount">34.00</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>5 The Sunday Canberra Times 2 Jun to 2 Jul 13</td>
+			<td class="amount">9.09</td>
+			<td>02-Jul-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$2,413.92</td>
 			<td class="amount">$625.50</td>
 			<td class="amount">$3,039.42</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 2 Jul 13</td>
+			<td class="amount">339.57</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Jul 13</td>
+			<td class="amount">35.47</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 1 Aug 13</td>
+			<td class="amount">386.59</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 1 Aug 13</td>
+			<td class="amount">34.50</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 1 Sep 13</td>
+			<td class="amount">393.27</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 1 Sep 13</td>
+			<td class="amount">36.51</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 2 Oct 13</td>
+			<td class="amount">472.68</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Oct 13</td>
+			<td class="amount">32.04</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 1 Nov 13</td>
+			<td class="amount">288.05</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 1 Nov 13</td>
+			<td class="amount">32.55</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Office phones 2 Dec 13</td>
+			<td class="amount">329.49</td>
+			<td>02-Dec-2013</td>
+		</tr>
+		<tr>
+			<td>Office fax 2 Dec 13</td>
+			<td class="amount">33.20</td>
+			<td>02-Dec-2013</td>
+		</tr>
+		<tr>
+			<td>Supplementary mobile phone 30 Jun 13</td>
+			<td class="amount">4.54</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile PDA 30 Jun 13</td>
+			<td class="amount">439.08</td>
+			<td>30-Jun-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile PDA 30 Jun 13</td>
+			<td class="amount">181.88</td>
+			<td>30-Jun-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$960.94</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$960.94</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Residential phones 2 Jul 13</td>
+			<td class="amount">85.22</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 2 Jul 13</td>
+			<td class="amount">54.50</td>
+			<td>02-Jul-2013</td>
+		</tr>
+		<tr>
+			<td>Residential phones 1 Aug 13</td>
+			<td class="amount">101.77</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Aug 13</td>
+			<td class="amount">54.50</td>
+			<td>01-Aug-2013</td>
+		</tr>
+		<tr>
+			<td>Residential phones 1 Sep 13</td>
+			<td class="amount">116.21</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Sep 13</td>
+			<td class="amount">54.50</td>
+			<td>01-Sep-2013</td>
+		</tr>
+		<tr>
+			<td>Residential phones 2 Oct 13</td>
+			<td class="amount">146.89</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 2 Oct 13</td>
+			<td class="amount">54.50</td>
+			<td>02-Oct-2013</td>
+		</tr>
+		<tr>
+			<td>Residential phones 1 Nov 13</td>
+			<td class="amount">89.97</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 1 Nov 13</td>
+			<td class="amount">54.50</td>
+			<td>01-Nov-2013</td>
+		</tr>
+		<tr>
+			<td>Residential phones 2 Dec 13</td>
+			<td class="amount">93.88</td>
+			<td>02-Dec-2013</td>
+		</tr>
+		<tr>
+			<td>Dedicated data line 2 Dec 13</td>
+			<td class="amount">54.50</td>
+			<td>02-Dec-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>

@@ -3,11 +3,28 @@ body {
 	color: #222222;
 	font-family: sans-serif;
 	font-size: 13px;
+	line-height: 20px;
+}
+
+h1 {
+	font-size: 26px;
+	line-height: 31px;
+}
+
+h2 {
+	font-size: 19.5px;
+	line-height: 24px;
+}
+
+h3 {
+	font-size: 15px;
+	line-height: 19px;
 }
 
 table {
 	border: 1px solid #e1e2e3;	
 	border-collapse: collapse;
+	width: 100%;
 }
 
 th, td {
@@ -30,6 +47,29 @@ a.toggle-link {
 td.amount,
 th.amount {
 	text-align: right;
+}
+
+.member-container {
+	margin: 0 auto;
+	max-width: 960px;
+}
+
+.member-header {
+	display: flex;
+	flex-direction: row;
+}
+
+.member-image {
+	margin-right: 20px;
+}
+
+.member-info {
+	flex: auto;
+}
+
+.category-container {
+	margin: 0 auto;
+	max-width: 1240px;
 }
 
 /* tablesorter */

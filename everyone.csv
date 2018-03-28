@@ -15,13 +15,13 @@ Andrew Hastie,Representative,Canning,Western Australia,Liberal Party of Australi
 Andrew Laming,Representative,Bowman,Queensland,Liberal Party of Australia,,Andrew_Laming,E0H
 Andrew Leigh,Representative,Fenner,Australian Capital Territory,Australian Labor Party,,Andrew_Leigh,BU8
 Andrew Nikolic,Representative,Bass,Tasmania,Liberal Party of Australia,Post Retirement Traveller,Andrew_Nikolic,137174
-Andrew Robb,Representative,Goldstein,Victoria,Liberal Party of Australia,,Andrew_Robb,FU4
+Andrew Robb,Representative,Goldstein,Victoria,Liberal Party of Australia,Post Retirement Traveller,Andrew_Robb,FU4
 Andrew Southcott,Representative,Boothby,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Andrew_Southcott,TK6
 Andrew Wallace,Representative,Fisher,Queensland,Liberal Party of Australia,,Andrew_Wallace,265967
 Andrew Wilkie,Representative,Denison,Tasmania,Independent,,Andrew_Wilkie,C2T
 Angus Taylor,Representative,Hume,New South Wales,Liberal Party of Australia,,Angus_Taylor_(politician),231027
 Ann Sudmalis,Representative,Gilmore,New South Wales,Liberal Party of Australia,,Ann_Sudmalis,241586
-Anna Burke,Representative,Chisholm,Victoria,Australian Labor Party,,Anna_Burke,83S
+Anna Burke,Representative,Chisholm,Victoria,Australian Labor Party,Post Retirement Traveller,Anna_Burke,83S
 Anne Aly,Representative,Cowan,Western Australia,Australian Labor Party,,Anne_Aly,13050
 Anne McEwen,Senator,,South Australia,Australian Labor Party,Post Retirement Traveller,Anne_McEwen_(politician),e5e
 Anne Ruston,Senator,,South Australia,Liberal Party of Australia,,Anne_Ruston,243273
@@ -31,19 +31,19 @@ Anthony Albanese,Representative,Grayndler,New South Wales,Australian Labor Party
 Anthony Byrne,Representative,Holt,Victoria,Australian Labor Party,,Anthony_Byrne,008K0
 Anthony Chisholm,Senator,,Queensland,Australian Labor Party,,Anthony_Chisholm,39801
 Arthur Sinodinos,Senator,,New South Wales,Liberal Party of Australia,,Arthur_Sinodinos,bv7
-Barnaby Joyce,Representative,New England,New South Wales,The Nationals,,Barnaby_Joyce,E5D
+Barnaby Joyce,Representative,New England,New South Wales,The Nationals,Severance and Post-Retirement Traveller,Barnaby_Joyce,E5D
 Barry O'Sullivan,Senator,,Queensland,The Nationals,,Barry_O'Sullivan_(politician),247871
 Ben Morton,Representative,Tangney,Western Australia,Liberal Party of Australia,,Ben_Morton,265931
-Bernie Ripoll,Representative,Oxley,Queensland,Australian Labor Party,,Bernie_Ripoll,83E
+Bernie Ripoll,Representative,Oxley,Queensland,Australian Labor Party,Post Retirement Traveller,Bernie_Ripoll,83E
 Bert van Manen,Representative,Forde,Queensland,Liberal Party of Australia,,Bert_van_Manen,188315
-Bill Heffernan,Senator,,New South Wales,Liberal Party of Australia,,Bill_Heffernan,C16
+Bill Heffernan,Senator,,New South Wales,Liberal Party of Australia,Post Retirement Traveller,Bill_Heffernan,C16
 Bill Shorten,Representative,Maribyrnong,Victoria,Australian Labor Party,,Bill_Shorten,00ATG
-Bob Baldwin,Representative,Paterson,New South Wales,Liberal Party of Australia,,Bob_Baldwin,LL6
-Bob Day,Senator,,South Australia,Family First,,Bob_Day,HYG
+Bob Baldwin,Representative,Paterson,New South Wales,Liberal Party of Australia,Post Retirement Traveller,Bob_Baldwin,LL6
+Bob Day,Senator,,South Australia,Family First,Post Retirement Traveller,Bob_Day,HYG
 Bob Hawke,Representative,Wills,Victoria,Australian Labor Party,Former Prime Minister,Bob_Hawke,
 Bob Katter,Representative,Kennedy,Queensland,Katter's Australian Party,,Bob_Katter,HX4
 Brendan O'Connor,Representative,Gorton,Victoria,Australian Labor Party,,Brendan_O'Connor_(politician),00AN3
-Brett Mason,Senator,,Queensland,Liberal Party of Australia,,Brett_Mason,84M
+Brett Mason,Senator,,Queensland,Liberal Party of Australia,Severance and Post Retirement Traveller,Brett_Mason,84M
 Brett Whiteley,Representative,Braddon,Tasmania,Liberal Party of Australia,Post Retirement Traveller,Brett_Whiteley,207800
 Brian Burston,Senator,,New South Wales,Pauline Hanson's One Nation,,Brian_Burston,207807
 Brian Mitchell,Representative,Lyons,Tasmania,Australian Labor Party,,Brian_Mitchell_(politician),129164
@@ -66,7 +66,7 @@ Christian Porter,Representative,Pearce,Western Australia,Liberal Party of Austra
 Christopher Pyne,Representative,Sturt,South Australia,Liberal Party of Australia,,Christopher_Pyne,9V5
 Claire Moore,Senator,,Queensland,Australian Labor Party,,Claire_Moore,00AOQ
 Clare O'Neil,Representative,Hotham,Victoria,Australian Labor Party,,Clare_O'Neil,140590
-Clive Palmer,Representative,Fairfax,Queensland,Palmer United Party,,Clive_Palmer,LQR
+Clive Palmer,Representative,Fairfax,Queensland,Palmer United Party,Post Retirement Traveller,Clive_Palmer,LQR
 Concetta Fierravanti-Wells,Senator,,New South Wales,Liberal Party of Australia,,Concetta_Fierravanti-Wells,e4t
 Cory Bernardi,Senator,,South Australia,Australian Conservatives,,Cory_Bernardi,G0D
 Craig Emerson,Representative,Rankin,Queensland,Australian Labor Party,Life Gold Pass Holder,Craig_Emerson,83V
@@ -85,10 +85,10 @@ David Johnston,Senator,,Western Australia,Liberal Party of Australia,Post Retire
 David Leyonhjelm,Senator,,New South Wales,Liberal Democratic Party,,David_Leyonhjelm,111206
 David Littleproud,Representative,Maranoa,Queensland,The Nationals,,David_Littleproud,265585
 Dean Smith,Senator,,Western Australia,Liberal Party of Australia,,Dean_Smith,241710
-Deborah O'Neill,Senator,,New South Wales,Australian Labor Party,,Deborah_O'Neill,140651
+Deborah O'Neill,Senator,,New South Wales,Australian Labor Party,Severance and Post-Retirement Traveller,Deborah_O'Neill,140651
 Dennis Jensen,Representative,Tangney,Western Australia,Liberal Party of Australia,Post Retirement Traveller,Dennis_Jensen,DYN
 Derryn Hinch,Senator,,Victoria,Derryn Hinch's Justice Party,,Derryn_Hinch,2O4
-Don Farrell,Senator,,South Australia,Australian Labor Party,,Don_Farrell,I0N
+Don Farrell,Senator,,South Australia,Australian Labor Party,Severance and Post Retirement Traveller,Don_Farrell,I0N
 Doug Cameron,Senator,,New South Wales,Australian Labor Party,,Doug_Cameron_(politician),AI6
 Ed Husic,Representative,Chifley,New South Wales,Australian Labor Party,,Ed_Husic,91219
 Emma Husar,Representative,Lindsay,New South Wales,Australian Labor Party,,Emma_Husar,263328
@@ -100,7 +100,7 @@ Fiona Nash,Senator,,New South Wales,The Nationals,,Fiona_Nash,e5g
 Fiona Scott,Representative,Lindsay,New South Wales,Liberal Party of Australia,Post Retirement Traveller,Fiona_Scott,165476
 Fran Bailey,Representative,McEwen,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Fran_Bailey,JT4
 Gai Brodtmann,Representative,Canberra,Australian Capital Territory,Australian Labor Party,,Gai_Brodtmann,30540
-Gary Gray,Representative,Brand,Western Australia,Australian Labor Party,,Gary_Gray_(Australian_politician),8W5
+Gary Gray,Representative,Brand,Western Australia,Australian Labor Party,Post Retirement Traveller,Gary_Gray_(Australian_politician),8W5
 Gavin Marshall,Senator,,Victoria,Australian Labor Party,,Gavin_Marshall,00AOP
 George Brandis,Senator,,Queensland,Liberal Party of Australia,,George_Brandis,008W7
 George Christensen,Representative,Dawson,Queensland,The Nationals,,George_Christensen_(politician),230485
@@ -120,25 +120,25 @@ Jacqui Lambie,Senator,,Tasmania,Jacqui Lambie Network,,Jacqui_Lambie,250026
 James McGrath,Senator,,Queensland,Liberal Party of Australia,,James_McGrath_(Australian_politician),217241
 James Paterson,Senator,,Victoria,Liberal Party of Australia,,James_Paterson_(Australian_politician),144138
 Jamie Briggs,Representative,Mayo,South Australia,Liberal Party of Australia,Post Retirement Traveller,Jamie_Briggs,IYU
-Jan McLucas,Senator,,Queensland,Australian Labor Party,,Jan_McLucas,84L
+Jan McLucas,Senator,,Queensland,Australian Labor Party,Post Retirement Traveller,Jan_McLucas,84L
 Jane Hume,Senator,,Victoria,Liberal Party of Australia,,Jane_Hume,266499
 Jane Prentice,Representative,Ryan,Queensland,Liberal Party of Australia,,Jane_Prentice,217266
 Janet Rice,Senator,,Victoria,Australian Greens,,Janet_Rice,155410
 Jason Clare,Representative,Blaxland,New South Wales,Australian Labor Party,,Jason_Clare,HWL
 Jason Falinski,Representative,Mackellar,New South Wales,Liberal Party of Australia,,Jason_Falinski,G86
-Jason Wood,Representative,La Trobe,Victoria,Liberal Party of Australia,,Jason_Wood_(politician),E0F
+Jason Wood,Representative,La Trobe,Victoria,Liberal Party of Australia,Severance Traveller,Jason_Wood_(politician),E0F
 Jenny Macklin,Representative,Jagajaga,Victoria,Australian Labor Party,,Jenny_Macklin,PG6
 Jenny McAllister,Senator,,New South Wales,Australian Labor Party,,Jenny_McAllister,121628
-Jill Hall,Representative,Shortland,New South Wales,Australian Labor Party,,Jill_Hall,83N
+Jill Hall,Representative,Shortland,New South Wales,Australian Labor Party,Post Retirement Traveller,Jill_Hall,83N
 Jim Chalmers,Representative,Rankin,Queensland,Australian Labor Party,,Jim_Chalmers_(Queensland_politician),37998
 Joanna Lindgren,Senator,,Queensland,Liberal Party of Australia,Post Retirement Traveller,Joanna_Lindgren,258337
 Joanne Ryan,Representative,Lalor,Victoria,Australian Labor Party,,Joanne_Ryan_(politician),249224
-Joe Bullock,Senator,,Western Australia,Australian Labor Party,,Joe_Bullock,243327
+Joe Bullock,Senator,,Western Australia,Australian Labor Party,Post Retirement Traveller,Joe_Bullock,243327
 Joe Hockey,Representative,North Sydney,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Joe_Hockey,DK6
 Joe Ludwig,Senator,,Queeensland,Australian Labor Party,Life Gold Pass Holder,Joe_Ludwig,84N
 Joel Fitzgibbon,Representative,Hunter,New South Wales,Australian Labor Party,,Joel_Fitzgibbon,8K6
 John Alexander,Representative,Bennelong,New South Wales,Liberal Party of Australia,,John_Alexander_(Australian_politician),M3M
-John Cobb,Representative,Calare,New South Wales,The Nationals,,John_Cobb_(Australian_politician),00AN1
+John Cobb,Representative,Calare,New South Wales,The Nationals,Post Retirement Traveller,John_Cobb_(Australian_politician),00AN1
 John Faulkner,Senator,,New South Wales,Australian Labor Party,Life Gold Pass Holder,John_Faulkner,5K4
 John Hogg,Senator,,Queensland,Australian Labor Party,Life Gold Pass Holder,John_Hogg,7L6
 John Howard,Representative,Bennelong,New South Wales,Liberal Party of Australia,Former Prime Minister,John_Howard,ZD4
@@ -184,7 +184,7 @@ Lisa Chesters,Representative,Bendigo,Victoria,Australian Labor Party,,Lisa_Chest
 Lisa Singh,Senator,,Tasmania,Australian Labor Party,,Lisa_Singh,M0R
 Llew O'Brien,Representative,Wide Bay,Queensland,The Nationals,,Llew_O'Brien,265991
 Louise Markus,Representative,Macquarie,New South Wales,Liberal Party of Australia,Post Retirement Traveller,Louise_Markus,E07
-Louise Pratt,Senator,,Western Australia,Australian Labor Party,,Louise_Pratt,I0T
+Louise Pratt,Senator,,Western Australia,Australian Labor Party,Severance and Post Retirement Traveller,Louise_Pratt,I0T
 Lucy Wicks,Representative,Robertson,New South Wales,Liberal Party of Australia,,Lucy_Wicks_(Australian_politician),241590
 Luke Gosling,Representative,Solomon,Northern Territory,Australian Labor Party,,Luke_Gosling,245392
 Luke Hartsuyker,Representative,Cowper,New South Wales,The Nationals,,Luke_Hartsuyker,00AMM
@@ -206,7 +206,7 @@ Matt Keogh,Representative,Burt,Western Australia,Australian Labor Party,,Matt_Ke
 Matt Thistlethwaite,Representative,Kingsford Smith,New South Wales,Australian Labor Party,,Matt_Thistlethwaite,182468
 Matt Williams,Representative,Hindmarsh,South Australia,Liberal Party of Australia,Post Retirement Traveller,Matt_Williams_(Australian_politician),249758
 Matthew Canavan,Senator,,Queensland,The Nationals,,Matthew_Canavan,245212
-Melissa Parke,Representative,Fremantle,Western Australia,Australian Labor Party,,Melissa_Parke,HWR
+Melissa Parke,Representative,Fremantle,Western Australia,Australian Labor Party,Post Retirement Traveller,Melissa_Parke,HWR
 Melissa Price,Representative,Durack,Western Australia,Liberal Party of Australia,,Melissa_Price,249308
 Meryl Swanson,Representative,Paterson,New South Wales,Australian Labor Party,,Meryl_Swanson,264170
 Michael Danby,Representative,Melbourne Ports,Victoria,Australian Labor Party,,Michael_Danby,WF6
@@ -219,18 +219,18 @@ Michaelia Cash,Senator,,Western Australia,Liberal Party of Australia,,Michaelia_
 Michelle Landry,Representative,Capricornia,Queensland,The Nationals,,Michelle_Landry,249764
 Michelle Rowland,Representative,Greenway,New South Wales,Australian Labor Party,,Michelle_Rowland,159771
 Mike Freelander,Representative,Macarthur,New South Wales,Australian Labor Party,,Mike_Freelander,265979
-Mike Kelly,Representative,Eden-Monaro,New South Wales,Australian Labor Party,,Mike_Kelly_(Australian_politician),HRI
+Mike Kelly,Representative,Eden-Monaro,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Mike_Kelly_(Australian_politician),HRI
 Milton Dick,Representative,Oxley,Queensland,Australian Labor Party,,Milton_Dick,53517
 Mitch Fifield,Senator,,Victoria,Liberal Party of Australia,,Mitch_Fifield,D2I
 Murray Watt,Senator,,Queensland,Australian Labor Party,,Murray_Watt,245759
-Nancy Gorton,,,,,Surviving Spouse,John_Gorton,
+Nancy Gorton,,,,,Surviving Spouse or De Facto Partner of Former Prime Minister,John_Gorton,
 Natasha Griggs,Representative,Solomon,Northern Territory,Liberal Party of Australia,Post Retirement Traveller,Natasha_Griggs,220370
 Nick Bolkus,Senator,,South Australia,Australian Labor Party,Life Gold Pass Holder,Nick_Bolkus,XE4
 Nick Champion,Representative,Wakefield,South Australia,Australian Labor Party,,Nick_Champion,HW9
 Nick McKim,Senator,,Tasmania,Australian Greens,,Nick_McKim,JKM
 Nick Minchin,Senator,,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Nick_Minchin,JX4
 Nick Sherry,Senator,,Tasmania,Australian Labor Party,Life Gold Pass Holder,Nick_Sherry,ZW4
-Nick Xenophon,Senator,,South Australia,Nick Xenophon Team,,Nick_Xenophon,8IV
+Nick Xenophon,Senator,,South Australia,Nick Xenophon Team,Post Retirement Traveller,Nick_Xenophon,8IV
 Nickolas Varvaris,Representative,Barton,New South Wales,Liberal Party of Australia,Post Retirement Traveller,Nickolas_Varvaris,250077
 Nicola Roxon,Representative,Gellibrand,Victoria,Australian Labor Party,Life Gold Pass Holder,Nicola_Roxon,83K
 Nicolle Flint,Representative,Boothby,South Australia,Liberal Party of Australia,,Nicolle_Flint,245550
@@ -244,7 +244,7 @@ Paul Fletcher,Representative,Bradfield,New South Wales,Liberal Party of Australi
 Paul Keating,Representative,Blaxland,New South Wales,Australian Labor Party,Former Prime Minister,Paul_Keating,
 Pauline Hanson,Senator,,Queensland,Pauline Hanson's One Nation,,Pauline_Hanson,BK6
 Penny Wong,Senator,,South Australia,Australian Labor Party,,Penny_Wong,00AOU
-Penny Wright,Senator,,South Australia,Australian Greens,,Penny_Wright,200287
+Penny Wright,Senator,,South Australia,Australian Greens,Severance and Post Retirement Traveller,Penny_Wright,200287
 Peter Dutton,Representative,Dickson,Queensland,Liberal Party of Australia,,Peter_Dutton,00AKI
 Peter Georgiou,Senator,,Western Australia,Pauline Hanson's One Nation,,Peter_Georgiou,269583
 Peter Hendy,Representative,Eden-Monaro,New South Wales,Liberal Party of Australia,Post Retirement Traveller,Peter_Hendy,00BCM
@@ -287,7 +287,7 @@ Stephen Conroy,Senator,,Victoria,Australian Labor Party,Life Gold Pass Holder,St
 Stephen Jones,Representative,Whitlam,New South Wales,Australian Labor Party,,Stephen_Jones_(Australian_politician),A9B
 Stephen Parry,Senator,,Tasmania,Liberal Party of Australia,,Stephen_Parry_(politician),e5v
 Stephen Smith,Representative,Perth,Western Australia,Australian Labor Party,Life Gold Pass Holder,Stephen_Smith_(Australian_politician),5V5
-Steve Georganas,Representative,Hindmarsh,South Australia,Australian Labor Party,,Steve_Georganas,DZY
+Steve Georganas,Representative,Hindmarsh,South Australia,Australian Labor Party,Severance and Post Retirement Traveller,Steve_Georganas,DZY
 Steve Irons,Representative,Swan,Western Australia,Liberal Party of Australia,,Steve_Irons,HYM
 Steven Ciobo,Representative,Moncrieff,Queensland,Liberal Party of Australia,,Steven_Ciobo,00AN0
 Stirling Griff,Senator,,South Australia,Nick Xenophon Team,,Stirling_Griff,76760
@@ -296,10 +296,10 @@ Sue Lines,Senator,,Western Australia,Australian Labor Party,,Sue_Lines,112096
 Susan Lamb,Representative,Longman,Queensland,Australian Labor Party,,Susan_Lamb,265975
 Susan Templeman,Representative,Macquarie,New South Wales,Australian Labor Party,,Susan_Templeman,181810
 Sussan Ley,Representative,Farrer,New South Wales,Liberal Party of Australia,,Sussan_Ley,00AMN
-Tamie Fraser,,,,,Surviving Spouse,Tamie_Fraser,
+Tamie Fraser,,,,,Surviving Spouse or De Facto Partner of Former Prime Minister,Tamie_Fraser,
 Tanya Plibersek,Representative,Sydney,New South Wales,Australian Labor Party,,Tanya_Plibersek,83M
 Ted O'Brien,Representative,Fairfax,Queensland,Liberal Party of Australia,,Ted_O'Brien,138932
-Teresa Gambaro,Representative,Brisbane,Queensland,Liberal Party of Australia,,Teresa_Gambaro,9K6
+Teresa Gambaro,Representative,Brisbane,Queensland,Liberal Party of Australia,Post Retirement Traveller,Teresa_Gambaro,9K6
 Terri Butler,Representative,Griffith,Queensland,Australian Labor Party,,Terri_Butler,248006
 Tim Hammond,Representative,Perth,Western Australia,Australian Labor Party,,Tim_Hammond_(politician),80109
 Tim Watts,Representative,Gellibrand,Victoria,Australian Labor Party,,Tim_Watts_(politician),193430
@@ -311,7 +311,7 @@ Tony Smith,Representative,Casey,Victoria,Liberal Party of Australia,,Tony_Smith_
 Tony Zappia,Representative,Makin,South Australia,Australian Labor Party,,Tony_Zappia,HWB
 Trent Zimmerman,Representative,North Sydney,New South Wales,Liberal Party of Australia,,Trent_Zimmerman,203092
 Trevor Evans,Representative,Brisbane,Queensland,Liberal Party of Australia,,Trevor_Evans,61378
-Warren Entsch,Representative,Leichhardt,Queensland,Liberal Party of Australia,,Warren_Entsch,7K6
+Warren Entsch,Representative,Leichhardt,Queensland,Liberal Party of Australia,Severance Traveller,Warren_Entsch,7K6
 Warren Snowdon,Representative,Lingiari,Northern Territory,Australian Labor Party,,Warren_Snowdon,IJ4
 Warren Truss,Representative,Wide Bay,Queensland,The Nationals,Life Gold Pass Holder,Warren_Truss,GT4
 Wayne Swan,Representative,Lilley,Queensland,Australian Labor Party,,Wayne_Swan,2V5
@@ -321,119 +321,275 @@ Zhenya Wang,Senator,,Western Australia,Palmer United Party,Post Retirement Trave
 Wilson Tuckey,Representative,O'Connor,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Wilson_Tuckey,SJ4
 Danna Vale,Representative,Hughes,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Danna_Vale,VK6
 Lindsay Tanner,Representative,Melbourne,Victoria,Australian Labor Party,Life Gold Pass Holder,Lindsay_Tanner,YU5
-Judith Troeth,Senator,,Victoria,Liberal Party of Australia,Post Retirement Traveller,Judith_Troeth,gx5
+Judith Troeth,Senator,,Victoria,Liberal Party of Australia,Severance and Post Retirement Traveller,Judith_Troeth,gx5
 Duncan Kerr,Representative,Denison,Tasmania,Australian Labor Party,Life Gold Pass Holder,Duncan_Kerr,RH4
 Bob McMullan,Representative,Fraser,Australian Capital Territory,Australian Labor Party,Life Gold Pass Holder,Bob_McMullan,5I4
 Daryl Melham,Representative,Banks,New South Wales,Australian Labor Party,Life Gold Pass Holder,Daryl_Melham,4T4
 Paul Neville,Representative,Hinkler,Queensland,The Nationals,Life Gold Pass Holder,Paul_Neville_(politician),KV5
-Kerry O'Brien,Senator,,Tasmania,Australian Labor Party,Post Retirement Traveller,Kerry_O'Brien_(politician),8O6
+Kerry O'Brien,Senator,,Tasmania,Australian Labor Party,Severance and Post Retirement Traveller,Kerry_O'Brien_(politician),8O6
 John Forrest,Representative,Mallee,Victoria,The Nationals,Life Gold Pass Holder,John_Forrest_(Victorian_politician),NV5
-Michael Forshaw,Senator,,New South Wales,Australian Labor Party,Post Retirement Traveller,Michael_Forshaw,656
+Michael Forshaw,Senator,,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Michael_Forshaw,656
 Dick Adams,Representative,Lyons,Tasmania,Australian Labor Party,Life Gold Pass Holder,Dick_Adams_(politician),BV5
 Neil Brown,Representative,Menzies,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Neil_Brown_(Australian_politician),
 Lucy Gichuhi,Senator,,South Australia,Independent,,Lucy_Gichuhi,270552
 Slade Brockman,Senator,,Western Australia,Liberal Party of Australia,,Slade_Brockman,30484
 Rod Culleton,Senator,,Western Australia,Independent,,Rod_Culleton,266482
-Mehmet Tillem,Senator,,Victoria,Australian Labor Party,,Mehmet_Tillem,249499
+Mehmet Tillem,Senator,,Victoria,Australian Labor Party,Severance and Post Retirement Traveller,Mehmet_Tillem,249499
 Peter Walsh,Senator,,Western Australia,Australian Labor Party,Life Gold Pass Holder,Peter_Walsh_(Australian_politician),
-Lin Thorp,Senator,,Tasmania,Australian Labor Party,,Lin_Thorp,183342
-Mike Symon,Representative,Deakin,Victoria,Australian Labor Party,,Mike_Symon,HW8
-Ursula Stephens,Senator,,New South Wales,Australian Labor Party,,Ursula_Stephens,00AOS
-Patrick Secker,Representative,Barker,South Australia,Liberal Party of Australia,,Patrick_Secker,848
-Janelle Saffin,Representative,Page,New South Wales,Australian Labor Party,,Janelle_Saffin,HVY
+Lin Thorp,Senator,,Tasmania,Australian Labor Party,Severance and Post Retirement Traveller,Lin_Thorp,183342
+Mike Symon,Representative,Deakin,Victoria,Australian Labor Party,Severance and Post Retirement Traveller,Mike_Symon,HW8
+Ursula Stephens,Senator,,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Ursula_Stephens,00AOS
+Patrick Secker,Representative,Barker,South Australia,Liberal Party of Australia,Severance and Post Retirement Traveller,Patrick_Secker,848
+Janelle Saffin,Representative,Page,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Janelle_Saffin,HVY
 Don Randall,Representative,Canning,Western Australia,Liberal Party of Australia,,Don_Randall,PK6
-Christine Milne,Senator,,Tasmania,Australian Greens,,Christine_Milne,ka5
-Helen Kroger,Senator,,Victoria,Liberal Party of Australia,,Helen_Kroger,G1N
-Steve Hutchins,Senator,,New South Wales,Australian Labor Party,,Steve_Hutchins,84p
+Christine Milne,Senator,,Tasmania,Australian Greens,Severance and Post Retirement Traveller,Christine_Milne,ka5
+Helen Kroger,Senator,,Victoria,Liberal Party of Australia,Severance and Post Retirement Traveller,Helen_Kroger,G1N
+Steve Hutchins,Senator,,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Steve_Hutchins,84p
 Bruce Goodluck,Representative,Franklin,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Bruce_Goodluck,
-Steve Gibbons,Representative,Bendigo,Victoria,Australian Labor Party,,Steve_Gibbons_(politician),83X
-Petro Georgiou,Representative,Kooyong,Victoria,Liberal Party of Australia,Post Retirement Traveller,Petro_Georgiou,HM5
-Mark Furner,Senator,,Queensland,Australian Labor Party,,Mark_Furner,I0P
+Steve Gibbons,Representative,Bendigo,Victoria,Australian Labor Party,Severance and Post Retirement Traveller,Steve_Gibbons_(politician),83X
+Petro Georgiou,Representative,Kooyong,Victoria,Liberal Party of Australia,Severance and Post Retirement Traveller,Petro_Georgiou,HM5
+Mark Furner,Senator,,Queensland,Australian Labor Party,Severance and Post Retirement Traveller,Mark_Furner,I0P
 Malcolm Fraser,Representative,Wannon,Victoria,Liberal Party of Australia,Former Prime Minister,Malcolm_Fraser,
 Gough Whitlam,Representative,Werriwa,New South Wales,Australian Labor Party,Former Prime Minister,Gough_Whitlam,
-Alan Eggleston,Senator,,Western Australia,Liberal Party of Australia,,Alan_Eggleston,4L6
-Tony Crook,Representative,O'Connor,Western Australia,The Nationals WA,,Tony_Crook_(politician),M3K
-Darren Cheeseman,Representative,Corangamite,Victoria,Australian Labor Party,,Darren_Cheeseman,HW7
-Sue Boyce,Senator,,Queensland,Liberal Party of Australia,,Sue_Boyce,H6V
-Mark Bishop,Senator,,Western Australia,Australian Labor Party,,Mark_Bishop,2L6
-Tony Windsor,Representative,New England,New South Wales,Independent,,Tony_Windsor,009LP
-Ralph Willis,Representative,Gellibrand,Victoria,Australian Labor Party,,Ralph_Willis,
-Mary Wilson,,,,,,,
-Daryl Williams,Representative,Tangney,Western Australia,Liberal Party of Australia,,Daryl_Williams,7V5
-Stewart West,Representative,Cunningham,New South Wales,Australian Labor Party,,Stewart_West,
-John Watson,Senator,,Tasmania,Liberal Party of Australia,,John_Watson_(Australian_politician),VJ4
-Mal Washer,Representative,Moore,Western Australia,Liberal Party of Australia,,Mal_Washer,84F
-Ian Viner,Representative,Stirling,Western Australia,Liberal Party of Australia,,Ian_Viner,
-Amanda Vanstone,Senator,,South Australia,Liberal Party of Australia,,Amanda_Vanstone,7.00E+04
-Mark Vaile,Representative,Lyne,New South Wales,The Nationals,,Mark_Vaile,SU5
-Michael Townley,Senator,,Tasmania,Independent,,Michael_Townley_(Australian_politician),
-Craig Thomson,Representative,Dobell,New South Wales,Independent,,Craig_Thomson_(politician),HVZ
-Baden Teague,Senator,,South Australia,Liberal Party of Australia,,Baden_Teague,
-Michael Tate,Senator,,Tasmania,Australian Labor Party,,Michael_Tate,
-Peter Staples,Representative,Jagajaga,Victoria,Australian Labor Party,,Peter_Staples,
-Laura Smyth,Representative,La Trobe,Victoria,Australian Labor Party,,Laura_Smyth,172770
-Ian Sinclair,Representative,New England,New South Wales,The Nationals,,Ian_Sinclair,
-David Simmons,Representative,Calare,New South Wales,Australian Labor Party,,David_Simmons_(Australian_politician),
-Sid Sidebottom,Representative,Braddon,Tasmania,Australian Labor Party,,Sid_Sidebottom,849
-Chris Schacht,Senator,,South Australia,Australian Labor Party,,Chris_Schacht,4J4
-Rodney Sawford,Representative,Port Adelaide,South Australia,Australian Labor Party,,Rod_Sawford,
-Graham Richardson,Senator,,New South Wales,Australian Labor Party,,Graham_Richardson,
-Margaret Reynolds,Senator,,Queensland,Australian Labor Party,,Margaret_Reynolds,XI4
-Peter Reith,Representative,Flinders,Victoria,Liberal Party of Australia,,Peter_Reith,WI4
-Margaret Reid,Senator,,Australian Capital Territory,Liberal Party of Australia,,Margaret_Reid_(politician),VI4
-Robert Ray,Senator,,Victoria,Australian Labor Party,,Robert_Ray_(Australian_politician),ui4
-Tom_McVeigh,Representative,Groom,Queensland,The Nationals,,Tom_McVeigh,
-David Bradbury,Representative,Lindsay,New South Wales,Australian Labor Party,,David_Bradbury_(politician),HVW
-Bob Carr,Senator,,New South Wales,Australian Labor Party,,Bob_Carr,wx4
-Greg Combet,Representative,Charlton,New South Wales,Australian Labor Party,,Greg_Combet,YW6
-Trish Crossin,Senator,,Northern Territory,Australian Labor Party,,Trish_Crossin,7Y6
-Yvette D'Ath,Representative,Petrie,Queensland,Australian Labor Party,,Yvette_D'Ath,HVN
-Peter Garrett,Representative,Kingsford Smith,New South Wales,Australian Labor Party,,Peter_Garrett,HV4
-Joanna Gash,Representative,Gilmore,New South Wales,Liberal Party of Australia,,Joanna_Gash,AK6
-Sharon Grierson,Representative,Newcastle,New South Wales,Australian Labor Party,,Sharon_Grierson,00AMP
-Barry Haase,Representative,Durack,Western Australia,Liberal Party of Australia,,Barry_Haase,84T
-Gary Humphries,Senator,,Australian Capital Territory,Liberal Party of Australia,,Gary_Humphries,KO6
-Kirsten Livermore,Representative,Capricornia,Queensland,Australian Labor Party,,Kirsten_Livermore,83A
-Geoff Lyons,Representative,Bass,Tasmania,Australian Labor Party,,Geoff_Lyons,M38
-Sophie Mirabella,Representative,Indi,Victoria,Liberal Party of Australia,,Sophie_Mirabella,00AMU
-John Murphy,Representative,Reid,New South Wales,Australian Labor Party,,John_Murphy_(Australian_politician),83D
-Robert Oakeshott,Representative,Lyne,New South Wales,Independent,,Rob_Oakeshott,IYS
-Alby Schultz,Representative,Hume,New South Wales,Liberal Party of Australia,,Alby_Schultz,83Q
-Dana Wortley,Senator,,South Australia,Australian Labor Party,,Dana_Wortley,e6c
+Alan Eggleston,Senator,,Western Australia,Liberal Party of Australia,Severance and Post Retirement Traveller,Alan_Eggleston,4L6
+Tony Crook,Representative,O'Connor,Western Australia,The Nationals WA,Severance and Post Retirement Traveller,Tony_Crook_(politician),M3K
+Darren Cheeseman,Representative,Corangamite,Victoria,Australian Labor Party,Severance and Post Retirement Traveller,Darren_Cheeseman,HW7
+Sue Boyce,Senator,,Queensland,Liberal Party of Australia,Severance and Post Retirement Traveller,Sue_Boyce,H6V
+Mark Bishop,Senator,,Western Australia,Australian Labor Party,Severance and Post Retirement Traveller,Mark_Bishop,2L6
+Tony Windsor,Representative,New England,New South Wales,Independent,Severance and Post Retirement Traveller,Tony_Windsor,009LP
+Ralph Willis,Representative,Gellibrand,Victoria,Australian Labor Party,Life Gold Pass Holder,Ralph_Willis,
+Mary Wilson,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Daryl Williams,Representative,Tangney,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Daryl_Williams,7V5
+Stewart West,Representative,Cunningham,New South Wales,Australian Labor Party,Life Gold Pass Holder,Stewart_West,
+John Watson,Senator,,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,John_Watson_(Australian_politician),VJ4
+Mal Washer,Representative,Moore,Western Australia,Liberal Party of Australia,Severance and Post Retirement Traveller,Mal_Washer,84F
+Ian Viner,Representative,Stirling,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Ian_Viner,
+Amanda Vanstone,Senator,,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Amanda_Vanstone,7.00E+04
+Mark Vaile,Representative,Lyne,New South Wales,The Nationals,Life Gold Pass Holder,Mark_Vaile,SU5
+Michael Townley,Senator,,Tasmania,Independent,Life Gold Pass Holder,Michael_Townley_(Australian_politician),
+Craig Thomson,Representative,Dobell,New South Wales,Independent,Severance and Post Retirement Traveller,Craig_Thomson_(politician),HVZ
+Baden Teague,Senator,,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Baden_Teague,
+Michael Tate,Senator,,Tasmania,Australian Labor Party,Life Gold Pass Holder,Michael_Tate,
+Peter Staples,Representative,Jagajaga,Victoria,Australian Labor Party,Life Gold Pass Holder,Peter_Staples,
+Laura Smyth,Representative,La Trobe,Victoria,Australian Labor Party,Severance and Post Retirement Traveller,Laura_Smyth,172770
+Ian Sinclair,Representative,New England,New South Wales,The Nationals,Life Gold Pass Holder,Ian_Sinclair,
+David Simmons,Representative,Calare,New South Wales,Australian Labor Party,Life Gold Pass Holder,David_Simmons_(Australian_politician),
+Sid Sidebottom,Representative,Braddon,Tasmania,Australian Labor Party,Severance and Post Retirement Traveller,Sid_Sidebottom,849
+Chris Schacht,Senator,,South Australia,Australian Labor Party,Life Gold Pass Holder,Chris_Schacht,4J4
+Rodney Sawford,Representative,Port Adelaide,South Australia,Australian Labor Party,Life Gold Pass Holder,Rod_Sawford,
+Graham Richardson,Senator,,New South Wales,Australian Labor Party,Life Gold Pass Holder,Graham_Richardson,
+Margaret Reynolds,Senator,,Queensland,Australian Labor Party,Life Gold Pass Holder,Margaret_Reynolds,XI4
+Peter Reith,Representative,Flinders,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Peter_Reith,WI4
+Margaret Reid,Senator,,Australian Capital Territory,Liberal Party of Australia,Life Gold Pass Holder,Margaret_Reid_(politician),VI4
+Robert Ray,Senator,,Victoria,Australian Labor Party,Life Gold Pass Holder,Robert_Ray_(Australian_politician),ui4
+Thomas McVeigh,Representative,Groom,Queensland,The Nationals,Life Gold Pass Holder,Tom_McVeigh,
+David Bradbury,Representative,Lindsay,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,David_Bradbury_(politician),HVW
+Bob Carr,Senator,,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Bob_Carr,wx4
+Greg Combet,Representative,Charlton,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Greg_Combet,YW6
+Trish Crossin,Senator,,Northern Territory,Australian Labor Party,Severance and Post Retirement Traveller,Trish_Crossin,7Y6
+Yvette D'Ath,Representative,Petrie,Queensland,Australian Labor Party,Severance and Post Retirement Traveller,Yvette_D'Ath,HVN
+Peter Garrett,Representative,Kingsford Smith,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Peter_Garrett,HV4
+Joanna Gash,Representative,Gilmore,New South Wales,Liberal Party of Australia,Severance and Post Retirement Traveller,Joanna_Gash,AK6
+Sharon Grierson,Representative,Newcastle,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,Sharon_Grierson,00AMP
+Barry Haase,Representative,Durack,Western Australia,Liberal Party of Australia,Severance and Post Retirement Traveller,Barry_Haase,84T
+Gary Humphries,Senator,,Australian Capital Territory,Liberal Party of Australia,Severance and Post Retirement Traveller,Gary_Humphries,KO6
+Kirsten Livermore,Representative,Capricornia,Queensland,Australian Labor Party,Severance and Post Retirement Traveller,Kirsten_Livermore,83A
+Geoff Lyons,Representative,Bass,Tasmania,Australian Labor Party,Severance and Post Retirement Traveller,Geoff_Lyons,M38
+Sophie Mirabella,Representative,Indi,Victoria,Liberal Party of Australia,Severance and Post Retirement Traveller,Sophie_Mirabella,00AMU
+John Murphy,Representative,Reid,New South Wales,Australian Labor Party,Severance and Post Retirement Traveller,John_Murphy_(Australian_politician),83D
+Robert Oakeshott,Representative,Lyne,New South Wales,Independent,Severance and Post Retirement Traveller,Rob_Oakeshott,IYS
+Alby Schultz,Representative,Hume,New South Wales,Liberal Party of Australia,Severance and Post Retirement Traveller,Alby_Schultz,83Q
+Dana Wortley,Senator,,South Australia,Australian Labor Party,Severance and Post-Retirement Traveller,Dana_Wortley,e6c
 Jordon Steele-John,Senator,,Western Australia,Australian Greens,,Jordon_Steele-John,250156
 Rex Patrick,Senator,,South Australia,Nick Xenophon Team,,Rex_Patrick,144292
-Andrew Bartlett,Senator,,Queensland,Australian Greens,,Andrew_Bartlett,DT6
+Andrew Bartlett,Senator,,Queensland,Australian Greens,Severance and Post-Retirement Traveller,Andrew_Bartlett,DT6
 Fraser Anning,Senator,,Queensland,Independent,,Fraser_Anning,273829
 Matthew Thistlethwaite,Representative,Kingsford Smith,New South Wales,Australian Labor Party,,Matt_Thistlethwaite,182468
-Russell Trood,Senator,,Queensland,Liberal Party of Australia,,Russell_Trood,e6a
-Mary Jo Fisher,Senator,,South Australia,Liberal Party of Australia,,Mary_Jo_Fisher,HBE
-Annette Hurley,Senator,,South Australia,Australian Labor Party,,Annette_Hurley,e4u
-Jon Sullivan,Representative,Longman,Queensland,Australian Labor Party,,Jon_Sullivan,HVS
+Russell Trood,Senator,,Queensland,Liberal Party of Australia,Severance and Post-Retirement Traveller,Russell_Trood,e6a
+Mary Jo Fisher,Senator,,South Australia,Liberal Party of Australia,Severance and Post-Retirement Traveller,Mary_Jo_Fisher,HBE
+Annette Hurley,Senator,,South Australia,Australian Labor Party,Severance and Post-Retirement Traveller,Annette_Hurley,e4u
+Jon Sullivan,Representative,Longman,Queensland,Australian Labor Party,Severance Traveller,Jon_Sullivan,HVS
 Judith Adams,Senator,,Western Australia,Liberal Party of Australia,,Judith_Adams,e4q
-Mark Arbib,Senator,,New South Wales,Australian Labor Party,,Mark_Arbib,HES
-Guy Barnett,Representative,Lyons,Tasmania,Liberal Party of Australia,,Guy_Barnett_(Australian_politician),00AUF
-Bob Brown,Senator,,Tasmania,Australian Greens,,Bob_Brown,QD4
-Belinda Neal,Representative,Robertson,New South Wales,Australian Labor Party,,Belinda_Neal,B36
-Maxine McKew,Representative,Bennelong,New South Wales,Australian Labor Party,,Maxine_McKew,BP4
-Julia Irwin,Representative,Fowler,New South Wales,Australian Labor Party,,Julia_Irwin,83Z
-Arch Bevis,Representative,Brisbane,Queensland,Australian Labor Party,,Arch_Bevis,ET4
-James Bidgood,Representative,Dawson,Queensland,Australian Labor Party,,James_Bidgood_(politician),HVM
-Jodie Campbell,Representative,Bass,Tasmania,Australian Labor Party,,Jodie_Campbell,HWC
-Bob Debus,Representative,Macquarie,New South Wales,Australian Labor Party,,Bob_Debus,8IS
-Annette Ellis,Representative,Canberra,Australian Capital Territory,Australian Labor Party,,Annette_Ellis,5K6
-Pat Farmer,Representative,Macarthur,New South Wales,Liberal Party of Australia,,Pat_Farmer,00AMO
-Steve Fielding,Senator,,Victoria,Family First,,Steve_Fielding,E4R
-Jennie George,Representative,Throsby,New South Wales,Australian Labor Party,,Jennie_George,JH5
-Damian Hale,Representative,Solomon,Northern Territory,Australian Labor Party,,Damian_Hale,HWD
-Kay Hull,Representative,Riverina,New South Wales,The Nationals,,Kay_Hull,83O
-Sharryn Jackson,Representative,Hasluck,Western Australia,Australian Labor Party,,Sharryn_Jackson,00AN2
-Michael Johnson,Representative,Ryan,Queensland,Independent,,Michael_Johnson_(Australian_politician),00AMX
-Peter Lindsay,Representative,Herbert,Queensland,Liberal Party of Australia,,Peter_Lindsay,HK6
-Margaret May,Representative,McPherson,Queensland,Liberal Party of Australia,,Margaret_May,83B
-Julian McGauran,Senator,,Victoria,Liberal Party of Australia,,Julian_McGauran,
-Chris Pearce,Representative,Aston,Victoria,Liberal Party of Australia,,Chris_Pearce_(politician),A8W
-Roger Price,Representative,Chifley,New South Wales,Australian Labor Party,,Roger_Price_(Australian_politician),QI4
-Brett Raguse,Representative,Forde,Queensland,Australian Labor Party,,Brett_Raguse,HVQ
-Kerry Rea,Representative,Bonner,Queensland,Australian Labor Party,,Kerry_Rea,HVR
-Chris Trevor,Representative,Flynn,Queensland,Australian Labor Party,,Chris_Trevor,HVU
-Jim Turnour,Representative,Leichhardt,Queensland,Australian Labor Party,,Jim_Turnour,HVV
+Mark Arbib,Senator,,New South Wales,Australian Labor Party,Severance and Post-Retirement Traveller,Mark_Arbib,HES
+Guy Barnett,Representative,Lyons,Tasmania,Liberal Party of Australia,Severance and Post Retirement Traveller,Guy_Barnett_(Australian_politician),00AUF
+Bob Brown,Senator,,Tasmania,Australian Greens,Life Gold Pass Holder,Bob_Brown,QD4
+Belinda Neal,Representative,Robertson,New South Wales,Australian Labor Party,Severance Traveller,Belinda_Neal,B36
+Maxine McKew,Representative,Bennelong,New South Wales,Australian Labor Party,Severance Traveller,Maxine_McKew,BP4
+Julia Irwin,Representative,Fowler,New South Wales,Australian Labor Party,Severance and Post-Retirement Traveller,Julia_Irwin,83Z
+Arch Bevis,Representative,Brisbane,Queensland,Australian Labor Party,Life Gold Pass Holder,Arch_Bevis,ET4
+James Bidgood,Representative,Dawson,Queensland,Australian Labor Party,Severance Traveller,James_Bidgood_(politician),HVM
+Jodie Campbell,Representative,Bass,Tasmania,Australian Labor Party,Severance Traveller,Jodie_Campbell,HWC
+Bob Debus,Representative,Macquarie,New South Wales,Australian Labor Party,Severance Traveller,Bob_Debus,8IS
+Annette Ellis,Representative,Canberra,Australian Capital Territory,Australian Labor Party,Severance and Post Retirement Traveller,Annette_Ellis,5K6
+Pat Farmer,Representative,Macarthur,New South Wales,Liberal Party of Australia,Severance and Post-Retirement Traveller,Pat_Farmer,00AMO
+Steve Fielding,Senator,,Victoria,Family First,Severance and Post-Retirement Traveller,Steve_Fielding,E4R
+Jennie George,Representative,Throsby,New South Wales,Australian Labor Party,Severance and Post-Retirement Traveller,Jennie_George,JH5
+Damian Hale,Representative,Solomon,Northern Territory,Australian Labor Party,Severance Traveller,Damian_Hale,HWD
+Kay Hull,Representative,Riverina,New South Wales,The Nationals,Severance and Post-Retirement Traveller,Kay_Hull,83O
+Sharryn Jackson,Representative,Hasluck,Western Australia,Australian Labor Party,Severance Traveller,Sharryn_Jackson,00AN2
+Michael Johnson,Representative,Ryan,Queensland,Independent,Severance and Post-Retirement Traveller,Michael_Johnson_(Australian_politician),00AMX
+Peter Lindsay,Representative,Herbert,Queensland,Liberal Party of Australia,Severance and Post Retirement Traveller,Peter_Lindsay,HK6
+Margaret May,Representative,McPherson,Queensland,Liberal Party of Australia,Severance and Post-Retirement Traveller,Margaret_May,83B
+Julian McGauran,Senator,,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Julian_McGauran,
+Chris Pearce,Representative,Aston,Victoria,Liberal Party of Australia,Severance and Post-Retirement Traveller,Chris_Pearce_(politician),A8W
+Roger Price,Representative,Chifley,New South Wales,Australian Labor Party,Life Gold Pass Holder,Roger_Price_(Australian_politician),QI4
+Brett Raguse,Representative,Forde,Queensland,Australian Labor Party,Severance Traveller,Brett_Raguse,HVQ
+Kerry Rea,Representative,Bonner,Queensland,Australian Labor Party,Severance Traveller,Kerry_Rea,HVR
+Chris Trevor,Representative,Flynn,Queensland,Australian Labor Party,Severance Traveller,Chris_Trevor,HVU
+Jim Turnour,Representative,Leichhardt,Queensland,Australian Labor Party,Severance Traveller,Jim_Turnour,HVV
+Ken Aldred,Representative,Deakin,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Ken_Aldred,
+Richard Alston,Senator,,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Richard_Alston_(politician),LD4
+John Anderson,Representative,Gwyder,New South Wales,The Nationals,Life Gold Pass Holder,John_Anderson_(Australian_politician),4K4
+Neil Andrew,Representative,Wakefield,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Neil_Andrew,HE4
+Doug Anthony,Representative,Richmond,New South Wales,The Nationals,Life Gold Pass Holder,Doug_Anthony,
+Brian Archer,Senator,,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Brian_Archer,
+Peter Baldwin,Representative,Sydney,New South Wales,Australian Labor Party,Life Gold Pass Holder,Peter_Baldwin_(politician),
+Michael Baume,Senator,,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Michael_Baume,
+Peter Baume,Senator,,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Peter_Baume,
+Kim Beazley,Representative,Brand,Western Australia,Australian Labor Party,Life Gold Pass Holder,Kim_Beazley,PE4
+David Beddall,Representative,Rankin,Queensland,Australian Labor Party,Life Gold Pass Holder,David_Beddall,
+Gordon Bilney,Representative,Kingston,South Australia,Australian Labor Party,Life Gold Pass Holder,Gordon_Bilney,
+Neal Blewett,Representative,Bonython,South Australia,Australian Labor Party,Life Gold Pass Holder,Neal_Blewett,
+Lionel Bowen,Representative,Kingsford Smith,New South Wales,Australian Labor Party,Life Gold Pass Holder,Lionel_Bowen,
+Ray Braithwaite,Representative,Dawson,Queensland,The Nationals,Life Gold Pass Holder,Ray_Braithwaite,
+John Brown,Representative,Parramatta,New South Wales,Australian Labor Party,Life Gold Pass Holder,John_Brown_(Australian_politician),
+Maxwell Burr,Representative,Lyons,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Max_Burr,
+Paul Calvert,Senator,,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Paul_Calvert,
+Donald Cameron,Representative,Moreton,Queensland,Liberal Party of Australia,Life Gold Pass Holder,Don_Cameron_(Queensland_Liberal_politician),
+Graeme Campbell,Representative,Kalgoorlie,Western Australia,Independent,Life Gold Pass Holder,Graeme_Campbell_(politician),
+Ian Campbell,Senator,,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Ian_Campbell_(Australian_politician),H15
+John Carrick,Senator,,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,John_Carrick_(Australian_politician),
+Moses Cass,Representative,Maribyrnong,Victoria,Australian Labor Party,Life Gold Pass Holder,Moss_Cass,
+Frederick Chaney,Representative,Pearce,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Fred_Chaney,
+John Coates,Senator,,Tasmania,Australian Labor Party,Life Gold Pass Holder,John_Coates_(Australian_politician),
+Barry Cohen,Representative,Robertson,New South Wales,Australian Labor Party,Life Gold Pass Holder,Barry_Cohen,
+David Connolly,Representative,Bradfield,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,David_Connolly_(politician),
+Peter Costello,Representative,Higgins,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Peter_Costello,CT4
+Manfred Cross,Representative,Brisbane,Queensland,Australian Labor Party,Life Gold Pass Holder,Manfred_Cross,
+Rosemary Crowley,Senator,,South Australia,Australian Labor Party,Life Gold Pass Holder,Rosemary_Crowley,ZF4
+John Dawkins,Representative,Tangney,Western Australia,Australian Labor Party,Life Gold Pass Holder,John_Dawkins,
+Alexander Downer,Representative,Mayo,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Alexander_Downer,4G4
+Peter Drummond,Representative,Forrest,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Peter_Drummond_(politician),
+Michael Duffy,Representative,Holt,Victoria,Australian Labor Party,Life Gold Pass Holder,Michael_Duffy_(Australian_politician),
+Harold Edwards,Representative,Berowra,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Harry_Edwards_(Australian_politician),
+Christopher Ellison,Senator,,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Chris_Ellison,9X5
+Keppel Enderby,Representative,Canberra,Australian Capital Territory,Australian Labor Party,Life Gold Pass Holder,Kep_Enderby,
+Gareth Evans,Senator,,Victoria,Australian Labor Party,Life Gold Pass Holder,Gareth_Evans_(politician),VD4
+Douglas Everingham,Representative,Capricornia,Queensland,Australian Labor Party,Life Gold Pass Holder,Doug_Everingham,
+Wallace Fife,Representative,Hume,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Wal_Fife,
+Tim Fischer,Representative,Farrer,New South Wales,The Nationals,Life Gold Pass Holder,Tim_Fischer,DG4
+Peter Fisher,Representative,Mallee,Victoria,The Nationals,Life Gold Pass Holder,Peter_Fisher_(politician),
+Alexander Forbes,Representative,Barker,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Jim_Forbes_(Australian_politician),
+Ross Free,Representative,Lindsay,New South Wales,Australian Labor Party,Life Gold Pass Holder,Ross_Free,
+Victor Garland,Representative,Curtin,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Victor_Garland,
+Arthur Gietzelt,Senator,,New South Wales,Australian Labor Party,Life Gold Pass Holder,Arthur_Gietzelt,
+Alan Griffiths,Representative,Maribyrnong,Victoria,Australian Labor Party,Life Gold Pass Holder,Alan_Griffiths,
+Donald Grimes,Senator,,Tasmania,Australian Labor Party,Life Gold Pass Holder,Don_Grimes,
+Margaret Guilfoyle,Senator,,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Margaret_Guilfoyle,
+Steele Hall,Representative,Boothby,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Steele_Hall,
+Gerard Hand,Representative,Melbourne,Victoria,Australian Labor Party,Life Gold Pass Holder,Gerry_Hand,
+Gary Hardgrave,Representative,Moreton,Queensland,Liberal Party of Australia,Life Gold Pass Holder,Gary_Hardgrave,CK6
+Brian Harradine,Senator,,Tasmania,Independent,Life Gold Pass Holder,Brian_Harradine,
+Bill Hayden,Representative,Oxley,Queensland,Australian Labor Party,Life Gold Pass Holder,Bill_Hayden,
+John Herron,Senator,,Queensland,Liberal Party of Australia,Life Gold Pass Holder,John_Herron_(Australian_politician),VW4
+Noel Hicks,Representative,Riverina,New South Wales,The Nationals,Life Gold Pass Holder,Noel_Hicks,
+Robert Hill,Senator,,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Robert_Hill_(Australian_politician),BH4
+Clyde Holding,Representative,Melbourne Ports,Victoria,Australian Labor Party,Life Gold Pass Holder,Clyde_Holding,
+Colin Hollis,Representative,Throsby,New South Wales,Australian Labor Party,Life Gold Pass Holder,Colin_Hollis,DH4
+Brian Howe,Representative,Batman,Victoria,Australian Labor Party,Life Gold Pass Holder,Brian_Howe_(politician),
+Ben Humphreys,Representative,Griffith,Queensland,Australian Labor Party,Life Gold Pass Holder,Ben_Humphreys,
+Ralph Hunt,Representative,Gwyder,New South Wales,The Nationals,Life Gold Pass Holder,Ralph_Hunt_(Australian_politician),
+Christopher Hurford,Representative,Adelaide,South Australia,Australian Labor Party,Life Gold Pass Holder,Chris_Hurford,
+Donald Jessop,Senator,,South Australia,Independent,Life Gold Pass Holder,Don_Jessop,
+Leslie Johnson,Representative,Hughes,New South Wales,Australian Labor Party,Life Gold Pass Holder,Les_Johnson,
+Barry Jones,Representative,Lalor,Victoria,Australian Labor Party,Life Gold Pass Holder,Barry_Jones_(Australian_politician),
+David Jull,Representative,Fadden,Queensland,Liberal Party of Australia,Life Gold Pass Holder,David_Jull,MH4
+Ros Kelly,Representative,Canberra,Australian Capital Territory,Australian Labor Party,Life Gold Pass Holder,Ros_Kelly,
+David Kemp,Representative,Goldstein,Victoria,Liberal Party of Australia,Life Gold Pass Holder,David_Kemp_(politician),BT4
+Rod Kemp,Senator,,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Rod_Kemp,WW4
+John Kerin,Representative,Werriwa,New South Wales,Australian Labor Party,Life Gold Pass Holder,John_Kerin,
+Richard Klugman,Representative,Prospect,New South Wales,Australian Labor Party,Life Gold Pass Holder,Dick_Klugman,
+Susan Knowles,Senator,,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Susan_Knowles,TH4
+Michael Lee,Representative,Dobell,New South Wales,Australian Labor Party,Life Gold Pass Holder,Michael_Lee_(Australian_politician),MG4
+Bruce Lloyd,Representative,Murray,Victoria,The Nationals,Life Gold Pass Holder,Bruce_Lloyd,
+David MacGibbon,Senator,,Queensland,Liberal Party of Australia,Life Gold Pass Holder,David_MacGibbon_(politician),YH4
+Michael Mackellar,Representative,Warringah,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Michael_MacKellar,
+Ian Macphee,Representative,Goldstein,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Ian_Macphee,
+Stephen Martin,Representative,Cunningham,New South Wales,Australian Labor Party,Life Gold Pass Holder,Stephen_Martin_(Australian_politician),8I4
+Stewart McArthur,Representative,Corangamite,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Stewart_McArthur,VH4
+Douglas McClelland,Senator,,New South Wales,Australian Labor Party,Life Gold Pass Holder,Doug_McClelland,
+Peter McGauran,Representative,Gippsland,Victoria,The Nationals,Life Gold Pass Holder,Peter_McGauran,XH4
+Jeannette McHugh,Representative,Grayndler,New South Wales,Australian Labor Party,Life Gold Pass Holder,Jeannette_McHugh,
+Leo McLeay,Representative,Watson,New South Wales,Australian Labor Party,Life Gold Pass Holder,Leo_McLeay,4I4
+Percival Millar,Representative,Wide Bay,Queensland,The Nationals,Life Gold Pass Holder,Clarrie_Millar,
+John Moore,Representative,Ryan,Queensland,Liberal Party of Australia,Life Gold Pass Holder,John_Moore_(Australian_politician),EI4
+Allan Morris,Representative,Newcastle,New South Wales,Australian Labor Party,Life Gold Pass Holder,Allan_Morris,FI4
+Peter Morris,Representative,Shortland,New South Wales,Australian Labor Party,Life Gold Pass Holder,Peter_Morris_(politician),
+William Morrison,Representative,St George,New South Wales,Australian Labor Party,Life Gold Pass Holder,Bill_Morrison_(politician),
+Brendan Nelson,Representative,Bradfield,New South Wales,Liberal Party of Australia,Life Gold Pass Holder,Brendan_Nelson,RW5
+Jocelyn Newman,Senator,,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Jocelyn_Newman,BE4
+Peter Nixon,Representative,Gippsland,Victoria,The Nationals,Life Gold Pass Holder,Peter_Nixon,
+Warwick Parer,Senator,,Queensland,Liberal Party of Australia,Life Gold Pass Holder,Warwick_Parer,KI4
+Kay Patterson,Senator,,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Kay_Patterson,LI4
+Rex Patterson,Representative,Dawson,Queensland,Australian Labor Party,Life Gold Pass Holder,Rex_Patterson,
+Andrew Peacock,Representative,Kooyong,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Andrew_Peacock,
+Geoffrey Prosser,Representative,Forrest,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Geoff_Prosser,RI4
+Peter Rae,Senator,,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Peter_Rae,
+Ian Robinson,Representative,Page,New South Wales,The Nationals,Life Gold Pass Holder,Ian_Robinson_(Australian_politician),
+Allan Rocher,Representative,Curtin,Western Australia,Independent,Life Gold Pass Holder,Allan_Rocher,
+Susan Ryan,Senator,,Australian Capital Territory,Australian Labor Party,Life Gold Pass Holder,Susan_Ryan,
+Gordon Scholes,Representative,Corio,Victoria,Australian Labor Party,Life Gold Pass Holder,Gordon_Scholes,
+Anthony Street,Representative,Corangamite,Victoria,Liberal Party of Australia,Life Gold Pass Holder,Tony_Street,
+Kathryn Sullivan,Representative,Moncrieff,Queensland,Liberal Party of Australia,Life Gold Pass Holder,Kathy_Sullivan_(Australian_politician),3.00E+04
+Andrew Theophanous,Representative,Calwell,Victoria,Independent,Life Gold Pass Holder,Andrew_Theophanous,QJ4
+Robert Tickner,Representative,Hughes,New South Wales,Australian Labor Party,Life Gold Pass Holder,Robert_Tickner,
+Tom Uren,Representative,Reid,New South Wales,Australian Labor Party,Life Gold Pass Holder,Tom_Uren,
+Shirley Walters,Senator,,Tasmania,Liberal Party of Australia,Life Gold Pass Holder,Shirley_Walters,
+James Webster,Senator,,Victoria,The Nationals,Life Gold Pass Holder,James_Webster_(Australian_politician),
+Ian Wilson,Representative,Sturt,South Australia,Liberal Party of Australia,Life Gold Pass Holder,Ian_Wilson_(politician),
+Reginald Withers,Senator,,Western Australia,Liberal Party of Australia,Life Gold Pass Holder,Reg_Withers,
+Kenneth Wriedt,Senator,,Tasmania,Australian Labor Party,Life Gold Pass Holder,Ken_Wriedt,
+Lyn Allison,Senator,,Victoria,Australian Democrats,Severance and Post-Retirement Traveller,Lyn_Allison,1M6
+Phil Barresi,Representative,Deakin,Victoria,Liberal Party of Australia,Severance Traveller,Phil_Barresi,ZJ6
+Kerry Bartlett,Representative,Macquarie,New South Wales,Liberal Party of Australia,Severance Traveller,Kerry_Bartlett,0K6
+George Campbell,Senator,,New South Wales,Australian Labor Party,Severance and Post-Retirement Traveller,George_Campbell_(Australian_politician),NB5
+Ian Causley,Representative,Page,New South Wales,The Nationals,Severance Traveller,Ian_Causley,4K6
+Jackie Clark,,,,,Severance Traveller,,
+Trish Draper,Representative,Makin,South Australia,Liberal Party of Australia,Severance Traveller,Trish_Draper,0L6
+Kay Elson,Representative,Forde,Queensland,Liberal Party of Australia,Severance Traveller,Kay_Elson,6K6
+Michael Hatton,Representative,Blaxland,New South Wales,Australian Labor Party,Severance Traveller,Michael_Hatton,LN6
+De-Anne Kelly,Representative,Dawson,Queensland,The Nationals,Severance Traveller,De-Anne_Kelly,FK6
+Linda Kirk,Senator,,South Australia,Australian Labor Party,Severance Traveller,Linda_Kirk,00AOO
+Carmen Lawrence,Representative,Fremantle,Western Australia,Australian Labor Party,Severance Traveller,Carmen_Lawrence,XS4
+Ross Lightfoot,Senator,,Western Australia,Liberal Party of Australia,Severance and Post-Retirement Traveller,Ross_Lightfoot,WP6
+Jim Lloyd,Representative,Robertson,New South Wales,Liberal Party of Australia,Severance Traveller,Jim_Lloyd,IK6
+Sandy Macdonald,Senator,,New South Wales,The Nationals,Severance and Post-Retirement Traveller,Sandy_Macdonald,CX5
+Andrew Murray,Senator,,Western Australia,Australian Democrats,Severance and Post-Retirement Traveller,Andrew_Murray_(Australian_politician),3M6
+Gary Nairn,Representative,Eden-Monaro,New South Wales,Liberal Party of Australia,Severance Traveller,Gary_Nairn,OK6
+Gavan O'Connor,Representative,Corio,Victoria,Australian Labor Party,Severance Traveller,Gavan_O'Connor,WU5
+Harry Quick,Representative,Franklin,Tasmania,Independent,Severance Traveller,Harry_Quick,AV5
+Bob Sercombe,Representative,Maribyrnong,Victoria,Australian Labor Party,Severance Traveller,Bob_Sercombe,QK6
+Natasha Stott Despoja,Senator,,South Australia,Australian Democrats,Severance Traveller,Natasha_Stott_Despoja,3I6
+Barry Wakelin,Representative,Grey,South Australia,Liberal Party of Australia,Severance Traveller,Barry_Wakelin,HV5
+Ruth Webber,Senator,,Western Australia,Australian Labor Party,Severance Traveller,Ruth_Webber,00AOT
+Jean Page,,,,,Surviving Spouse or De Facto Partner of Former Prime Minister,,
+Elizabeth Armitage,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Jill Barnard,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Mary Crean,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Mary Downer,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Isabel Durack,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Patricia Falkinder,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Patricia Fitzgerald,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Elizabeth Osborne,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Eileen Roberton,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Margaret Healy,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Miriam Hunt,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Judy Holding,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Claire Bowen,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Elaine Edwards,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Sandra Colhoun,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Martha Morrison,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Dorothy Archer,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Dawn Gietzelt,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Marian Harradine,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
+Kathleen Parer,,,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,

@@ -1,23 +1,36 @@
 <html>
 <head>
-	<title>Paul Keating | Expenses</title>
+	<meta charset="utf-8"/>
+	<title>Paul Keating | Expenses for Jul - Dec 2014</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Paul Keating</h1>
-	<p>Representative for Blaxland, New South Wales</p>
-	<p>Australian Labor Party</p>
-	<p>Retired: Former Prime Minister</p>
-	<img src="../../mugshots/paul-keating.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/paul-keating.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Paul Keating</h1>
+		<p>Representative for Blaxland, New South Wales</p>
+		<p>Australian Labor Party</p>
+		<p>Retired: Former Prime Minister</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="paul-keating-summary.html">Summary</a> |
-		<a href="http://www.openaustralia.org.au/mp/paul_keating">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/Paul_Keating">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P35_KEATING_Paul.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="paul-keating-summary.html">Summary</a> |
+			<a href="http://www.openaustralia.org.au/mp/paul_keating">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/Paul_Keating">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P35_KEATING_Paul.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
+
+	<h2>Expenses for Jul - Dec 2014</h1>
 
 	<h2><a name="domestic-scheduled-fares" href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></h2>
 	<h3><a name="fares" href="categories/fares-summary.html">Fares</a></h3>
@@ -509,8 +522,16 @@
 	</table>
 
 	<p>
-		<a href="../csv/2014-02-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2014-02-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1U2QZeEs2JzVgohr0qZrmISKaS4koZhvu">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=1XbCixpu_uR1gxWoczRGWiCf_U7QLEf0E">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</div>
 </body>
 </html>

@@ -1,25 +1,38 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Simon Crean | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Simon Crean</h1>
-	<p>Representative for Hotham, Victoria</p>
-	<p>Australian Labor Party</p>
-	<p>Retired: Life Gold Pass Holder</p>
-	<img src="../../mugshots/simon-crean.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/simon-crean.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Simon Crean</h1>
+		<p>Representative for Hotham, Victoria</p>
+		<p>Australian Labor Party</p>
+		<p>Retired: Life Gold Pass Holder</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="simon-crean-details.html">Details</a> |
-		<a href="http://www.openaustralia.org.au/mp/simon_crean">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/Simon_Crean">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DT4">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P37_CREAN_Simon.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="simon-crean-details.html">Details</a> |
+			<a href="http://www.openaustralia.org.au/mp/simon_crean">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/Simon_Crean">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DT4">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P37_CREAN_Simon.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
 
-	<table class="tablesorter">
+	<h2>Expenses for Jul - Dec 2015</h1>
+
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,10 +46,77 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$4,381.70</td>
 			<td class="amount">$1,110.36</td>
 			<td class="amount">$5,492.06</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>7 Jul 15 - Melbourne to Sydney</td>
+			<td class="amount">1,505.98</td>
+			<td></td>
+			<td>07-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>7 Jul 15 - Sydney to Darwin</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>07-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>28 Jul 15 - Melbourne to Sydney</td>
+			<td class="amount">718.57</td>
+			<td></td>
+			<td>28-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>28 Jul 15 - Sydney to Melbourne</td>
+			<td class="amount">718.57</td>
+			<td></td>
+			<td>28-Jul-2015</td>
+		</tr>
+		<tr>
+			<td>28 Oct 15 - Melbourne to Sydney</td>
+			<td class="amount">719.29</td>
+			<td></td>
+			<td>28-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>28 Oct 15 - Sydney to Melbourne</td>
+			<td class="amount">719.29</td>
+			<td></td>
+			<td>28-Oct-2015</td>
+		</tr>
+		<tr>
+			<td>24 Jun 15 - Melbourne to Canberra</td>
+			<td class="amount">555.18</td>
+			<td></td>
+			<td>24-Jun-2015</td>
+		</tr>
+		<tr>
+			<td>24 Jun 15 - Canberra to Melbourne</td>
+			<td class="amount">555.18</td>
+			<td></td>
+			<td>24-Jun-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>
@@ -47,8 +127,8 @@
 	</tbody>
 	</table>
 	<p>
-		<a href="../csv/2015-02-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2015-02-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1wgdqsOiwlbJ9EK79APnxrD37OtwyEPrh">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=1Wp74ULngpEbl1pKu0YO4WbiULg8ONtFA">Period Expenses (SQL)</a>
 	</p>
 	<script type="text/javascript">
 		$(document).ready(function()
@@ -57,5 +137,6 @@
 		    }
 		);
 	</script>
+</div>
 </body>
 </html>

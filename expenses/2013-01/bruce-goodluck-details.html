@@ -1,23 +1,36 @@
 <html>
 <head>
-	<title>Bruce Goodluck | Expenses</title>
+	<meta charset="utf-8"/>
+	<title>Bruce Goodluck | Expenses for Jan - Jun 2013</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Bruce Goodluck</h1>
-	<p>Representative for Franklin, Tasmania</p>
-	<p>Liberal Party of Australia</p>
-	<p>Retired: Life Gold Pass Holder</p>
-	<img src="../../mugshots/bruce-goodluck.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/bruce-goodluck.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Bruce Goodluck</h1>
+		<p>Representative for Franklin, Tasmania</p>
+		<p>Liberal Party of Australia</p>
+		<p>Retired: Life Gold Pass Holder</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="bruce-goodluck-summary.html">Summary</a> |
-		<a href="http://www.openaustralia.org.au/mp/bruce_goodluck">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/Bruce_Goodluck">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P32_GOODLUCK_Bruce.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="bruce-goodluck-summary.html">Summary</a> |
+			<a href="http://www.openaustralia.org.au/mp/bruce_goodluck">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/Bruce_Goodluck">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P32_GOODLUCK_Bruce.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
+
+	<h2>Expenses for Jan - Jun 2013</h1>
 
 	<h2><a name="domestic-scheduled-fares" href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></h2>
 	<h3><a name="fares" href="categories/fares-summary.html">Fares</a></h3>
@@ -32,7 +45,7 @@
 	<tbody>
 		<tr>
 			<td>8 Feb 13 - Devonport to Melbourne</td>
-			<td class="amount">$894.55**</td>
+			<td class="amount">$894.55 **</td>
 			<td></td>
 		</tr>
 		<tr>
@@ -41,7 +54,7 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td>**Adjustment to be reflected in a subsequent reporting period.</td>
+			<td>** Adjustment to be reflected in a subsequent reporting period.</td>
 			<td class="amount"></td>
 			<td></td>
 		</tr>
@@ -74,8 +87,16 @@
 	</table>
 
 	<p>
-		<a href="../csv/2013-01-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2013-01-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1RSAVjDEOvn1hbnmj185tchQjLyniQtFO">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=16xO9Q6thReY49_1Rv0yy_vl5fRkKuCB1">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</div>
 </body>
 </html>

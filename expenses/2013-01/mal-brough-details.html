@@ -1,23 +1,36 @@
 <html>
 <head>
-	<title>Mal Brough | Expenses</title>
+	<meta charset="utf-8"/>
+	<title>Mal Brough | Expenses for Jan - Jun 2013</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Mal Brough</h1>
-	<p>Representative for Longman, Queensland</p>
-	<p>Liberal Party of Australia</p>
-	<p>Retired: Life Gold Pass Holder</p>
-	<img src="../../mugshots/mal-brough.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/mal-brough.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Mal Brough</h1>
+		<p>Representative for Longman, Queensland</p>
+		<p>Liberal Party of Australia</p>
+		<p>Retired: Life Gold Pass Holder</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="mal-brough-summary.html">Summary</a> |
-		<a href="http://www.openaustralia.org.au/mp/mal_brough">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/Mal_Brough">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P32_BROUGH_Mal.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="mal-brough-summary.html">Summary</a> |
+			<a href="http://www.openaustralia.org.au/mp/mal_brough">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/Mal_Brough">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P32_BROUGH_Mal.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
+
+	<h2>Expenses for Jan - Jun 2013</h1>
 
 	<h2><a name="domestic-scheduled-fares" href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></h2>
 	<h3><a name="fares" href="categories/fares-summary.html">Fares</a></h3>
@@ -57,8 +70,16 @@
 	</table>
 
 	<p>
-		<a href="../csv/2013-01-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2013-01-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1RSAVjDEOvn1hbnmj185tchQjLyniQtFO">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=16xO9Q6thReY49_1Rv0yy_vl5fRkKuCB1">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</div>
 </body>
 </html>

@@ -1,25 +1,38 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>John Howard | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>John Howard</h1>
-	<p>Representative for Bennelong, New South Wales</p>
-	<p>Liberal Party of Australia</p>
-	<p>Retired: Former Prime Minister</p>
-	<img src="../../mugshots/john-howard.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/john-howard.jpg">
+	</div>
+	<div class="member-info">
+		<h1>John Howard</h1>
+		<p>Representative for Bennelong, New South Wales</p>
+		<p>Liberal Party of Australia</p>
+		<p>Retired: Former Prime Minister</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="john-howard-details.html">Details</a> |
-		<a href="http://www.openaustralia.org.au/mp/john_howard">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/John_Howard">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ZD4">APH Link</a> |
-		<a href="http://www.ipea.gov.au/reporting/Q01/Q01_HOWARD_John.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="john-howard-details.html">Details</a> |
+			<a href="http://www.openaustralia.org.au/mp/john_howard">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/John_Howard">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ZD4">APH Link</a> |
+			<a href="http://www.ipea.gov.au/reporting/Q01/Q01_HOWARD_John.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
 
-	<table class="tablesorter">
+	<h2>Expenses for Jan - Mar 2017</h1>
+
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -33,79 +46,896 @@
 			<th colspan="4"><a href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/fares-summary.html">Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/fares-summary.html">Fares</a>
+			</td>
 			<td class="amount">$6,126.61</td>
 			<td class="amount">-$2,684.88</td>
 			<td class="amount">$3,441.73</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>14 Feb 17 - Sydney to Canberra</td>
+			<td class="amount">628.69</td>
+			<td></td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>15 Feb 17 - Canberra to Sydney</td>
+			<td class="amount">628.69</td>
+			<td></td>
+			<td>15-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>16 Feb 17 - Sydney to Perth</td>
+			<td class="amount">2,104.93</td>
+			<td></td>
+			<td>16-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>17 Feb 17 - Perth to Sydney</td>
+			<td class="amount">2,104.93</td>
+			<td></td>
+			<td>17-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>1 Mar 17 - Canberra to Sydney</td>
+			<td class="amount">659.37</td>
+			<td></td>
+			<td>01-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>28 Mar 15 - Sydney to Adelaide</td>
+			<td class="amount">-774.42</td>
+			<td></td>
+			<td>28-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>29 Mar 15 - Adelaide to Melbourne</td>
+			<td class="amount">-662.67</td>
+			<td></td>
+			<td>29-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>30 Mar 15 - Melbourne to Sydney</td>
+			<td class="amount">-577.85</td>
+			<td></td>
+			<td>30-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>14 Nov 15 - Sydney to Maroochydore</td>
+			<td class="amount">-489.09</td>
+			<td></td>
+			<td>14-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>15 Nov 15 - Maroochydore to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>15-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>15 Jul 16 - Sydney to Wagga Wagga</td>
+			<td class="amount">-314.06</td>
+			<td></td>
+			<td>15-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>16 Jul 16 - Wagga Wagga to Sydney</td>
+			<td class="amount">-466.04</td>
+			<td></td>
+			<td>16-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>16 Nov 16 - Canberra to Sydney</td>
+			<td class="amount">599.25</td>
+			<td></td>
+			<td>16-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/car-costs-summary.html">Car Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/private-plated-vehicle-summary.html">Private-Plated Vehicle</a>
+			</td>
 			<td class="amount">$2,376.00</td>
 			<td class="amount">$3,398.63</td>
 			<td class="amount">$5,774.63</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/comcar-summary.html">COMCAR</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lease 15 Jan to 14 Feb 17</td>
+			<td class="amount">951.90</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Fuel 23 Jan to 22 Feb 17</td>
+			<td class="amount">470.84</td>
+			<td>22-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Fuel interest fee 31 Jan to 22 Feb 17</td>
+			<td class="amount">1.36</td>
+			<td>22-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Lease 15 Feb to 14 Mar 17</td>
+			<td class="amount">951.90</td>
+			<td>14-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>Fuel 7 Oct to 21 Nov 16</td>
+			<td class="amount">401.28</td>
+			<td>21-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Admin charge 31 Oct to 22 Nov 16</td>
+			<td class="amount">1.35</td>
+			<td>22-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 15 Nov to 14 Dec 16</td>
+			<td class="amount">951.90</td>
+			<td>14-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 24 Nov to 23 Dec 16</td>
+			<td class="amount">561.09</td>
+			<td>23-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Admin charge 30 Nov to 15 Dec 16</td>
+			<td class="amount">2.04</td>
+			<td>15-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Lease 15 Dec 16 to 14 Jan 17</td>
+			<td class="amount">951.90</td>
+			<td>15-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel 19 Dec 16 to 28 Jan 17</td>
+			<td class="amount">528.06</td>
+			<td>19-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Fuel interest fee 22 Dec 16 to 22 Jan 17</td>
+			<td class="amount">1.01</td>
+			<td>22-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/comcar-summary.html">COMCAR</a>
+			</td>
 			<td class="amount">$717.33</td>
 			<td class="amount">-$555.18</td>
 			<td class="amount">$162.15</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>14 Feb 17 - Canberra</td>
+			<td class="amount">41.80</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>14 Feb 17 - Canberra</td>
+			<td class="amount">78.60</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>14 Feb 17 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>14-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>15 Feb 17 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>15-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>16 Feb 17 - Perth</td>
+			<td class="amount">40.00</td>
+			<td>16-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>17 Feb 17 - Perth</td>
+			<td class="amount">396.93</td>
+			<td>17-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>1 Mar 17 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>01-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>1 Mar 17 - Canberra</td>
+			<td class="amount">40.00</td>
+			<td>01-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>28 Mar 15 - Adelaide</td>
+			<td class="amount">-80.40</td>
+			<td>28-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>28 Mar 15 - Adelaide</td>
+			<td class="amount">-78.60</td>
+			<td>28-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>28 Mar 15 - Adelaide</td>
+			<td class="amount">-78.60</td>
+			<td>28-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>29 Mar 15 - Adelaide</td>
+			<td class="amount">-78.60</td>
+			<td>29-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>29 Mar 15 - Melbourne</td>
+			<td class="amount">-115.25</td>
+			<td>29-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>29 Mar 15 - Melbourne</td>
+			<td class="amount">-78.60</td>
+			<td>29-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>30 Mar 15 - Melbourne</td>
+			<td class="amount">-45.13</td>
+			<td>30-Mar-2015</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-facilities-summary.html">Office Facilities</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-facilities-summary.html">Office Facilities</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-facilities-summary.html">Office Facilities</a>
+			</td>
 			<td class="amount">$58,432.15</td>
 			<td class="amount">$981.30</td>
 			<td class="amount">$59,413.45</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">58,432.15</td>
+			<td>01-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Aggregated Total</td>
+			<td class="amount">981.30</td>
+			<td>01-Jan-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/office-administrative-costs-summary.html">Office Administrative Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/office-consumables-and-services-summary.html">Office Consumables and Services</a>
+			</td>
 			<td class="amount">$175.74</td>
 			<td class="amount">$156.22</td>
 			<td class="amount">$331.96</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/publications-summary.html">Publications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office requisites and stationery 1 Jan to 31 Jan 17</td>
+			<td class="amount">111.90</td>
+			<td>31-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Jan to 27 Feb 17</td>
+			<td class="amount">52.73</td>
+			<td>27-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Jan to 27 Feb 17</td>
+			<td class="amount">11.11</td>
+			<td>27-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Office requisites and stationery 1 Nov to 30 Nov 16</td>
+			<td class="amount">91.99</td>
+			<td>30-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Nov to 27 Dec 16</td>
+			<td class="amount">8.95</td>
+			<td>27-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Nov to 27 Dec 16</td>
+			<td class="amount">40.57</td>
+			<td>27-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Colour copy charge 28 Dec 16 to 27 Jan 17</td>
+			<td class="amount">11.28</td>
+			<td>28-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>MFD Monochrome copy charge 28 Dec 16 to 27 Jan 17</td>
+			<td class="amount">3.43</td>
+			<td>28-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/publications-summary.html">Publications</a>
+			</td>
 			<td class="amount">$1,179.22</td>
 			<td class="amount">$521.90</td>
 			<td class="amount">$1,701.12</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/additional-printing-and-communications-summary.html">Additional Printing and Communications</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>3 The Spectator Australia 2 Jan to 29 Jan 17</td>
+			<td class="amount">29.86</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 2 Jan to 29 Jan 17</td>
+			<td class="amount">5.45</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>14 The Sydney Morning Herald 2 Jan to 29 Jan 17</td>
+			<td class="amount">33.45</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>14 The Daily Telegraph 2 Jan to 29 Jan 17</td>
+			<td class="amount">17.82</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>14 The Australian Financial Review 2 Jan to 29 Jan 17</td>
+			<td class="amount">50.91</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>14 The Australian 2 Jan to 29 Jan 17</td>
+			<td class="amount">34.36</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Economist 2 Jan to 29 Jan 17</td>
+			<td class="amount">40.00</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 2 Jan to 29 Jan 17</td>
+			<td class="amount">20.14</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>19 The Daily Telegraph 2 Jan to 29 Jan 17</td>
+			<td class="amount">25.91</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>19 The Sydney Morning Herald 2 Jan to 29 Jan 17</td>
+			<td class="amount">48.36</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>22 The Australian Financial Review 2 Jan to 29 Jan 17</td>
+			<td class="amount">80.00</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph (Sat) 2 Jan to 29 Jan 17</td>
+			<td class="amount">8.73</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Sunday Telegraph 2 Jan to 29 Jan 17</td>
+			<td class="amount">10.91</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Sun-Herald 2 Jan to 29 Jan 17</td>
+			<td class="amount">12.00</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald (Sat) 2 Jan to 29 Jan 17</td>
+			<td class="amount">13.82</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 2 Jan to 29 Jan 17</td>
+			<td class="amount">12.73</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>19 The Australian 2 Jan to 29 Jan 17</td>
+			<td class="amount">46.64</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>3 Time 2 Jan to 29 Jan 17</td>
+			<td class="amount">19.09</td>
+			<td>29-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>25 The Australian 30 Jan to 5 Mar 17</td>
+			<td class="amount">65.45</td>
+			<td>05-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>25 The Australian Financial Review 30 Jan to 5 Mar 17</td>
+			<td class="amount">90.91</td>
+			<td>05-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>25 The Daily Telegraph 30 Jan to 5 Mar 17</td>
+			<td class="amount">31.82</td>
+			<td>05-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>25 The Sydney Morning Herald 30 Jan to 5 Mar 17</td>
+			<td class="amount">60.00</td>
+			<td>05-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>5 The Spectator Australia 30 Jan to 5 Mar 17</td>
+			<td class="amount">49.77</td>
+			<td>05-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 30 Jan to 5 Mar 17</td>
+			<td class="amount">9.09</td>
+			<td>05-Mar-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Sydney Morning Herald (Sat) 30 Jan to 26 Feb 17</td>
+			<td class="amount">13.82</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Weekend Australian 30 Jan to 26 Feb 17</td>
+			<td class="amount">12.73</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Economist 30 Jan to 26 Feb 17</td>
+			<td class="amount">40.00</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 Time 30 Jan to 26 Feb 17</td>
+			<td class="amount">25.45</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 30 Jan to 26 Feb 17</td>
+			<td class="amount">21.09</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>10 The Australian 30 Jan to 26 Feb 17</td>
+			<td class="amount">24.55</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Daily Telegraph (Sat) 30 Jan to 26 Feb 17</td>
+			<td class="amount">8.73</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Sunday Telegraph 30 Jan to 26 Feb 17</td>
+			<td class="amount">10.91</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>20 The Daily Telegraph 30 Jan to 26 Feb 17</td>
+			<td class="amount">27.27</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>20 The Sydney Morning Herald 30 Jan to 26 Feb 17</td>
+			<td class="amount">50.91</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>24 The Australian Financial Review 30 Jan to 26 Feb 17</td>
+			<td class="amount">87.27</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>4 The Sun-Herald 30 Jan to 26 Feb 17</td>
+			<td class="amount">12.00</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>10 The Australian 30 Jan to 26 Feb 17</td>
+			<td class="amount">27.27</td>
+			<td>26-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>16 The Australian Financial Review 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">58.18</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">18.27</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>4 Time 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">25.45</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>4 The Sun-Herald 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">12.00</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>4 The Sunday Telegraph 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">10.91</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 The Weekend Australian 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">9.55</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 The Sydney Morning Herald (Sat) 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">10.36</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 The Economist 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">30.00</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>3 The Daily Telegraph (Sat) 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">6.55</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>17 The Sydney Morning Herald 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">43.27</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>17 The Daily Telegraph 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">23.18</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>17 The Australian 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">41.73</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>4 The Spectator Australia 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">39.82</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>19 The Sydney Morning Herald 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">45.45</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>19 The Daily Telegraph 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">24.18</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>19 The Australian Financial Review 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">69.09</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>19 The Australian 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">46.64</td>
+			<td>28-Nov-2016</td>
+		</tr>
+		<tr>
+			<td>Administrative fees 28 Nov 16 to 1 Jan 17</td>
+			<td class="amount">7.27</td>
+			<td>28-Nov-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/additional-printing-and-communications-summary.html">Additional Printing and Communications</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$531.81</td>
 			<td class="amount">$531.81</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Distribution 1 Dec to 31 Dec 16</td>
+			<td class="amount">545.45</td>
+			<td>31-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Distribution credit 1 Dec to 31 Dec 16</td>
+			<td class="amount">-13.64</td>
+			<td>31-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$546.64</td>
 			<td class="amount">$281.92</td>
 			<td class="amount">$828.56</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Office phones 12 Jan 17</td>
+			<td class="amount">194.10</td>
+			<td>12-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 12 Jan 17</td>
+			<td class="amount">79.79</td>
+			<td>12-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 12 Feb 17</td>
+			<td class="amount">185.67</td>
+			<td>12-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Office fax 12 Feb 17</td>
+			<td class="amount">87.08</td>
+			<td>12-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Office phones 9 Dec 16</td>
+			<td class="amount">187.11</td>
+			<td>09-Dec-2016</td>
+		</tr>
+		<tr>
+			<td>Office fax 9 Dec 16</td>
+			<td class="amount">94.81</td>
+			<td>09-Dec-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$243.46</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$243.46</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Residential phones 5 Jan 17</td>
+			<td class="amount">82.04</td>
+			<td>05-Jan-2017</td>
+		</tr>
+		<tr>
+			<td>Residential phones 8 Feb 17</td>
+			<td class="amount">79.59</td>
+			<td>08-Feb-2017</td>
+		</tr>
+		<tr>
+			<td>Residential phones 9 Mar 17</td>
+			<td class="amount">81.83</td>
+			<td>09-Mar-2017</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th colspan="4"><a href="categories/family-travel-costs-summary.html">Family Travel Costs</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/family-traveller-domestic-scheduled-fares-summary.html">Family Traveller Domestic Scheduled Fares</a>
+			</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">-$3,284.13</td>
 			<td class="amount">-$3,284.13</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Notes</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>28 Mar 15 - Sydney to Adelaide</td>
+			<td class="amount">-774.42</td>
+			<td></td>
+			<td>28-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>29 Mar 15 - Adelaide to Melbourne</td>
+			<td class="amount">-662.67</td>
+			<td></td>
+			<td>29-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>30 Mar 15 - Melbourne to Sydney</td>
+			<td class="amount">-577.85</td>
+			<td></td>
+			<td>30-Mar-2015</td>
+		</tr>
+		<tr>
+			<td>14 Nov 15 - Sydney to Maroochydore</td>
+			<td class="amount">-489.09</td>
+			<td></td>
+			<td>14-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>15 Nov 15 - Maroochydore to Sydney</td>
+			<td class="amount"></td>
+			<td></td>
+			<td>15-Nov-2015</td>
+		</tr>
+		<tr>
+			<td>15 Jul 16 - Sydney to Wagga Wagga</td>
+			<td class="amount">-314.06</td>
+			<td></td>
+			<td>15-Jul-2016</td>
+		</tr>
+		<tr>
+			<td>16 Jul 16 - Wagga Wagga to Sydney</td>
+			<td class="amount">-466.04</td>
+			<td></td>
+			<td>16-Jul-2016</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>
@@ -116,8 +946,8 @@
 	</tbody>
 	</table>
 	<p>
-		<a href="../csv/2017-01-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2017-01-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1rpoa_SXcktIh-_MZd4RSL3508G4dOrn8">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=1UtFm8RBWPtsV7YolssIRNLhpI7XkRnP9">Period Expenses (SQL)</a>
 	</p>
 	<script type="text/javascript">
 		$(document).ready(function()
@@ -126,5 +956,6 @@
 		    }
 		);
 	</script>
+</div>
 </body>
 </html>

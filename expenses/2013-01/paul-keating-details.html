@@ -1,25 +1,36 @@
 <html>
 <head>
-	<title>Paul Keating | Expenses</title>
+	<meta charset="utf-8"/>
+	<title>Paul Keating | Expenses for Jan - Jun 2013</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Paul Keating</h1>
-	<p>Representative for Blaxland, New South Wales</p>
-	<p>Australian Labor Party</p>
-	<p>Retired: Former Prime Minister</p>
-	<img src="../../mugshots/paul-keating.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/paul-keating.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Paul Keating</h1>
+		<p>Representative for Blaxland, New South Wales</p>
+		<p>Australian Labor Party</p>
+		<p>Retired: Former Prime Minister</p>
 
-<p>NOTE: The totals for this period do not match the totals supplied in the source PDF. This may be because of errors in the source PDF or in its conversion.</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="paul-keating-summary.html">Summary</a> |
+			<a href="http://www.openaustralia.org.au/mp/paul_keating">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/Paul_Keating">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P32_KEATING_Paul.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="paul-keating-summary.html">Summary</a> |
-		<a href="http://www.openaustralia.org.au/mp/paul_keating">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/Paul_Keating">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P32_KEATING_Paul.pdf">Source PDF</a>
-	</p>
+	<h2>Expenses for Jan - Jun 2013</h1>
 
 	<h2><a name="domestic-scheduled-fares" href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></h2>
 	<h3><a name="fares" href="categories/fares-summary.html">Fares</a></h3>
@@ -139,7 +150,7 @@
 		</tr>
 		<tr>
 			<td>24 Jan 13 - Melbourne</td>
-			<td class="amount">$40.001</td>
+			<td class="amount">$40.00 1</td>
 		</tr>
 		<tr>
 			<td>3 Feb 13 - Melbourne</td>
@@ -171,7 +182,7 @@
 		</tr>
 		<tr>
 			<td>26 Mar 13 - Melbourne</td>
-			<td class="amount">$40.001</td>
+			<td class="amount">$40.00 1</td>
 		</tr>
 		<tr>
 			<td>26 Mar 13 - Melbourne</td>
@@ -182,7 +193,7 @@
 			<td class="amount">$78.60</td>
 		</tr>
 		<tr>
-			<td>1Cancelled.</td>
+			<td>1 Cancelled.</td>
 			<td class="amount"></td>
 		</tr>
 	</tbody>
@@ -367,8 +378,16 @@
 	</table>
 
 	<p>
-		<a href="../csv/2013-01-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2013-01-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1RSAVjDEOvn1hbnmj185tchQjLyniQtFO">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=16xO9Q6thReY49_1Rv0yy_vl5fRkKuCB1">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</div>
 </body>
 </html>

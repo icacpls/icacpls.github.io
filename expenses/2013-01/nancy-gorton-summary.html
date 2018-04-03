@@ -1,24 +1,37 @@
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>Nancy Gorton | Expenses</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Nancy Gorton</h1>
-	<p></p>
-	<p>Retired: Surviving Spouse</p>
-	<img src="../../mugshots/nancy-gorton.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/nancy-gorton.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Nancy Gorton</h1>
+		<p></p>
+		<p>Retired: Surviving Spouse or De Facto Partner of Former Prime Minister</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="nancy-gorton-details.html">Details</a> |
-		<a href="http://www.openaustralia.org.au/mp/nancy_gorton">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/John_Gorton">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P32_GORTON_Nancy.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="nancy-gorton-details.html">Details</a> |
+			<a href="http://www.openaustralia.org.au/mp/nancy_gorton">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/John_Gorton">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P32_GORTON_Nancy.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
 
-	<table class="tablesorter">
+	<h2>Expenses for Jan - Jun 2013</h1>
+
+	<table>
 	<thead>
 		<tr>
 			<th>&nbsp;</th>
@@ -32,16 +45,87 @@
 			<th colspan="4"><a href="categories/telecommunications-summary.html">Telecommunications</a></th>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a></td>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---usage-summary.html">Telecommunications - Usage</a>
+			</td>
 			<td class="amount">$22.70</td>
 			<td class="amount">$4.54</td>
 			<td class="amount">$27.24</td>
 		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a></td>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Mobile phone 20 Jan 13</td>
+			<td class="amount">4.54</td>
+			<td>20-Jan-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile phone 20 Feb 13</td>
+			<td class="amount">4.54</td>
+			<td>20-Feb-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile phone 20 Mar 13</td>
+			<td class="amount">4.54</td>
+			<td>20-Mar-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile phone 20 Apr 13</td>
+			<td class="amount">4.54</td>
+			<td>20-Apr-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile phone 20 May 13</td>
+			<td class="amount">4.54</td>
+			<td>20-May-2013</td>
+		</tr>
+		<tr>
+			<td>Mobile phone 20 Dec 12</td>
+			<td class="amount">4.54</td>
+			<td>20-Dec-2012</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="toggle-link" href="#">+</a>
+				<a href="categories/telecommunications---residential---official-summary.html">Telecommunications - Residential - Official</a>
+			</td>
 			<td class="amount">$305.69</td>
 			<td class="amount">$0.00</td>
 			<td class="amount">$305.69</td>
+		</tr>
+		<tr class="details">
+			<td colspan="4">
+	<table class="tablesorter">
+	<thead>
+		<tr>
+			<th>Details</th>
+			<th class="amount">Amount</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Residential phones 9 Mar 13</td>
+			<td class="amount">305.69</td>
+			<td>09-Mar-2013</td>
+		</tr>
+	</tbody>
+	</table>
+			</td>
 		</tr>
 		<tr>
 			<th>Total Expenditure</th>
@@ -52,8 +136,8 @@
 	</tbody>
 	</table>
 	<p>
-		<a href="../csv/2013-01-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2013-01-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1RSAVjDEOvn1hbnmj185tchQjLyniQtFO">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=16xO9Q6thReY49_1Rv0yy_vl5fRkKuCB1">Period Expenses (SQL)</a>
 	</p>
 	<script type="text/javascript">
 		$(document).ready(function()
@@ -62,5 +146,6 @@
 		    }
 		);
 	</script>
+</div>
 </body>
 </html>

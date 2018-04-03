@@ -1,23 +1,36 @@
 <html>
 <head>
-	<title>Grant Chapman | Expenses</title>
+	<meta charset="utf-8"/>
+	<title>Grant Chapman | Expenses for Jan - Jun 2014</title>
 	<link rel="stylesheet" href="../../styles.css">
+	<script type="text/javascript" src="../../tablesorter/jquery.latest.js"></script>
+	<script type="text/javascript" src="../../tablesorter/jquery.tablesorter.js"></script>
+	<script type="text/javascript" src="../../scripts.js"></script>
 </head>
 <body>
-	<h1>Grant Chapman</h1>
-	<p>Senator for South Australia</p>
-	<p>Liberal Party of Australia</p>
-	<p>Retired: Life Gold Pass Holder</p>
-	<img src="../../mugshots/grant-chapman.jpg">
+<div class="member-container">
+<div class="member-header">
+	<div class="member-image">
+		<img src="../../mugshots/grant-chapman.jpg">
+	</div>
+	<div class="member-info">
+		<h1>Grant Chapman</h1>
+		<p>Senator for South Australia</p>
+		<p>Liberal Party of Australia</p>
+		<p>Retired: Life Gold Pass Holder</p>
 
-	<p>
-		<a href="../../index.html">Home</a> |
-		<a href="grant-chapman-summary.html">Summary</a> |
-		<a href="http://www.openaustralia.org.au/mp/grant_chapman">OpenAustralia Link</a> |
-		<a href="https://en.wikipedia.org/wiki/Grant_Chapman">Wiki Link</a> |
-		<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=FF4">APH Link</a> |
-		<a href="http://www.finance.gov.au/sites/default/files/P34_CHAPMAN_Grant.pdf">Source PDF</a>
-	</p>
+		<p>
+			<a href="../../index.html">Home</a> |
+			<a href="grant-chapman-summary.html">Summary</a> |
+			<a href="http://www.openaustralia.org.au/mp/grant_chapman">OpenAustralia Link</a> |
+			<a href="https://en.wikipedia.org/wiki/Grant_Chapman">Wiki Link</a> |
+			<a href="http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=FF4">APH Link</a> |
+			<a href="http://www.finance.gov.au/sites/default/files/P34_CHAPMAN_Grant.pdf">Source PDF</a>
+		</p>
+	</div>
+</div>
+
+	<h2>Expenses for Jan - Jun 2014</h1>
 
 	<h2><a name="domestic-scheduled-fares" href="categories/domestic-scheduled-fares-summary.html">Domestic Scheduled Fares</a></h2>
 	<h3><a name="fares" href="categories/fares-summary.html">Fares</a></h3>
@@ -84,8 +97,16 @@
 	</table>
 
 	<p>
-		<a href="../csv/2014-01-expenses-csv.zip">Period Expenses (CSV)</a> |
-		<a href="../sql/2014-01-expenses-sql.zip">Period Expenses (SQL)</a>
+		<a href="https://drive.google.com/open?id=1HLI58Hytao8Z5XEFUgHdSxtCiyzEG3E9">Period Expenses (CSV)</a> |
+		<a href="https://drive.google.com/open?id=1FmGibhZto6sSdui-p1DSAjpI7HgNOMId">Period Expenses (SQL)</a>
 	</p>
+	<script type="text/javascript">
+		$(document).ready(function()
+		    {
+		        $("table").tablesorter();
+		    }
+		);
+	</script>
+</div>
 </body>
 </html>

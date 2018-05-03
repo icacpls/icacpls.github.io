@@ -51,7 +51,7 @@ th.amount {
 
 .member-container {
 	margin: 0 auto;
-	max-width: 960px;
+	max-width: 840px;
 }
 
 .member-header {
@@ -70,6 +70,35 @@ th.amount {
 .category-container {
 	margin: 0 auto;
 	max-width: 1240px;
+}
+
+.category-summary {
+	border: 1px solid #e1e2e3;
+	font-weight: bold;
+	padding: 5px;
+	margin: -1px 0 0 -1px;	
+}
+
+.subcategory-summary {
+	border: 1px solid #e1e2e3;
+	padding: 5px;	
+	margin: -1px 0 0 -1px;	
+}
+
+.total-amount {
+	float: right;
+}
+
+.details  {
+	background-color: #fafafa;
+	border: 1px solid #e1e2e3;
+	padding: 10px;	
+	margin: -1px 0 0 -1px;	
+}
+
+.details th,
+.details td {
+	background-color: white;
 }
 
 /* tablesorter */

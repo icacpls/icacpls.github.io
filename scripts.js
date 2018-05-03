@@ -15,11 +15,21 @@ $(document).ready(function() {
 	$(".tablesorter").tablesorter({
 		headers: headers
 	});
-	$("tr.details").hide();
+	$("div.details").hide();
 	$("a.toggle-link").click( function() {
-		var next = $(this).closest("tr").next("tr.details");
+		var next = $(this).closest("div").next("div.details");
 		next.toggle();
 		$(this).text(next.is(":visible") ? "-" : "+");
+		return false;
+	});
+	$("a.expand-all-link").click( function() {
+		$("div.details").show();
+		$("a.toggle-link").text("-");
+		return false;
+	});
+	$("a.collapse-all-link").click( function() {
+		$("div.details").hide();
+		$("a.toggle-link").text("+");
 		return false;
 	});
 }); 

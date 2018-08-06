@@ -10,10 +10,11 @@ $(document).ready(function() {
 	});
 	var headers = {};
 	$(".tablesorter").find("th.amount").each(function() {
-		headers[$(this).index()] = { sorter: "monetaryValue" };
+		headers[$(this).index()] = { sorter: "monetaryValue", sortInitialOrder: "desc" };
 	});
 	$(".tablesorter").tablesorter({
-		headers: headers
+		headers: headers,
+		dateFormat: "ddmmyyyy"
 	});
 	$("div.details").hide();
 	$("a.toggle-link").click( function() {

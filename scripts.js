@@ -14,7 +14,13 @@ $(document).ready(function() {
 	});
 	$(".tablesorter").tablesorter({
 		headers: headers,
-		dateFormat: "ddmmyyyy"
+		dateFormat: "ddmmyyyy",
+		widgets: ["filter"],
+		widgetOptions : {
+			filter_ignoreCase: true,
+			filter_placeholder : { search : 'Filter', select : 'Filter' },
+			filter_matchType : { 'input': 'match', 'select': 'exact' }
+		}
 	});
 	$("div.details").hide();
 	$("a.toggle-link").click( function() {

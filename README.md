@@ -1,4 +1,4 @@
-# Australian Politicians - Expenses, Interests and Salaries
+# Australian Politicians - Interests, Expenses and Salaries
 
 ## [View the website](https://icacpls.github.io/index.html)
 

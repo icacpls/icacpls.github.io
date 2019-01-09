@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Australian Politicians - Property Locations</title>
+	<meta name="description" content="A map of the properties owned by Australian federal politicians." />
+	<!-- Open Graph -->
+	<meta property="og:title" content="Australian Politicians - Property Locations" />
+	<meta property="og:description" content="A map of the properties owned by Australian federal politicians." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://icacpls.github.io/property-map.html" />
+	<meta property="og:image" content="https://icacpls.github.io/australian-government.png" />
+	<!-- D3 -->
+	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="https://d3js.org/topojson.v1.min.js"></script>
+	<!-- Site -->
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<h1>Australian Politicians - Property Locations</h1>
+	<p>Interest data is sourced from the <a href="../https://www.aph.gov.au/Senators_and_Members/Members/Register">Register of Members' Interests</a> and the <a href="../https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/CurrentRegister">Register of Senators' Interests</a>.
+	<p><a href="index.html">Home</a>
+	<div class="map-container">
+		<div class="map-information"></div>
+	</div>
+	<p><a href="https://drive.google.com/open?id=1XvZ_5ucb-qVHmVFneWBSVEq9wSuSbZYQ">All Interests (CSV)</a> | <a href="https://drive.google.com/open?id=1aTIkceWHJxbH9CpoPITRlQHDACyqLl-j">All Interests (SQL)</a></p>
+	<script src="map/locations.js"></script>
+	<script src="map/map.js"></script>
+</body>
+</html>

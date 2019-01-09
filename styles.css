@@ -126,3 +126,29 @@ table.tablesorter thead tr .headerSortDown {
 }
 table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
 }
+
+/* map */
+.map-container {
+	position: relative;
+}
+.map-background {
+	fill: #4fa4db;
+	pointer-events: all;
+}
+.map-unit {
+	fill: white;
+	stroke: gray;
+	stroke-width: 1px;
+}
+.map-information {
+	background-color: white;
+	border-radius: 2px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	padding: 0 6px;
+}
+.map-location {
+	fill: red;
+	stroke: gray;
+}

@@ -16,14 +16,37 @@
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<div class="member-container">
 	<h1>Australian Politicians - Property Locations</h1>
 	<p>Interest data is sourced from the <a href="../https://www.aph.gov.au/Senators_and_Members/Members/Register">Register of Members' Interests</a> and the <a href="../https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/CurrentRegister">Register of Senators' Interests</a>.
-	<p><a href="index.html">Home</a>
-	<div class="map-container">
-		<div class="map-information"></div>
+	<p><a href="index.html">Home</a> | <a href="interests/categories/real-estate.html">Property List</a></p>
+	<h2>Current Members</h2>
+	<p>
+		<label><input type="radio" name="party" value="" title="All"/>ALL</label>
+		<label><input type="radio" name="party" value="liberal party of australia" title="Liberal Party of Australia"/>LIB</label>
+		<label><input type="radio" name="party" value="australian labor party" title="Australian Labor Party"/>LAB</label>
+		<label><input type="radio" name="party" value="the nationals" title="The Nationals"/>NAT</label>
+		<label><input type="radio" name="party" value="australian greens" title="Australian Greens"/>GRN</label>
+		<label><input type="radio" name="party" value="independent" title="Independent"/>IND</label>
+		<label><input type="radio" name="party" value="centre alliance" title="Centre Alliance"/>CA</label>
+		<label><input type="radio" name="party" value="australian conservatives" title="Australian Conservatives"/>AC</label>
+		<label><input type="radio" name="party" value="country liberal party" title="Country Liberal Party"/>CLP</label>
+		<label><input type="radio" name="party" value="derryn hinch's justice party" title="Derryn Hinch's Justice Party"/>DHJP</label>
+		<label><input type="radio" name="party" value="katter's australian party" title="Katter's Australian Party"/>KAT</label>
+		<label><input type="radio" name="party" value="liberal democratic party" title="Liberal Democratic Party"/>LDP</label>
+		<label><input type="radio" name="party" value="pauline hanson's one nation" title="Pauline Hanson's One Nation"/>PHON</label>
+		<label><input type="radio" name="party" value="united australia party" title="United Australia Party"/>UAP</label>
+	</p>
+	<p>
+		<label>Member name: <input type="text" name="member"/></label>
+	</p>
+	<p id="member-information"></p>
+	<div id="map-container">
+		<div id="map-information"></div>
 	</div>
 	<p><a href="https://drive.google.com/open?id=1XvZ_5ucb-qVHmVFneWBSVEq9wSuSbZYQ">All Interests (CSV)</a> | <a href="https://drive.google.com/open?id=1aTIkceWHJxbH9CpoPITRlQHDACyqLl-j">All Interests (SQL)</a></p>
-	<script src="map/locations.js"></script>
+	<script src="map/properties.js"></script>
 	<script src="map/map.js"></script>
+</div>
 </body>
 </html>

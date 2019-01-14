@@ -144,14 +144,6 @@ var properties = [
 		longitude: '144.9975371'
 	},
 	{
-		member: 'Andrew Giles',
-		party: 'Australian Labor Party',
-		location: 'Clifton Hill',
-		state: 'VIC',
-		latitude: '-37.7904385',
-		longitude: '144.9975371'
-	},
-	{
 		member: 'Andrew Hastie',
 		party: 'Liberal Party of Australia',
 		location: 'Mandurah',
@@ -226,14 +218,6 @@ var properties = [
 	{
 		member: 'Andrew Wallace',
 		party: 'Liberal Party of Australia',
-		location: 'Alexandra Headland',
-		state: 'QLD',
-		latitude: '-26.6669432',
-		longitude: '153.1028931'
-	},
-	{
-		member: 'Andrew Wallace',
-		party: 'Liberal Party of Australia',
 		location: 'Kelowna',
 		state: 'British Columbia',
 		latitude: '49.889326',
@@ -250,26 +234,10 @@ var properties = [
 	{
 		member: 'Andrew Wilkie',
 		party: 'Independent',
-		location: 'Neika',
-		state: 'TAS',
-		latitude: '-42.9500132',
-		longitude: '147.2331834'
-	},
-	{
-		member: 'Andrew Wilkie',
-		party: 'Independent',
 		location: 'South Hobart',
 		state: 'TAS',
 		latitude: '-42.8960515',
 		longitude: '147.3092219'
-	},
-	{
-		member: 'Angus Taylor',
-		party: 'Liberal Party of Australia',
-		location: 'Goulburn',
-		state: 'NSW',
-		latitude: '-34.7523871',
-		longitude: '149.7198009'
 	},
 	{
 		member: 'Angus Taylor',
@@ -424,14 +392,6 @@ var properties = [
 		longitude: '153.048943'
 	},
 	{
-		member: 'Anthony Chisholm',
-		party: 'Australian Labor Party',
-		location: 'Wavell Heights',
-		state: 'QLD',
-		latitude: '-27.3958794',
-		longitude: '153.048943'
-	},
-	{
 		member: 'Barnaby Joyce',
 		party: 'The Nationals',
 		location: 'Loomberah',
@@ -486,14 +446,6 @@ var properties = [
 		state: 'QLD',
 		latitude: '-28.5471732',
 		longitude: '150.3073801'
-	},
-	{
-		member: 'Barry O\'Sullivan',
-		party: 'The Nationals',
-		location: 'Silver Ridge',
-		state: 'QLD',
-		latitude: '-27.605278',
-		longitude: '152.0208282'
 	},
 	{
 		member: 'Barry O\'Sullivan',
@@ -712,14 +664,6 @@ var properties = [
 		longitude: '151.953351'
 	},
 	{
-		member: 'Barry O\'Sullivan',
-		party: 'The Nationals',
-		location: 'Toowoomba',
-		state: 'QLD',
-		latitude: '-27.5610193',
-		longitude: '151.953351'
-	},
-	{
 		member: 'Ben Morton',
 		party: 'Liberal Party of Australia',
 		location: 'Applecross',
@@ -734,14 +678,6 @@ var properties = [
 		state: 'ACT',
 		latitude: '-35.3253499',
 		longitude: '149.1371297'
-	},
-	{
-		member: 'Ben Morton',
-		party: 'Liberal Party of Australia',
-		location: 'Scullion',
-		state: 'ACT',
-		latitude: '0',
-		longitude: '0'
 	},
 	{
 		member: 'Ben Morton',
@@ -782,14 +718,6 @@ var properties = [
 		state: 'VIC',
 		latitude: '-37.7113545',
 		longitude: '144.8250696'
-	},
-	{
-		member: 'Brendan O\'Connor',
-		party: 'Australian Labor Party',
-		location: 'Kingston',
-		state: 'ACT',
-		latitude: '-35.3152303',
-		longitude: '149.1465925'
 	},
 	{
 		member: 'Brendan O\'Connor',
@@ -1122,14 +1050,6 @@ var properties = [
 	{
 		member: 'Craig Laundy',
 		party: 'Liberal Party of Australia',
-		location: 'Abbotsford',
-		state: 'NSW',
-		latitude: '-33.8505529',
-		longitude: '151.129759'
-	},
-	{
-		member: 'Craig Laundy',
-		party: 'Liberal Party of Australia',
 		location: 'Gundagai',
 		state: 'NSW',
 		latitude: '-34.80940095',
@@ -1158,14 +1078,6 @@ var properties = [
 		state: 'VIC',
 		latitude: '-37.8142176',
 		longitude: '144.9631608'
-	},
-	{
-		member: 'Damian Drum',
-		party: 'The Nationals',
-		location: 'Quarry Hill',
-		state: 'Bendigo',
-		latitude: '-36.777466',
-		longitude: '144.2804166'
 	},
 	{
 		member: 'Damian Drum',
@@ -1230,14 +1142,6 @@ var properties = [
 		state: 'VIC',
 		latitude: '-37.8033586',
 		longitude: '145.0333285'
-	},
-	{
-		member: 'Dan Tehan',
-		party: 'Liberal Party of Australia',
-		location: 'Hamilton',
-		state: 'VIC',
-		latitude: '-37.7421872',
-		longitude: '142.021706758093'
 	},
 	{
 		member: 'Dan Tehan',
@@ -1342,14 +1246,6 @@ var properties = [
 		state: 'VIC',
 		latitude: '-37.812498',
 		longitude: '144.9858851'
-	},
-	{
-		member: 'David Feeney',
-		party: 'Australian Labor Party',
-		location: 'Seddon',
-		state: 'VIC',
-		latitude: '-37.8067725',
-		longitude: '144.8915967'
 	},
 	{
 		member: 'David Feeney',
@@ -1704,14 +1600,6 @@ var properties = [
 		longitude: '150.8521783'
 	},
 	{
-		member: 'Ed Husic',
-		party: 'Australian Labor Party',
-		location: 'Blacktown',
-		state: 'NSW',
-		latitude: '-33.7401885',
-		longitude: '150.864835532895'
-	},
-	{
 		member: 'Emma McBride',
 		party: 'Australian Labor Party',
 		location: 'The Entrance',
@@ -1882,14 +1770,6 @@ var properties = [
 	{
 		member: 'Ian Goodenough',
 		party: 'Liberal Party of Australia',
-		location: 'Leederville',
-		state: 'WA',
-		latitude: '-31.9390124',
-		longitude: '115.8403245'
-	},
-	{
-		member: 'Ian Goodenough',
-		party: 'Liberal Party of Australia',
 		location: 'Yarralumla',
 		state: 'ACT',
 		latitude: '-35.3040411',
@@ -1898,34 +1778,10 @@ var properties = [
 	{
 		member: 'Ian Goodenough',
 		party: 'Liberal Party of Australia',
-		location: 'Leederville',
-		state: 'WA',
-		latitude: '-31.9390124',
-		longitude: '115.8403245'
-	},
-	{
-		member: 'Ian Goodenough',
-		party: 'Liberal Party of Australia',
 		location: 'Belmont',
 		state: 'WA',
 		latitude: '-31.9545783',
 		longitude: '115.942628890964'
-	},
-	{
-		member: 'Ian Goodenough',
-		party: 'Liberal Party of Australia',
-		location: 'Belmont',
-		state: 'WA',
-		latitude: '-31.9545783',
-		longitude: '115.942628890964'
-	},
-	{
-		member: 'Ian Goodenough',
-		party: 'Liberal Party of Australia',
-		location: 'Currambine',
-		state: 'WA',
-		latitude: '-31.7354623',
-		longitude: '115.7456718'
 	},
 	{
 		member: 'Ian Goodenough',
@@ -1942,14 +1798,6 @@ var properties = [
 		state: 'WA',
 		latitude: '-33.7966845',
 		longitude: '115.0479865'
-	},
-	{
-		member: 'Ian Goodenough',
-		party: 'Liberal Party of Australia',
-		location: 'Granville',
-		state: 'WA',
-		latitude: '40.0678511',
-		longitude: '-79.9083814'
 	},
 	{
 		member: 'Ian Macdonald',
@@ -2106,18 +1954,18 @@ var properties = [
 	{
 		member: 'Jenny Macklin',
 		party: 'Australian Labor Party',
-		location: 'Ivanhoe',
-		state: 'VIC',
-		latitude: '-37.74993',
-		longitude: '145.063827846821'
-	},
-	{
-		member: 'Jenny Macklin',
-		party: 'Australian Labor Party',
 		location: 'Aireys Inlet',
 		state: 'VIC',
 		latitude: '-38.4620894',
 		longitude: '144.1067555'
+	},
+	{
+		member: 'Jenny Macklin',
+		party: 'Australian Labor Party',
+		location: 'East Ivanhoe',
+		state: 'VIC',
+		latitude: '-37.7690312',
+		longitude: '145.0430809'
 	},
 	{
 		member: 'Jenny McAllister',
@@ -2202,14 +2050,6 @@ var properties = [
 	{
 		member: 'John Alexander',
 		party: 'Liberal Party of Australia',
-		location: 'Putney',
-		state: 'NSW',
-		latitude: '-33.826067',
-		longitude: '151.1064224'
-	},
-	{
-		member: 'John Alexander',
-		party: 'Liberal Party of Australia',
 		location: 'Southern Highlands',
 		state: 'NSW',
 		latitude: '-6.176434',
@@ -2254,14 +2094,6 @@ var properties = [
 		state: 'Inverell',
 		latitude: '-29.7127',
 		longitude: '151.004'
-	},
-	{
-		member: 'John Williams',
-		party: 'The Nationals',
-		location: 'Newcastle',
-		state: 'NSW',
-		latitude: '-32.9272881',
-		longitude: '151.7812534'
 	},
 	{
 		member: 'Jonathon Duniam',
@@ -2466,14 +2298,6 @@ var properties = [
 	{
 		member: 'Justine Elliot',
 		party: 'Australian Labor Party',
-		location: 'Nunderi',
-		state: 'NSW',
-		latitude: '-28.3226712',
-		longitude: '153.4633068'
-	},
-	{
-		member: 'Justine Elliot',
-		party: 'Australian Labor Party',
 		location: 'Murwillumbah',
 		state: 'NSW',
 		latitude: '-28.3267617',
@@ -2658,22 +2482,6 @@ var properties = [
 	{
 		member: 'Kelly O\'Dwyer',
 		party: 'Liberal Party of Australia',
-		location: 'South Yarra',
-		state: 'VIC',
-		latitude: '-37.8377695',
-		longitude: '144.9918537'
-	},
-	{
-		member: 'Kelly O\'Dwyer',
-		party: 'Liberal Party of Australia',
-		location: 'Cranbourne',
-		state: 'VIC',
-		latitude: '-38.09983825',
-		longitude: '145.282937771062'
-	},
-	{
-		member: 'Kelly O\'Dwyer',
-		party: 'Liberal Party of Australia',
 		location: 'Higgins',
 		state: 'VIC',
 		latitude: '-37.96965035',
@@ -2698,26 +2506,10 @@ var properties = [
 	{
 		member: 'Ken Wyatt',
 		party: 'Liberal Party of Australia',
-		location: 'South Perth',
-		state: 'WA',
-		latitude: '-31.9781791',
-		longitude: '115.8668993'
-	},
-	{
-		member: 'Ken Wyatt',
-		party: 'Liberal Party of Australia',
 		location: 'Kingston',
 		state: 'ACT',
 		latitude: '-35.3152303',
 		longitude: '149.1465925'
-	},
-	{
-		member: 'Ken Wyatt',
-		party: 'Liberal Party of Australia',
-		location: 'South Perth',
-		state: 'WA',
-		latitude: '-31.9781791',
-		longitude: '115.8668993'
 	},
 	{
 		member: 'Ken Wyatt',
@@ -3306,14 +3098,6 @@ var properties = [
 	{
 		member: 'Mark Butler',
 		party: 'Australian Labor Party',
-		location: 'Kingston',
-		state: 'ACT',
-		latitude: '-35.3152303',
-		longitude: '149.1465925'
-	},
-	{
-		member: 'Mark Butler',
-		party: 'Australian Labor Party',
 		location: 'Grange',
 		state: 'SA',
 		latitude: '-34.8991361',
@@ -3422,14 +3206,6 @@ var properties = [
 		state: 'NSW',
 		latitude: '-33.9639325',
 		longitude: '151.2334198'
-	},
-	{
-		member: 'Matthew Canavan',
-		party: 'The Nationals',
-		location: 'Macquarie',
-		state: 'ACT',
-		latitude: '-35.2511133',
-		longitude: '149.0633056'
 	},
 	{
 		member: 'Matthew Canavan',
@@ -3666,14 +3442,6 @@ var properties = [
 	{
 		member: 'Michelle Rowland',
 		party: 'Australian Labor Party',
-		location: 'Kingston',
-		state: 'ACT',
-		latitude: '-35.3152303',
-		longitude: '149.1465925'
-	},
-	{
-		member: 'Michelle Rowland',
-		party: 'Australian Labor Party',
 		location: 'Kenthurst',
 		state: 'NSW',
 		latitude: '-33.6436678',
@@ -3802,26 +3570,10 @@ var properties = [
 	{
 		member: 'Nick Champion',
 		party: 'Australian Labor Party',
-		location: 'Barossa Valley',
-		state: 'SA',
-		latitude: '-34.61341495',
-		longitude: '138.938545516936'
-	},
-	{
-		member: 'Nick Champion',
-		party: 'Australian Labor Party',
 		location: 'North Adelaide',
 		state: 'SA',
 		latitude: '-34.9085015',
 		longitude: '138.5953502'
-	},
-	{
-		member: 'Nick McKim',
-		party: 'Australian Greens',
-		location: 'Tinderbox',
-		state: 'TAS',
-		latitude: '-43.0575303',
-		longitude: '147.3310661'
 	},
 	{
 		member: 'Nick McKim',
@@ -3982,14 +3734,6 @@ var properties = [
 		state: 'QLD',
 		latitude: '-27.8025158',
 		longitude: '152.5754801'
-	},
-	{
-		member: 'Pauline Hanson',
-		party: 'Pauline Hanson\'s One Nation',
-		location: 'Labrador',
-		state: 'QLD',
-		latitude: '-27.9427642',
-		longitude: '153.3987125'
 	},
 	{
 		member: 'Penny Wong',
@@ -4242,14 +3986,6 @@ var properties = [
 	{
 		member: 'Rick Wilson',
 		party: 'Liberal Party of Australia',
-		location: 'Katanning',
-		state: 'WA',
-		latitude: '-33.6908682',
-		longitude: '117.5551858'
-	},
-	{
-		member: 'Rick Wilson',
-		party: 'Liberal Party of Australia',
 		location: 'Canberra',
 		state: 'ACT',
 		latitude: '-35.2975906',
@@ -4354,14 +4090,6 @@ var properties = [
 	{
 		member: 'Russell Broadbent',
 		party: 'Liberal Party of Australia',
-		location: 'Warragul',
-		state: 'VIC',
-		latitude: '-38.1588674',
-		longitude: '145.933629'
-	},
-	{
-		member: 'Russell Broadbent',
-		party: 'Liberal Party of Australia',
 		location: 'Pakenham',
 		state: 'VIC',
 		latitude: '-38.06823555',
@@ -4418,14 +4146,6 @@ var properties = [
 	{
 		member: 'Scott Buchholz',
 		party: 'Liberal Party of Australia',
-		location: 'Boonah',
-		state: 'QLD',
-		latitude: '-27.9968966',
-		longitude: '152.6819604'
-	},
-	{
-		member: 'Scott Buchholz',
-		party: 'Liberal Party of Australia',
 		location: 'Barton',
 		state: 'ACT',
 		latitude: '-35.3072631',
@@ -4462,14 +4182,6 @@ var properties = [
 		state: 'NSW',
 		latitude: '-34.4327778',
 		longitude: '150.8705556'
-	},
-	{
-		member: 'Sharon Bird',
-		party: 'Australian Labor Party',
-		location: 'Kanahooka',
-		state: 'NSW',
-		latitude: '-34.4976604',
-		longitude: '150.8227905'
 	},
 	{
 		member: 'Sharon Claydon',
@@ -4518,14 +4230,6 @@ var properties = [
 		state: 'QLD',
 		latitude: '-27.6497462',
 		longitude: '152.7828757'
-	},
-	{
-		member: 'Simon Birmingham',
-		party: 'Liberal Party of Australia',
-		location: 'Fullarton',
-		state: 'SA',
-		latitude: '-34.9540475',
-		longitude: '138.6263553'
 	},
 	{
 		member: 'Simon Birmingham',
@@ -4654,22 +4358,6 @@ var properties = [
 		state: 'SA',
 		latitude: '-34.9281805',
 		longitude: '138.5999312'
-	},
-	{
-		member: 'Stirling Griff',
-		party: 'Centre Alliance',
-		location: 'Glenside',
-		state: 'SA',
-		latitude: '-34.9427375',
-		longitude: '138.6337521'
-	},
-	{
-		member: 'Stirling Griff',
-		party: 'Centre Alliance',
-		location: 'Glenelg',
-		state: 'SA',
-		latitude: '-34.9803673',
-		longitude: '138.5143342'
 	},
 	{
 		member: 'Stuart Robert',
@@ -4818,14 +4506,6 @@ var properties = [
 	{
 		member: 'Sussan Ley',
 		party: 'Liberal Party of Australia',
-		location: 'Southport',
-		state: 'QLD',
-		latitude: '-27.9687807',
-		longitude: '153.4066696'
-	},
-	{
-		member: 'Sussan Ley',
-		party: 'Liberal Party of Australia',
 		location: 'Albury',
 		state: 'NSW',
 		latitude: '-36.0148062',
@@ -4896,14 +4576,6 @@ var properties = [
 		longitude: '153.0731165'
 	},
 	{
-		member: 'Terri Butler',
-		party: 'Australian Labor Party',
-		location: 'Morningside',
-		state: 'QLD',
-		latitude: '-27.4684656',
-		longitude: '153.0731165'
-	},
-	{
 		member: 'Tim Hammond',
 		party: 'Australian Labor Party',
 		location: 'Yallingup',
@@ -4926,14 +4598,6 @@ var properties = [
 		state: 'WA',
 		latitude: '-31.9545783',
 		longitude: '115.942628890964'
-	},
-	{
-		member: 'Tim Hammond',
-		party: 'Australian Labor Party',
-		location: 'St Kilda',
-		state: 'VIC',
-		latitude: '-37.8638261',
-		longitude: '144.981637'
 	},
 	{
 		member: 'Tim Watts',
@@ -5034,30 +4698,6 @@ var properties = [
 	{
 		member: 'Tony Pasin',
 		party: 'Liberal Party of Australia',
-		location: 'Mount Gambier',
-		state: 'SA',
-		latitude: '-37.8246698',
-		longitude: '140.782006762411'
-	},
-	{
-		member: 'Tony Pasin',
-		party: 'Liberal Party of Australia',
-		location: 'Mount Gambier',
-		state: 'SA',
-		latitude: '-37.8246698',
-		longitude: '140.782006762411'
-	},
-	{
-		member: 'Tony Pasin',
-		party: 'Liberal Party of Australia',
-		location: 'Mount Gambier',
-		state: 'SA',
-		latitude: '-37.8246698',
-		longitude: '140.782006762411'
-	},
-	{
-		member: 'Tony Pasin',
-		party: 'Liberal Party of Australia',
 		location: 'OB Flat',
 		state: 'SA',
 		latitude: '-37.88148515',
@@ -5070,22 +4710,6 @@ var properties = [
 		state: 'SA',
 		latitude: '-34.8266187',
 		longitude: '138.4935504'
-	},
-	{
-		member: 'Tony Pasin',
-		party: 'Liberal Party of Australia',
-		location: 'Adelaide',
-		state: 'SA',
-		latitude: '-34.9281805',
-		longitude: '138.5999312'
-	},
-	{
-		member: 'Tony Pasin',
-		party: 'Liberal Party of Australia',
-		location: 'Adelaide',
-		state: 'SA',
-		latitude: '-34.9281805',
-		longitude: '138.5999312'
 	},
 	{
 		member: 'Tony Pasin',
@@ -5186,26 +4810,10 @@ var properties = [
 	{
 		member: 'Warren Entsch',
 		party: 'Liberal Party of Australia',
-		location: 'Whitfield',
-		state: 'QLD',
-		latitude: '-16.9036475',
-		longitude: '145.7256116'
-	},
-	{
-		member: 'Warren Entsch',
-		party: 'Liberal Party of Australia',
 		location: 'Yorkeys Knob',
 		state: 'QLD',
 		latitude: '-16.802776',
 		longitude: '145.720825'
-	},
-	{
-		member: 'Warren Entsch',
-		party: 'Liberal Party of Australia',
-		location: 'Queanbeyan',
-		state: 'NSW',
-		latitude: '-35.3538856',
-		longitude: '149.2323111'
 	},
 	{
 		member: 'Warren Entsch',

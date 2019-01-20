@@ -18,14 +18,6 @@ var properties = [
 	{
 		member: 'Alan Tudge',
 		party: 'Liberal Party of Australia',
-		location: 'Vermont South',
-		state: 'VIC',
-		latitude: '-37.854386',
-		longitude: '145.1878065'
-	},
-	{
-		member: 'Alan Tudge',
-		party: 'Liberal Party of Australia',
 		location: 'Canberra',
 		state: 'ACT',
 		latitude: '-35.2975906',
@@ -2310,6 +2302,14 @@ var properties = [
 		state: 'NSW',
 		latitude: '-28.2023671',
 		longitude: '153.565526044944'
+	},
+	{
+		member: 'Justine Elliot',
+		party: 'Australian Labor Party',
+		location: 'Toowong',
+		state: 'QLD',
+		latitude: '-27.4857407',
+		longitude: '152.9915943'
 	},
 	{
 		member: 'Justine Keay',

@@ -32,7 +32,6 @@ document.querySelectorAll('input[type=radio][name=party]').forEach(function (ite
 
 document.querySelectorAll('input[type=text][name=member]').forEach(function (item) {
 	item.addEventListener('change', function() {
-		console.log(document.querySelector('input[type=radio][name=party]'))
 		document.querySelector('input[type=radio][name=party]').checked = true;
 		filterParty = '';
 		filterMember = this.value;
@@ -117,9 +116,7 @@ function loadMap() {
 		var mapStates = document.querySelectorAll('.map-state');
 		for (var i = 0; i < mapStates.length; i++) {
 			mapStates[i].addEventListener('mouseover', function () {
-				console.log('mousing over')
 				var info = getStateInfo(this);
-				console.log(info)
 				mapInformation.innerText = info
 			})
 			mapStates[i].addEventListener('mouseout', function () {

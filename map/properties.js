@@ -1954,10 +1954,10 @@ var properties = [
 	{
 		member: 'Jenny Macklin',
 		party: 'Australian Labor Party',
-		location: 'East Ivanhoe, VIC',
+		location: 'Parkville, VIC',
 		state: 'VIC',
-		latitude: '-37.7690312',
-		longitude: '145.0430809'
+		latitude: '-37.7871148',
+		longitude: '144.9515533'
 	},
 	{
 		member: 'Jenny McAllister',

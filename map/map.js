@@ -95,6 +95,30 @@ function loadMap() {
 					d.latitude
 				]) + ')'
 			});
+			
+		setTimeout(function () {
+			var mapStates = document.querySelectorAll('.map-state');
+			for (var i = 0; i < mapStates.length; i++) {
+				mapStates[i].addEventListener('mouseover', function () {
+					var info = getStateInfo(this);
+					mapInformation.innerText = info
+				})
+				mapStates[i].addEventListener('mouseout', function () {
+					mapInformation.innerText = '';
+				})
+			}
+
+			var mapLocations = document.querySelectorAll('.map-location');
+			for (var i = 0; i < mapLocations.length; i++) {
+				mapLocations[i].addEventListener('mouseover', function () {
+					var info = this.attributes['data-info'].value;
+					mapInformation.innerText = info;
+				})
+				mapLocations[i].addEventListener('mouseout', function () {
+					mapInformation.innerText = '';
+				})
+			}
+		}, 300);
 	});
 
 	function zoomed() {
@@ -111,30 +135,6 @@ function loadMap() {
 				]) + ')'
 			});
 	}
-
-	setTimeout(function () {
-		var mapStates = document.querySelectorAll('.map-state');
-		for (var i = 0; i < mapStates.length; i++) {
-			mapStates[i].addEventListener('mouseover', function () {
-				var info = getStateInfo(this);
-				mapInformation.innerText = info
-			})
-			mapStates[i].addEventListener('mouseout', function () {
-				mapInformation.innerText = '';
-			})
-		}
-
-		var mapLocations = document.querySelectorAll('.map-location');
-		for (var i = 0; i < mapLocations.length; i++) {
-			mapLocations[i].addEventListener('mouseover', function () {
-				var info = this.attributes['data-info'].value;
-				mapInformation.innerText = info;
-			})
-			mapLocations[i].addEventListener('mouseout', function () {
-				mapInformation.innerText = '';
-			})
-		}
-	}, 300);
 }
 
 function buildLocations() {

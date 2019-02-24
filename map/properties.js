@@ -3208,6 +3208,14 @@ var properties = [
 		longitude: '151.2334198'
 	},
 	{
+		member: 'Matt Thistlethwaite',
+		party: 'Australian Labor Party',
+		location: 'Matraville, NSW',
+		state: 'NSW',
+		latitude: '-33.9639325',
+		longitude: '151.2334198'
+	},
+	{
 		member: 'Matthew Canavan',
 		party: 'The Nationals',
 		location: 'Macquarie, ACT',

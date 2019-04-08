@@ -104,6 +104,14 @@ var properties = [
 		longitude: '149.1012676'
 	},
 	{
+		member: 'Andrew Broad',
+		party: 'The Nationals',
+		location: 'Red Cliffs, VIC',
+		state: 'VIC',
+		latitude: '-34.33708',
+		longitude: '142.219345646493'
+	},
+	{
 		member: 'Andrew Gee',
 		party: 'The Nationals',
 		location: 'Sydney, NSW',
@@ -2378,22 +2386,6 @@ var properties = [
 	{
 		member: 'Karen Andrews',
 		party: 'Liberal Party of Australia',
-		location: 'Forbes, NSW',
-		state: 'NSW',
-		latitude: '-33.37877205',
-		longitude: '147.953438813101'
-	},
-	{
-		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
-		location: 'Forbes, NSW',
-		state: 'NSW',
-		latitude: '-33.37877205',
-		longitude: '147.953438813101'
-	},
-	{
-		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
 		location: 'Kalgoorlie, WA',
 		state: 'WA',
 		latitude: '-30.7464139',
@@ -2674,14 +2666,6 @@ var properties = [
 	{
 		member: 'Linda Burney',
 		party: 'Australian Labor Party',
-		location: 'Marrickville, NSW',
-		state: 'NSW',
-		latitude: '-33.9103854',
-		longitude: '151.1556908'
-	},
-	{
-		member: 'Linda Burney',
-		party: 'Australian Labor Party',
 		location: 'Cooks Hill, NSW',
 		state: 'NSW',
 		latitude: '-32.9316667',
@@ -2702,6 +2686,14 @@ var properties = [
 		state: 'ACT',
 		latitude: '-35.2975906',
 		longitude: '149.1012676'
+	},
+	{
+		member: 'Linda Burney',
+		party: 'Australian Labor Party',
+		location: 'Marrickville, NSW',
+		state: 'NSW',
+		latitude: '-33.9103854',
+		longitude: '151.1556908'
 	},
 	{
 		member: 'Linda Reynolds',
@@ -3198,14 +3190,6 @@ var properties = [
 		state: 'WA',
 		latitude: '-15.72378',
 		longitude: '127.4283'
-	},
-	{
-		member: 'Matt Thistlethwaite',
-		party: 'Australian Labor Party',
-		location: 'Matraville, NSW',
-		state: 'NSW',
-		latitude: '-33.9639325',
-		longitude: '151.2334198'
 	},
 	{
 		member: 'Matt Thistlethwaite',

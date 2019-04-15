@@ -3872,6 +3872,30 @@ var properties = [
 		longitude: '115.7787989'
 	},
 	{
+		member: 'Raff Ciccone',
+		party: 'Australian Labor Party',
+		location: 'Hawthorn, VIC',
+		state: 'VIC',
+		latitude: '-37.8355533',
+		longitude: '145.055224565243'
+	},
+	{
+		member: 'Raff Ciccone',
+		party: 'Australian Labor Party',
+		location: 'Oakleigh East, VIC',
+		state: 'VIC',
+		latitude: '-37.9039215',
+		longitude: '145.1153403'
+	},
+	{
+		member: 'Raff Ciccone',
+		party: 'Australian Labor Party',
+		location: 'Oakleigh East, VIC',
+		state: 'VIC',
+		latitude: '-37.9039215',
+		longitude: '145.1153403'
+	},
+	{
 		member: 'Rebekha Sharkie',
 		party: 'Centre Alliance',
 		location: 'Birdwood, SA',
@@ -4846,5 +4870,13 @@ var properties = [
 		state: 'QLD',
 		latitude: '-26.6556523',
 		longitude: '153.0946684'
+	},
+	{
+		member: 'Wendy Askew',
+		party: 'Liberal Party of Australia',
+		location: 'Prospect Vale, TAS',
+		state: 'TAS',
+		latitude: '-41.4821578',
+		longitude: '147.1246959'
 	},
 ];

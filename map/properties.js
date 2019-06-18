@@ -153,7 +153,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Thornlands, QLD',
 		state: 'QLD',
 		latitude: '-27.558201',
@@ -161,7 +161,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Mooloolaba, QLD',
 		state: 'QLD',
 		latitude: '-26.6791955',
@@ -169,7 +169,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Canberra, ACT',
 		state: 'ACT',
 		latitude: '-35.2975906',
@@ -177,7 +177,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Thornlands, QLD',
 		state: 'QLD',
 		latitude: '-27.558201',
@@ -185,7 +185,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Thornlands, QLD',
 		state: 'QLD',
 		latitude: '-27.558201',
@@ -193,7 +193,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Thornlands, QLD',
 		state: 'QLD',
 		latitude: '-27.558201',
@@ -201,7 +201,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Laming',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Thornlands, QLD',
 		state: 'QLD',
 		latitude: '-27.558201',
@@ -217,7 +217,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Wallace',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Kelowna, British Columbia, Canada',
 		state: 'British Columbia',
 		latitude: '49.889326',
@@ -225,7 +225,7 @@ var properties = [
 	},
 	{
 		member: 'Andrew Wallace',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Wurtulla, QLD',
 		state: 'QLD',
 		latitude: '-26.7568243',
@@ -689,7 +689,7 @@ var properties = [
 	},
 	{
 		member: 'Bert van Manen',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Cornubia, QLD',
 		state: 'QLD',
 		latitude: '-27.6687965',
@@ -1433,7 +1433,7 @@ var properties = [
 	},
 	{
 		member: 'David Littleproud',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Buddina, QLD',
 		state: 'QLD',
 		latitude: '-26.6938877',
@@ -1441,7 +1441,7 @@ var properties = [
 	},
 	{
 		member: 'David Littleproud',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Warwick, QLD',
 		state: 'QLD',
 		latitude: '-28.2165303',
@@ -1449,7 +1449,7 @@ var properties = [
 	},
 	{
 		member: 'David Littleproud',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Warwick, QLD',
 		state: 'QLD',
 		latitude: '-28.2165303',
@@ -2073,7 +2073,7 @@ var properties = [
 	},
 	{
 		member: 'John McVeigh',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Prince Henry Heights, Toowoomba, QLD',
 		state: 'Toowoomba',
 		latitude: '-27.554007',
@@ -2081,7 +2081,7 @@ var properties = [
 	},
 	{
 		member: 'John McVeigh',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Prince Henry Heights, Toowoomba, QLD',
 		state: 'Toowoomba',
 		latitude: '-27.554007',
@@ -2337,7 +2337,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Mudgeeraba, QLD',
 		state: 'QLD',
 		latitude: '-28.0804969',
@@ -2345,7 +2345,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Palm Beach, QLD',
 		state: 'QLD',
 		latitude: '-28.1194259',
@@ -2353,7 +2353,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Ayr, QLD',
 		state: 'QLD',
 		latitude: '-19.5758597',
@@ -2361,7 +2361,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Deniliquin, NSW',
 		state: 'NSW',
 		latitude: '-35.5302183',
@@ -2369,7 +2369,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Deniliquin, NSW',
 		state: 'NSW',
 		latitude: '-35.5302183',
@@ -2377,7 +2377,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Deniliquin, NSW',
 		state: 'NSW',
 		latitude: '-35.5302183',
@@ -2385,7 +2385,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Kalgoorlie, WA',
 		state: 'WA',
 		latitude: '-30.7464139',
@@ -2393,7 +2393,7 @@ var properties = [
 	},
 	{
 		member: 'Karen Andrews',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Clear Island Waters, QLD',
 		state: 'QLD',
 		latitude: '-28.0437627',
@@ -2441,7 +2441,7 @@ var properties = [
 	},
 	{
 		member: 'Keith Pitt',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Branyan, QLD',
 		state: 'QLD',
 		latitude: '-24.9145404',
@@ -2449,7 +2449,7 @@ var properties = [
 	},
 	{
 		member: 'Keith Pitt',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Branyan, QLD',
 		state: 'QLD',
 		latitude: '-24.9145404',
@@ -2457,7 +2457,7 @@ var properties = [
 	},
 	{
 		member: 'Keith Pitt',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Kingston, ACT',
 		state: 'ACT',
 		latitude: '-35.3152303',
@@ -2465,7 +2465,7 @@ var properties = [
 	},
 	{
 		member: 'Keith Pitt',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Woodgate, QLD',
 		state: 'QLD',
 		latitude: '-25.083334',
@@ -2481,7 +2481,7 @@ var properties = [
 	},
 	{
 		member: 'Ken O\'Dowd',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Gladstone, QLD',
 		state: 'QLD',
 		latitude: '-23.8431724',
@@ -2489,7 +2489,7 @@ var properties = [
 	},
 	{
 		member: 'Ken O\'Dowd',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Gladstone, QLD',
 		state: 'QLD',
 		latitude: '-23.8431724',
@@ -2769,7 +2769,7 @@ var properties = [
 	},
 	{
 		member: 'Llew O\'Brien',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Chatsworth, QLD',
 		state: 'QLD',
 		latitude: '-26.1444435',
@@ -2905,7 +2905,7 @@ var properties = [
 	},
 	{
 		member: 'Luke Howarth',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Shorncliffe, QLD',
 		state: 'QLD',
 		latitude: '-27.3260995',
@@ -2913,7 +2913,7 @@ var properties = [
 	},
 	{
 		member: 'Luke Howarth',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Clontarf, QLD',
 		state: 'QLD',
 		latitude: '-27.2503945',
@@ -2921,7 +2921,7 @@ var properties = [
 	},
 	{
 		member: 'Luke Howarth',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Pinkenba, QLD',
 		state: 'QLD',
 		latitude: '-27.4221287',
@@ -3393,7 +3393,7 @@ var properties = [
 	},
 	{
 		member: 'Michelle Landry',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Lammermoor, QLD',
 		state: 'QLD',
 		latitude: '-23.1617187',
@@ -3401,7 +3401,7 @@ var properties = [
 	},
 	{
 		member: 'Michelle Landry',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Yeppoon, QLD',
 		state: 'QLD',
 		latitude: '-23.1348035',
@@ -3409,7 +3409,7 @@ var properties = [
 	},
 	{
 		member: 'Michelle Landry',
-		party: 'The Nationals',
+		party: 'Liberal National Party of Queensland',
 		location: 'Griffith, ACT',
 		state: 'ACT',
 		latitude: '-35.3253499',
@@ -3753,7 +3753,7 @@ var properties = [
 	},
 	{
 		member: 'Peter Dutton',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Kingston, ACT',
 		state: 'ACT',
 		latitude: '-35.3152303',
@@ -3761,7 +3761,7 @@ var properties = [
 	},
 	{
 		member: 'Peter Dutton',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Moreton Island, QLD',
 		state: 'QLD',
 		latitude: '-27.19264975',
@@ -3769,7 +3769,7 @@ var properties = [
 	},
 	{
 		member: 'Peter Dutton',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Palm Beach, QLD',
 		state: 'QLD',
 		latitude: '-28.1194259',
@@ -3777,7 +3777,7 @@ var properties = [
 	},
 	{
 		member: 'Peter Dutton',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Spring Hill, QLD',
 		state: 'QLD',
 		latitude: '-23.8772998',
@@ -3785,7 +3785,7 @@ var properties = [
 	},
 	{
 		member: 'Peter Dutton',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Camp Mountain, QLD',
 		state: 'QLD',
 		latitude: '-27.4118007',
@@ -3793,7 +3793,7 @@ var properties = [
 	},
 	{
 		member: 'Peter Dutton',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Townsville, QLD',
 		state: 'QLD',
 		latitude: '-19.2569391',
@@ -4033,7 +4033,7 @@ var properties = [
 	},
 	{
 		member: 'Ross Vasta',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Carindale, QLD',
 		state: 'QLD',
 		latitude: '-27.5032764',
@@ -4041,7 +4041,7 @@ var properties = [
 	},
 	{
 		member: 'Ross Vasta',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Brisbane, QLD',
 		state: 'QLD',
 		latitude: '-27.4689682',
@@ -4049,7 +4049,7 @@ var properties = [
 	},
 	{
 		member: 'Ross Vasta',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Manly, QLD',
 		state: 'QLD',
 		latitude: '-27.4547329',
@@ -4057,7 +4057,7 @@ var properties = [
 	},
 	{
 		member: 'Ross Vasta',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Brisbane, QLD',
 		state: 'QLD',
 		latitude: '-27.4689682',
@@ -4065,7 +4065,7 @@ var properties = [
 	},
 	{
 		member: 'Ross Vasta',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Victoria',
 		state: '',
 		latitude: '-36.5986096',
@@ -4161,7 +4161,7 @@ var properties = [
 	},
 	{
 		member: 'Scott Buchholz',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Barton, ACT',
 		state: 'ACT',
 		latitude: '-35.3072631',
@@ -4169,7 +4169,7 @@ var properties = [
 	},
 	{
 		member: 'Scott Buchholz',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Blackwater, QLD',
 		state: 'QLD',
 		latitude: '-23.5812001',
@@ -4377,7 +4377,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Nerang, QLD',
 		state: 'QLD',
 		latitude: '-27.9896566',
@@ -4385,7 +4385,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Grafton, NSW',
 		state: 'NSW',
 		latitude: '-29.69125',
@@ -4393,7 +4393,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Grafton, NSW',
 		state: 'NSW',
 		latitude: '-29.69125',
@@ -4401,7 +4401,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Grafton, NSW',
 		state: 'NSW',
 		latitude: '-29.69125',
@@ -4409,7 +4409,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Ipswich, QLD',
 		state: 'QLD',
 		latitude: '-27.6160135',
@@ -4417,7 +4417,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Ipswich, QLD',
 		state: 'QLD',
 		latitude: '-27.6160135',
@@ -4425,7 +4425,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Maryborough, QLD',
 		state: 'QLD',
 		latitude: '-25.537583',
@@ -4433,7 +4433,7 @@ var properties = [
 	},
 	{
 		member: 'Stuart Robert',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Edmonton, QLD',
 		state: 'QLD',
 		latitude: '-17.0175322',
@@ -4561,7 +4561,7 @@ var properties = [
 	},
 	{
 		member: 'Ted O\'Brien',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Buderim, QLD',
 		state: 'QLD',
 		latitude: '-26.6858829',
@@ -4569,7 +4569,7 @@ var properties = [
 	},
 	{
 		member: 'Ted O\'Brien',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Newstead, QLD',
 		state: 'QLD',
 		latitude: '-27.4453279',
@@ -4577,7 +4577,7 @@ var properties = [
 	},
 	{
 		member: 'Ted O\'Brien',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Maroochydore, QLD',
 		state: 'QLD',
 		latitude: '-26.6556523',
@@ -4809,7 +4809,7 @@ var properties = [
 	},
 	{
 		member: 'Trevor Evans',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Windsor, QLD',
 		state: 'QLD',
 		latitude: '-27.4378754',
@@ -4817,7 +4817,7 @@ var properties = [
 	},
 	{
 		member: 'Warren Entsch',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Malanda, QLD',
 		state: 'QLD',
 		latitude: '-17.3522204',
@@ -4825,7 +4825,7 @@ var properties = [
 	},
 	{
 		member: 'Warren Entsch',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Yorkeys Knob, QLD',
 		state: 'QLD',
 		latitude: '-16.802776',
@@ -4833,7 +4833,7 @@ var properties = [
 	},
 	{
 		member: 'Warren Entsch',
-		party: 'Liberal Party of Australia',
+		party: 'Liberal National Party of Queensland',
 		location: 'Mooroobool, QLD',
 		state: 'QLD',
 		latitude: '-16.9355237',

@@ -92,22 +92,22 @@ Carmen Lawrence,Representative,,Fremantle,200,Western Australia,Australian Labor
 Carol Brown,Senator,Current,,0,Tasmania,Australian Labor Party,,,,,,207100,19/7/1963,F,,Carol_Brown_(politician),F49
 Catherine King,Representative,Current,Ballarat,4322,Victoria,Australian Labor Party,,,,,,207100,2/6/1966,F,,Catherine_King_(politician),00AMR
 Cathy McGowan,Representative,,Indi,29187,Victoria,Independent,,,,,,0,29/11/1953,F,,Cathy_McGowan_(politician),123674
-Cathy O'Toole,Representative,Current,Herbert,941,Queensland,Australian Labor Party,,,,,,207100,30/8/1956,F,,Cathy_O'Toole,249908
+Cathy O'Toole,Representative,,Herbert,941,Queensland,Australian Labor Party,,,,,,0,30/8/1956,F,,Cathy_O'Toole,249908
 Catryna Bilyk,Senator,Current,,0,Tasmania,Australian Labor Party,"Chair of Standing Committee of Senators' Interests|Deputy Chair of Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity",,,"Chair of a Senate Legislative and General Purpose Standing Committee ($22,790)|Deputy Chair of a Joint Statutory Committee or Joint Standing Committee, Not Otherwise Specified ($11,390)",34180,207100,7/2/1959,F,,Catryna_Bilyk,HZB
 Chris Back,Senator,,,0,Western Australia,Liberal Party of Australia,,,,,,0,11/2/1950,M,,Chris_Back,J7Q
 Chris Bowen,Representative,Current,McMahon,168,New South Wales,Australian Labor Party,,,,,,207100,17/1/1973,M,,Chris_Bowen,DZS
-Chris Crewther,Representative,Current,Dunkley,152,Victoria,Liberal Party of Australia,,,,,,207100,6/8/1983,M,,Chris_Crewther,248969
+Chris Crewther,Representative,,Dunkley,152,Victoria,Liberal Party of Australia,,,,,,0,6/8/1983,M,,Chris_Crewther,248969
 Chris Evans,Senator,,,0,Western Australia,Australian Labor Party,,,,,,0,14/5/1958,M,Life Gold Pass Holder,Chris_Evans_(Australian_politician),AX5
 Chris Hayes,Representative,Current,Fowler,60,New South Wales,Australian Labor Party,"Chief Opposition Whip","Chief Opposition Whip in the House of Representatives ($47,640)",47640,,,254740,17/7/1955,M,,Chris_Hayes_(politician),ECV
 Chris Ketter,Senator,Current,,0,Queensland,Australian Labor Party,"Deputy Opposition Whip in the Senate|Chair of Economics References Committee|Deputy Chair of Economics Legislation Committee","Deputy Opposition Whip in the Senate ($10,360)",10360,"Chair of a Senate Legislative and General Purpose Standing Committee ($22,790)",22790,217460,12/2/1961,M,,Chris_Ketter,244247
 Chris Pearce,Representative,,Aston,96,Victoria,Liberal Party of Australia,,,,,,0,1/3/1963,M,Severance and Post-Retirement Traveller,Chris_Pearce_(politician),A8W
 Chris Schacht,Senator,,,0,South Australia,Australian Labor Party,,,,,,0,6/12/1946,M,Life Gold Pass Holder,Chris_Schacht,4J4
 Chris Trevor,Representative,,Flynn,314305,Queensland,Australian Labor Party,,,,,,0,23/6/1961,M,Severance Traveller,Chris_Trevor,HVU
-Christian Porter,Representative,Current,Pearce,13250,Western Australia,Liberal Party of Australia,"Attorney-General|Minister for Industrial Relations","Other Ministers in Cabinet ($150,150)",300300,,,357250,11/7/1970,M,,Christian_Porter,208884
+Christian Porter,Representative,Current,Pearce,13250,Western Australia,Liberal Party of Australia,"Leader of the House|Attorney-General|Minister for Industrial Relations","Leader of the House ($155,330)",455630,,,362430,11/7/1970,M,,Christian_Porter,208884
 Christine Milne,Senator,,,0,Tasmania,Australian Greens,,,,,,0,14/5/1953,F,Severance and Post Retirement Traveller,Christine_Milne,ka5
 Christopher Ellison,Senator,,,0,Western Australia,Liberal Party of Australia,,,,,,0,15/6/1954,M,Life Gold Pass Holder,Chris_Ellison,9X5
 Christopher Hurford,Representative,,Adelaide,0,South Australia,Australian Labor Party,,,,,,0,,,Life Gold Pass Holder,Chris_Hurford,
-Christopher Pyne,Representative,Current,Sturt,97,South Australia,Liberal Party of Australia,"Leader of the House|Minister for Defence","Leader of the House ($155,330)",274420,,,362430,13/8/1967,M,,Christopher_Pyne,9V5
+Christopher Pyne,Representative,,Sturt,97,South Australia,Liberal Party of Australia,"Leader of the House|Minister for Defence","Leader of the House ($155,330)",274420,,,0,13/8/1967,M,,Christopher_Pyne,9V5
 Claire Bowen,,,,0,,,,,,,,0,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
 Claire Moore,Senator,Current,,0,Queensland,Australian Labor Party,,,,,,207100,19/2/1956,F,,Claire_Moore,00AOQ
 Clare O'Neil,Representative,Current,Hotham,83,Victoria,Australian Labor Party,,,,,,207100,12/9/1980,F,,Clare_O'Neil,140590
@@ -120,7 +120,7 @@ Craig Emerson,Representative,,Rankin,131,Queensland,Australian Labor Party,,,,,,
 Craig Kelly,Representative,Current,Hughes,369,New South Wales,Liberal Party of Australia,"Chair of Parliamentary Joint Committee on Law Enforcement",,,"Chair of a Joint Statutory Committee or Joint Standing Committee, Not Otherwise Specified ($22,790)",22790,207100,29/9/1963,M,,Craig_Kelly_(politician),99931
 Craig Laundy,Representative,,Reid,55,New South Wales,Liberal Party of Australia,,,,,,0,16/2/1971,M,,Craig_Laundy,247130
 Craig Thomson,Representative,,Dobell,775,New South Wales,Independent,,,,,,0,31/7/1964,M,Severance and Post Retirement Traveller,Craig_Thomson_(politician),HVZ
-Damian Drum,Representative,Current,Murray,19500,Victoria,The Nationals,"Nationals Whip","Whip in the House of Representatives of a Minority Party With At Least 5, and No More Than 10, Members in the House ($18,640)",18640,,,225740,28/7/1960,M,,Damian_Drum,56430
+Damian Drum,Representative,Current,Murray,19500,Victoria,The Nationals,"Chief Nationals Whip","Whip in the House of Representatives of a Minority Party With At Least 5, and No More Than 10, Members in the House ($18,640)",18640,,,225740,28/7/1960,M,,Damian_Drum,56430
 Damian Hale,Representative,,Solomon,326,Northern Territory,Australian Labor Party,,,,,,0,28/12/1969,M,Severance Traveller,Damian_Hale,HWD
 Dan Tehan,Representative,Current,Wannon,33419,Victoria,Liberal Party of Australia,"Minister for Education","Other Ministers in Cabinet ($150,150)",150150,,,357250,27/1/1968,M,,Dan_Tehan,210911
 Dana Wortley,Senator,,,0,South Australia,Australian Labor Party,,,,,,0,1959,F,Severance and Post-Retirement Traveller,Dana_Wortley,e6c
@@ -288,7 +288,7 @@ Judi Moylan,Representative,,Pearce,14401,Western Australia,Liberal Party of Aust
 Judith Adams,Senator,,,0,Western Australia,Liberal Party of Australia,,,,,,0,11/4/1943,F,,Judith_Adams,e4q
 Judith Troeth,Senator,,,0,Victoria,Liberal Party of Australia,,,,,,0,3/8/1940,F,Severance and Post Retirement Traveller,Judith_Troeth,gx5
 Judy Holding,,,,0,,,,,,,,0,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
-Julia Banks,Representative,Current,Chisholm,65,Victoria,Independent,,,,,,207100,18/9/1962,F,,Julia_Banks,18661
+Julia Banks,Representative,,Chisholm,65,Victoria,Independent,,,,,,0,18/9/1962,F,,Julia_Banks,18661
 Julia Gillard,Representative,,Lalor,991,Victoria,Australian Labor Party,,,,,,0,29/9/1961,F,Former Prime Minister,Julia_Gillard,83L
 Julia Irwin,Representative,,Fowler,247,New South Wales,Australian Labor Party,,,,,,0,8/11/1951,F,Severance and Post-Retirement Traveller,Julia_Irwin,83Z
 Julian Hill,Representative,Current,Bruce,95,Victoria,Australian Labor Party,,,,,,207100,4/6/1973,M,,Julian_Hill,86256
@@ -310,7 +310,7 @@ Kay Elson,Representative,,Forde,5202,Queensland,Liberal Party of Australia,,,,,,
 Kay Hull,Representative,,Riverina,42201,New South Wales,The Nationals,"Chief Nationals Whip",,,,,0,3/2/1954,F,Severance and Post-Retirement Traveller,Kay_Hull,83O
 Kay Patterson,Senator,,,0,Victoria,Liberal Party of Australia,,,,,,0,21/11/1944,F,Life Gold Pass Holder,Kay_Patterson,LI4
 Keith Pitt,Representative,Current,Hinkler,3818,Queensland,Liberal National Party of Queensland,,,,,,207100,31/8/1969,M,,Keith_Pitt,148150
-Kelly O'Dwyer,Representative,Current,Higgins,41,Victoria,Liberal Party of Australia,"Minister for Women|Minister for Jobs and Industrial Relations","Ministers Not in Cabinet ($119,090)",238180,,,326190,31/3/1977,F,,Kelly_O'Dwyer,LKU
+Kelly O'Dwyer,Representative,,Higgins,41,Victoria,Liberal Party of Australia,"Minister for Women|Minister for Jobs and Industrial Relations","Ministers Not in Cabinet ($119,090)",238180,,,0,31/3/1977,F,,Kelly_O'Dwyer,LKU
 Kelvin Thomson,Representative,,Wills,57,Victoria,Australian Labor Party,,,,,,0,1/5/1955,M,Life Gold Pass Holder,Kelvin_Thomson,UK6
 Ken Aldred,Representative,,Deakin,0,Victoria,Liberal Party of Australia,,,,,,0,,,Life Gold Pass Holder,Ken_Aldred,
 Ken O'Dowd,Representative,Current,Flynn,132824,Queensland,Liberal National Party of Queensland,"Deputy Nationals Whip","Deputy Whip in the House of Representatives of a Minority Party With At Least 5, and No More Than 10, Members in the House ($4,150)",4150,,,211250,30/6/1950,M,,Ken_O'Dowd,139441
@@ -321,9 +321,9 @@ Kerry Bartlett,Representative,,Macquarie,4197,New South Wales,Liberal Party of A
 Kerry O'Brien,Senator,,,0,Tasmania,Australian Labor Party,,,,,,0,19/7/1951,,Severance and Post Retirement Traveller,Kerry_O'Brien_(politician),8O6
 Kerry Rea,Representative,,Bonner,358,Queensland,Australian Labor Party,,,,,,0,16/4/1963,F,Severance Traveller,Kerry_Rea,HVR
 Kerry Sibraa,Senator,,,0,New South Wales,Australian Labor Party,,,,,,0,,,Life Gold Pass Holder,Kerry_Sibraa,
-Kerryn Phelps,Representative,Current,Wentworth,38,New South Wales,Independent,,,,,,207100,14/12/1957,F,,Kerryn_Phelps,008Z0
+Kerryn Phelps,Representative,,Wentworth,38,New South Wales,Independent,,,,,,0,14/12/1957,F,,Kerryn_Phelps,008Z0
 Kevin Andrews,Representative,Current,Menzies,184,Victoria,Liberal Party of Australia,"Chair of Joint Standing Committee on the National Disability Insurance Scheme",,,"Chair of a Joint Statutory Committee or Joint Standing Committee, Not Otherwise Specified ($22,790)",22790,207100,9/11/1955,M,,Kevin_Andrews_(Australian_politician),HK5
-Kevin Hogan,Representative,Current,Page,19342,New South Wales,The Nationals,"Deputy Speaker","Deputy Speaker in the House of Representatives ($41,420)",41420,,,248520,11/8/1963,M,,Kevin_Hogan,218019
+Kevin Hogan,Representative,Current,Page,19342,New South Wales,The Nationals,,,,,,207100,11/8/1963,M,,Kevin_Hogan,218019
 Kevin Rudd,Representative,,Griffith,60,Queensland,Australian Labor Party,,,,,,0,21/9/1957,M,Former Prime Minister,Kevin_Rudd,83T
 Kim Beazley,Representative,,Brand,430,Western Australia,Australian Labor Party,,,,,,0,14/12/1948,M,Life Gold Pass Holder,Kim_Beazley,PE4
 Kim Carr,Senator,Current,,0,Victoria,Australian Labor Party,,,,,,207100,2/7/1955,M,,Kim_Carr,AW5
@@ -402,7 +402,7 @@ Michael Duffy,Representative,,Holt,0,Victoria,Australian Labor Party,,,,,,0,,,Li
 Michael Forshaw,Senator,,,0,New South Wales,Australian Labor Party,,,,,,0,11/1/1952,M,Severance and Post Retirement Traveller,Michael_Forshaw,656
 Michael Hatton,Representative,,Blaxland,54,New South Wales,Australian Labor Party,,,,,,0,25/8/1951,M,Severance Traveller,Michael_Hatton,LN6
 Michael Johnson,Representative,,Ryan,415,Queensland,Independent,,,,,,0,31/1/1970,M,Severance and Post-Retirement Traveller,Michael_Johnson_(Australian_politician),00AMX
-Michael Keenan,Representative,Current,Stirling,74,Western Australia,Liberal Party of Australia,"Minister for Human Services and Digital Transformation","Ministers Not in Cabinet ($119,090)",119090,,,326190,19/3/1972,M,,Michael_Keenan,E0J
+Michael Keenan,Representative,,Stirling,74,Western Australia,Liberal Party of Australia,"Minister for Human Services and Digital Transformation","Ministers Not in Cabinet ($119,090)",119090,,,0,19/3/1972,M,,Michael_Keenan,E0J
 Michael Lee,Representative,,Dobell,931,New South Wales,Australian Labor Party,,,,,,0,24/3/1957,M,Life Gold Pass Holder,Michael_Lee_(Australian_politician),MG4
 Michael Mackellar,Representative,,Warringah,0,New South Wales,Liberal Party of Australia,,,,,,0,,,Life Gold Pass Holder,Michael_MacKellar,
 Michael McCormack,Representative,Current,Riverina,48988,New South Wales,The Nationals,"Leader of The Nationals|Deputy Prime Minister|Minister for Infrastructure,Transport and Regional Development","Deputy Prime Minister ($217,460)",460810,,,424560,2/8/1964,M,,Michael_McCormack_(Australian_politician),219646
@@ -437,7 +437,7 @@ Nick Xenophon,Senator,,,0,South Australia,Nick Xenophon Team,,,,,,0,29/1/1959,M,
 Nickolas Varvaris,Representative,,Barton,44,New South Wales,Liberal Party of Australia,,,,,,0,25/5/1974,M,Post Retirement Traveller,Nickolas_Varvaris,250077
 Nicola Roxon,Representative,,Gellibrand,91,Victoria,Australian Labor Party,,,,,,0,1/4/1967,F,Life Gold Pass Holder,Nicola_Roxon,83K
 Nicolle Flint,Representative,Current,Boothby,115,South Australia,Liberal Party of Australia,"Government Whip","Whip in the House of Representatives of a Government Party With More Than 10 Members in the House ($26,930)",26930,,,234030,15/7/1978,F,,Nicolle_Flint,245550
-Nigel Scullion,Senator,Current,,0,Northern Territory,Country Liberal Party,"Minister for Indigenous Affairs|Leader of The Nationals in the Senate","Ministers Not in Cabinet ($119,090)",212290,,,326190,4/5/1956,M,,Nigel_Scullion,00AOM
+Nigel Scullion,Senator,,,0,Northern Territory,Country Liberal Party,"Leader of The Nationals in the Senate","Ministers Not in Cabinet ($119,090)",212290,,,0,4/5/1956,M,,Nigel_Scullion,00AOM
 Noel Hicks,Representative,,Riverina,0,New South Wales,The Nationals,,,,,,0,,,Life Gold Pass Holder,Noel_Hicks,
 Nola Marino,Representative,Current,Forrest,11072,Western Australia,Liberal Party of Australia,"Assistant Minister for Regional Development and Territories","Parliamentary Secretaries ($51,780)",51780,,,258880,18/2/1954,F,,Nola_Marino,HWP
 Nova Peris,Senator,,,0,Northern Territory,Australian Labor Party,,,,,,0,25/2/1971,F,Post Retirement Traveller,Nova_Peris,CDK
@@ -511,7 +511,7 @@ Ronald Boswell,Senator,,,0,Queensland,The Nationals,,,,,,0,9/12/1940,M,Life Gold
 Ros Kelly,Representative,,Canberra,0,Australian Capital Territory,Australian Labor Party,,,,,,0,,,Life Gold Pass Holder,Ros_Kelly,
 Rosemary Crowley,Senator,,,0,South Australia,Australian Labor Party,,,,,,0,30/7/1938,F,Life Gold Pass Holder,Rosemary_Crowley,ZF4
 Ross Free,Representative,,Lindsay,0,New South Wales,Australian Labor Party,,,,,,0,,,Life Gold Pass Holder,Ross_Free,
-Ross Hart,Representative,Current,Bass,7975,Tasmania,Australian Labor Party,,,,,,207100,4/6/1960,M,,Ross_Hart,263070
+Ross Hart,Representative,,Bass,7975,Tasmania,Australian Labor Party,,,,,,0,4/6/1960,M,,Ross_Hart,263070
 Ross Lightfoot,Senator,,,0,Western Australia,Liberal Party of Australia,,,,,,0,11/8/1936,M,Severance and Post-Retirement Traveller,Ross_Lightfoot,WP6
 Ross Vasta,Representative,Current,Bonner,374,Queensland,Liberal National Party of Queensland,,,,,,207100,8/10/1966,M,,Ross_Vasta,E0D
 Rowan Ramsey,Representative,Current,Grey,908595,South Australia,Liberal Party of Australia,"Government Whip|Chair of Joint Standing Committee on the Parliamentary Library","Whip in the House of Representatives of a Government Party With More Than 10 Members in the House ($26,930)",26930,"Chair of a Joint Statutory Committee or Joint Standing Committee, Not Otherwise Specified ($22,790)",22790,234030,4/8/1956,M,,Rowan_Ramsey,HWS
@@ -523,7 +523,7 @@ Sam Dastyari,Senator,,,0,New South Wales,Australian Labor Party,,,,,,0,28/7/1983
 Sandra Colhoun,,,,0,,,,,,,,0,,,Surviving Spouse or De Facto Partner of Life Gold Pass Holder,,
 Sandy Macdonald,Senator,,,0,New South Wales,The Nationals,,,,,,0,10/5/1954,M,Severance and Post-Retirement Traveller,Sandy_Macdonald,CX5
 Sarah Hanson-Young,Senator,Current,,0,South Australia,Australian Greens,"Chair of Select Committee into Fair Dinkum Power",,,"Chair of a Joint Select Committee or Select Committee in the Senate or the House of Representatives ($22,790)",22790,207100,23/12/1981,F,,Sarah_Hanson-Young,I0U
-Sarah Henderson,Representative,Current,Corangamite,5441,Victoria,Liberal Party of Australia,"Assistant Minister for Social Services, Housing and Disability Services","Parliamentary Secretaries ($51,780)",51780,,,258880,4/4/1964,F,,Sarah_Henderson,ZN4
+Sarah Henderson,Representative,,Corangamite,5441,Victoria,Liberal Party of Australia,,"Parliamentary Secretaries ($51,780)",51780,,,0,4/4/1964,F,,Sarah_Henderson,ZN4
 Scott Buchholz,Representative,Current,Wright,7577,Queensland,Liberal National Party of Queensland,"Assistant Minister for Road Safety and Freight Transport","Parliamentary Secretaries ($51,780)",51780,,,258880,27/3/1968,M,,Scott_Buchholz,230531
 Scott Ludlam,Senator,,,0,Western Australia,Australian Greens,"Co-Deputy Leader of the Australian Greens",,,,,0,10/1/1970,M,,Scott_Ludlam,I07
 Scott Morrison,Representative,Current,Cook,94,New South Wales,Liberal Party of Australia,"Prime Minister|Minister for the Public Service","Prime Minister ($331,360)",481510,,,538460,13/5/1968,M,,Scott_Morrison,E3L
@@ -578,7 +578,7 @@ Tim Storer,Senator,Current,,0,South Australia,Independent,,,,,,207100,24/10/1969
 Tim Watts,Representative,Current,Gellibrand,124,Victoria,Australian Labor Party,,,,,,207100,8/6/1982,M,,Tim_Watts_(politician),193430
 Tim Wilson,Representative,Current,Goldstein,50,Victoria,Liberal Party of Australia,,,,,,207100,12/3/1980,M,,Tim_Wilson_(Australian_politician),IMW
 Tom Uren,Representative,,Reid,0,New South Wales,Australian Labor Party,,,,,,0,,,Life Gold Pass Holder,Tom_Uren,
-Tony Abbott,Representative,Current,Warringah,68,New South Wales,Liberal Party of Australia,,,,,,207100,4/11/1957,M,,Tony_Abbott,EZ5
+Tony Abbott,Representative,,Warringah,68,New South Wales,Liberal Party of Australia,,,,,,0,4/11/1957,M,,Tony_Abbott,EZ5
 Tony Burke,Representative,Current,Watson,47,New South Wales,Australian Labor Party,"Manager of Opposition Business",,,,,207100,4/11/1969,M,,Tony_Burke,DYW
 Tony Crook,Representative,,O'Connor,908954,Western Australia,Independent,,,,,,0,23/6/1959,M,Severance and Post Retirement Traveller,Tony_Crook_(politician),M3K
 Tony Pasin,Representative,Current,Barker,65206,South Australia,Liberal Party of Australia,,,,,,207100,1/10/1977,M,,Tony_Pasin,240756

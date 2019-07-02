@@ -1025,7 +1025,7 @@ var properties = [
 	},
 	{
 		member: 'Cory Bernardi',
-		party: 'Australian Conservatives',
+		party: 'Independent',
 		location: 'Griffith, ACT',
 		state: 'ACT',
 		latitude: '-35.3253499',
